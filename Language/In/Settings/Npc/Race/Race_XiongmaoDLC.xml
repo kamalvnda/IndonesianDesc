@@ -1,0 +1,36 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGPanda">
+			<DisplayName>Panda Yaoguai</DisplayName>
+			<Desc>Hewan Berubah Menjadi Yaogua Karena Kecerdasan yang Bangkit: Panda Yaoguai</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="Panda">
+			<DisplayName>Panda</DisplayName>
+			<Desc>Hewan Biasa: Panda</Desc>
+			<TalkBefore>*merengek*</TalkBefore>
+			<TalkAfter>*merengek*</TalkAfter>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYPanda">
+			<DisplayName>Monster Panda</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Panda</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="LsPandaXian">
+			<DisplayName>Xianxian</DisplayName>
+			<Desc>Divine Panda Xianxian adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>*merengek*</TalkBefore>
+			<TalkAfter>*merengek*</TalkAfter>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<DisplayName>Xiu Xiu</DisplayName>
+			<Desc>Divine Panda Xiuxiu adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>*merengek*</TalkBefore>
+			<TalkAfter>*merengek*</TalkAfter>
+		</Text>
+	</List>
+</Texts>
