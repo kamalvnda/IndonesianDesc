@@ -1,0 +1,336 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_MiBao_WuDuZhuXianSword" sParam="Item">
+			<ThingName>Venombane</ThingName>
+			<Desc>Artefak jahat seperti yang tercatat dalam Buku Seratus Racun. Pertama, Inkubasi Pedang dibentuk dengan mencampurkan sembilan Phoenixwood dengan sejumlah Beast Blood yang cocok dengan tiga puluh enam bintang surgawi. Kemudian diperlukan lima Roh Primordial yang sangat beracun dari Iblis Ular untuk membuatnya menjadi produk akhir. Saat menyerang seseorang dengan pedang ini, hembusan anginnya yang berbisa bahkan dapat menembus Qi Barrier seseorang dan menyebabkan kerusakan pada musuh secara langsung.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 5 Snake Demons while carrying this item.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
+			<ThingName>Immortal Slayer</ThingName>
+			<Desc>Teknik pedang kuno diturunkan dari Sekte Wutai di masa lalu. Itu dibuat dengan terlebih dahulu melebur sepuluh Kristal Roh bersama dengan Mutiara Jiwa untuk membentuk Inkubasi Pedang, dan kemudian mengorbankan Berkah dari seratus makhluk hidup ke dalamnya. Setiap kali pedang digunakan, Berkah dan kekuatannya akan meningkat secara bertahap, hingga diresapi Qi lagi.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 100 living beings while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShiErShaShenMoLingSha" sParam="Item">
+			<ThingName>Sand of Destruction</ThingName>
+			<Desc>Artefak ganas yang tercatat dalam Buku Seratus Racun. Itu dibuat dengan pertama-tama mencampurkan ribuan pon Bubuk Igneocopper dengan lima Cairan Roh dan meraciknya ke dalam sekantong kecil Bubuk Roh, kemudian mengorbankan dua belas makhluk hidup dengan tingkat kultivasi Roh Primordial ke dalamnya untuk memicu keganasan. Dengan menggunakan artefak ini, seseorang dapat mencemari artefak lawannya sehingga tidak dapat digunakan dalam jangka waktu tertentu.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 12 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 12 attacks on a same artifact, it can disable the target for a certain length of time corresponding to its tier.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianMoHuaXueShenDao" sParam="Item">
+			<ThingName>Bloodsucker</ThingName>
+			<Desc>Artefak jahat dari alam Iblis. Pertama, ribuan pon esensi Igneocopper dimurnikan menjadi inkubasi. Maka diperlukan sari Yang primordial dari 27 makhluk hidup laki-laki untuk membentuk ruhnya. Saat menggunakan artefak ini, semakin rendah Kesehatan seseorang, semakin tinggi kekuatan artefak tersebut.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 27 male living beings while carrying this rare incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 1% Health lower, Artifact Power is increased by 5%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YinHunZhu" sParam="Item">
+			<ThingName>Vortex Orb</ThingName>
+			<Desc>Artefak Warisan Rahasia yang diturunkan dari sekolah iblis kuno Pencari Master Darah. Itu dibuat dengan menggabungkan 9 Mutiara Jiwa sambil memanfaatkan dendam sebagai katalis untuk membentuk satu bola kecil, dan kemudian memanfaatkan kehidupan 36 makhluk hidup dengan tingkat budidaya Roh Primordial. Dengan membunuh menggunakan bola ini, seseorang secara bertahap dapat memicu keganasan di dalamnya. Setiap orang yang terbunuh akan meningkatkan kekuatannya sebesar 10%, hingga tumpukan maksimum 36. Namun, satu hari tanpa darah dan ia akan kembali tertidur.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 36 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Each living being killed will increase its power by 10%, up to a maximum stacks of 36. The effect is cleared if it doesn't drink blood for 1 day.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
+			<ThingName>Heavenly Measure</ThingName>
+			<Desc>Artefak penjaga diteruskan oleh Guangcheng Zi, dewa emas abadi dari Kultus Chan. Ia memiliki sembilan bunga emas dan segumpal Qi ungu yang tinggal di atasnya. Setiap bunga emas dibekukan dari esensi satu Inti Lumina, sedangkan Qi ungu dimurnikan dari Nafas Kesengsaraan. Setiap sembilan serangan dengan artefak ini akan meluncurkan gumpalan Yang Qi untuk menyerang tubuh target itu sendiri dengan kekuatan yang mengerikan.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Spiritual refine the incubation 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Every 9th attack will cast a spell on the target enemy.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LongXinYinYangGui" sParam="Item">
+			<ThingName>Draconic Tablet</ThingName>
+			<Desc>Artefak Warisan yang terinspirasi oleh sisa-sisa roh primordial Naga Obor. Intinya dibentuk dengan memadatkan seratus pon Giok dan esensi Naga Obor bersama-sama, dibantu dengan kekuatan perubahan yang dimanfaatkan dari sembilan tengah hari dan tengah malam berturut-turut untuk menjadi roh. Secara signifikan meningkatkan Pemahaman seseorang dalam Perlindungan.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Specter refine at midday or midnight successfully for 9 continuous days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Protection skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_DaiShenZhu" sParam="Item">
+			<ThingName>Illusion Sphere</ThingName>
+			<Desc>Artefak Warisan yang diturunkan dari Buku Seratus Racun. Menggunakan Mutiara Jiwa binatang sebagai dasarnya, ia digabungkan dengan obat Lima Elemen untuk membentuk inti. Bola tersebut kemudian diresapi dengan obat Lima Elemen secara berturut-turut dengan teknik pemurnian roh. Meskipun benda tersebut tidak dapat digunakan untuk menyerang atau bertahan, benda tersebut dapat menghidupkan Anda kembali dari kematian satu kali jika terjadi bencana yang fatal. Sangat misterius.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Attempt to spiritual refinement the artifact 25 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>At the cost of being shattered, defy death once and restore all damage dealt to you.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QiJueShenZhen" sParam="Item">
+			<ThingName>Needles of Tribulation</ThingName>
+			<Desc>Artefak yang dibuat oleh para penggarap kuno untuk melawan surga itu sendiri dengan nyawa mereka. Tujuh jarum ilahi dibekukan dari tujuh bahan berharga, yang kemudian berulang kali ditempa untuk mencapai keadaan antara berwujud dan tidak berwujud dan digabungkan ke dalam inkubasi. Karena konflik antara sifat fisik, jarum dewa pada saat ini akan menjadi seperti benda fana lagi. Kekuatannya perlu diaktifkan kembali secara bertahap melalui penyempurnaan hantu agar dapat diselesaikan. Saat menggunakan artefak ini, semakin dekat Anda dengan akhir masa hidup Anda, semakin kuat jadinya.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Successfully specter refine the artifact 11 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>The closer the user to maximum lifespan, the more powerful the artifact will be.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
+			<ThingName>Stardust Shuttle</ThingName>
+			<Desc>Artefak rahasia dari Kultus Taiyin kuno. Inkubasi dilakukan dengan menggabungkan esensi Kristal Es dengan saluran meridian dari ekor Naga Banjir, dan kemudian dipelihara dengan nafas seorang gadis. Saat menyerang dengan artefak ini, sebagian kerusakan yang ditimbulkannya dapat diubah menjadi Qi artefak itu sendiri.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Carried and nurtured by a maiden girl for one year.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>10% of damage dealt will be replenished to the artifact's Qi.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TaiYiFenGuangJian" sParam="Item">
+			<ThingName>Borealis</ThingName>
+			<Desc>Pedang Ilahi diturunkan dari aliran Tao kuno. Sempurnakan seribu pon batu giok yang dicampur dengan seratus ons batu giok Esensi Giok untuk dibekukan menjadi inkubasi pedang, lalu padamkan dengan kekuatan Kesengsaraan Surgawi untuk menciptakan Sprite Pedang. Setelah ditarik, pedang tersebut akan membelah beberapa pedang pedang. Sangat ajaib.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Survive 7 Ascension Tribulations while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 7 attacks, generate a swordsprite that lasts 7 seconds.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_WuqiLeiFu" sParam="Item">
+			<ThingName>Thunder Talisman</ThingName>
+			<Desc>Artefak kuno dari Sekte Persatuan Mistik. Setelah menggambar jimat dengan Pikiran Ilahi, selanjutnya akan memanfaatkan kekuatan Kesengsaraan Surgawi dari Lima Elemen untuk menjadikannya spiritual. Secara signifikan meningkatkan pemahaman seseorang tentang Mantra.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Survive a Heavenly Tribulation of Metal element while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Survive a Heavenly Tribulation of Wood element while carrying an artifact.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Survive a Heavenly Tribulation of Water element while carrying an artifact.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Survive a Heavenly Tribulation of Fire element while carrying an artifact.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Survive a Heavenly Tribulation of Earth element while carrying an artifact.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Spell skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JinFabao" sParam="Item">
+			<ThingName>White Cloud Banner</ThingName>
+			<Desc>Salah satu dari lima Spanduk Besar. Ia menggunakan tulang Phoenix sebagai tiangnya, menggambar dengan esensi Buah Sagacity pada Tough Demon Beast Hide sebagai benderanya, dan kemudian memanfaatkan kekuatan elemen Inti Emas Bumi Tingkat I dalam pembuatannya untuk menyelesaikannya sendiri. Meskipun yang ini adalah salinannya, namun tetap saja cukup luar biasa. Artefak ini memberikan kerusakan ganda pada target berelemen Kayu.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Earth element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Wood element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_MuFabao" sParam="Item">
+			<ThingName>Green Lotus Banner</ThingName>
+			<Desc>Salah satu dari lima Spanduk Besar. Ia menggunakan tulang Phoenix sebagai tiangnya, menggambar dengan esensi Gnarled Vine pada Tough Demon Beast Hide sebagai benderanya, dan kemudian memanfaatkan kekuatan elemen Inti Emas Air Tingkat I dalam pembuatannya untuk menyelesaikannya sendiri. Meskipun yang ini adalah salinannya, namun tetap saja cukup luar biasa. Artefak ini memberikan kerusakan ganda pada target elemen Tanah.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Water element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Earth element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShuiFabao" sParam="Item">
+			<ThingName>Black Vulture Banner</ThingName>
+			<Desc>Salah satu dari lima Spanduk Besar. Ia menggunakan tulang Phoenix sebagai tiangnya, menggambar dengan esensi Prismatic Lotus pada Tough Demon Beast Hide sebagai benderanya, dan kemudian memanfaatkan kekuatan elemen Inti Emas Logam Tingkat I dalam pembuatannya untuk menyelesaikannya sendiri. Meskipun yang ini adalah salinannya, namun tetap saja cukup luar biasa. Artefak ini memberikan kerusakan ganda pada target elemen Api.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Metal element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Fire element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_HuoFabao" sParam="Item">
+			<ThingName>Soaring Flame Banner</ThingName>
+			<Desc>Salah satu dari lima Spanduk Besar. Ia menggunakan tulang Phoenix sebagai tiangnya, menggambar dengan esensi Buah Crimson pada Tough Demon Beast Hide sebagai benderanya, dan kemudian memanfaatkan kekuatan elemen Inti Emas Kayu Tingkat I dalam pembuatannya untuk menyelesaikannya sendiri. Meskipun yang ini adalah salinannya, namun tetap saja cukup luar biasa. Artefak ini memberikan kerusakan ganda pada target berelemen Logam.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Wood element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Metal element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TuFabao" sParam="Item">
+			<ThingName>Yellow Apricot Banner</ThingName>
+			<Desc>Salah satu dari lima Spanduk Besar. Ia menggunakan tulang Phoenix sebagai tiangnya, menggambar dengan Ochre Essence pada Tough Demon Beast Hide sebagai benderanya, dan kemudian memanfaatkan kekuatan elemen Inti Emas Api Tingkat I dalam pembuatannya untuk menyelesaikannya sendiri. Meskipun yang ini adalah salinannya, namun tetap saja cukup luar biasa. Artefak ini memberikan kerusakan ganda pada target berelemen Air.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Fire element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Water element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JinLianShenZuo" sParam="Item">
+			<ThingName>Golden Lotus Stand</ThingName>
+			<Desc>Artefak Warisan tradisi Buddha yang telah lama hilang. Menggunakan Prismatic Lotus sebagai inkubasinya, ia diresapi dengan tiga puluh enam Sisik Gelap Naga Banjir, dan kemudian dipelihara dengan esensinya sendiri untuk menjadi spiritual. Artefak ini memiliki Kapasitas Qi yang sangat besar sehingga meskipun tidak dapat digunakan untuk menyerang, namun dapat melindungi tubuh seseorang dari kerusakan artefak.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Spend 100,000 stamina while carrying this artifact.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Surrounding the whole body, it focuses on defense and will not attack.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TunLingShenJian" sParam="Item">
+			<ThingName>Spellbound Scissors</ThingName>
+			<Desc>Artefak luar biasa yang dibuat oleh aliran Tao kuno yang meniru Binatang Terpesona. Artefak ini dibuat dengan menggunakan 2 Tanduk Naga Banjir sebagai dasarnya dan kemudian melebur sepuluh ribu pon Batu Roh untuk memadamkannya. Semakin banyak Qi yang dihabiskan saat menggunakan artefak ini, semakin kuat jadinya.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Spend a total of 100,000,000 Qi while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 10,000 Qi consumed, damage is increased by 10%, up to a maximum of 1000%. The effect is reset when replenishing Qi to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShenNongDing" sParam="Item">
+			<ThingName>Cauldron of the Harvest</ThingName>
+			<Desc>Dikatakan sebagai tiruan dari kuali yang digunakan oleh Petani Ilahi di masa lalu. Tubuh kuali diukir dari Divine Jade, dan ditempa dengan menggunakan Phoenix Fire Jade sebagai Percikan api sambil dikombinasikan dengan potensi kuat dari sepuluh ribu pon Spirit Leaf. Saat menggunakan artefak ini, semakin banyak jenis Elixir yang diambil pengguna, semakin besar pula kemampuan mereka untuk merangsang kekuatannya.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Concoct 36 Elixirs while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For each kind of Elixir consumed, its power is increased by 5%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
+			<ThingName>Feather of Agility</ThingName>
+			<Desc>Artefak berharga dari Dunia Lain. Gabungkan Phoenix's Oblivion Feather dan Mantle Feather, lalu netralkan kobaran apinya dengan esensi sepuluh ribu pon Purity Leaf untuk menciptakan inkubasi. Yang kemudian perlu menjalani proses latihan mandiri secara tertutup di lokasi yang tenang dan tenteram agar menjadi spiritual. Saat menggunakan artefak ini untuk menyerang, ada kemungkinan mengaktifkan Breath of Tranquility untuk mengimbangi diri sendiri, mengurangi Spell Cast Delay sebanyak 1 detik.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Stay on Heavenstep Peak for 36 days while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Every 2 attacks reduce skill cooldown by 1 second.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
+			<ThingName>Truthbringer</ThingName>
+			<Desc>Artefak rahasia tradisi Budha menurut legenda. Sisa-sisa kerangka yang ditinggalkan oleh Ascended Immortal digunakan sebagai inti, yang kemudian dimasukkan ke dalam 99 pedang. Diperlukan lebih dari seratus tahun meditasi dengan Hati Pedang agar bisa menjadi roh. Secara signifikan meningkatkan Pemahaman seseorang dalam Penguasaan Pedang.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Meditate for 360 years while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Sword Mastery skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhuXianJian" sParam="Item">
+			<ThingName>Ragestriker</ThingName>
+			<Desc>Pedang Ilahi diwariskan dari zaman kuno. Meskipun ini adalah salinannya, namun ia memiliki kekuatan membunuh yang mematikan. Pedang ini menggunakan Tanduk Naga Banjir sebagai intinya, dikombinasikan dengan sembilan Inti Lumina untuk menciptakan inkubasi elemen Logam, yang kemudian menyerap Guntur Surgawi untuk menjadi spiritual. Kekuatannya berlipat ganda saat bertarung melawan musuh yang juga menggunakan artefak. (Setelah dilengkapi, klik kanan untuk mencoba menyerap Badai Petir)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Thunderstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when fighting against other artifacts.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LuXianJian" sParam="Item">
+			<ThingName>Deathbringer</ThingName>
+			<Desc>Pedang Ilahi diwariskan dari zaman kuno. Meskipun ini adalah salinannya, namun ia memiliki kekuatan membunuh yang mematikan. Pedang ini menggunakan Tanduk Naga Banjir sebagai intinya, dikombinasikan dengan seratus pon bijih Esensi Api untuk menciptakan inkubasi elemen Api, yang kemudian menyerap Angin Foehn menjadi spiritual. Ada kemungkinan lonjakan kekuatan roh terjadi saat menyerang dengannya, menimbulkan kerusakan berlipat ganda. (Setelah dipakai, klik kanan untuk mencoba menyerap Foehn Wind)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Foehn Wind 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>When dealing damage, there is a 10% chance of dealing 5x damage.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_XianXianJian" sParam="Item">
+			<ThingName>Endless Fury</ThingName>
+			<Desc>Pedang Ilahi diwariskan dari zaman kuno. Meskipun ini adalah salinannya, namun ia memiliki kekuatan membunuh yang mematikan. Pedang ini menggunakan Tanduk Naga Banjir sebagai intinya, dikombinasikan dengan sembilan cabang Phoenixwood untuk menciptakan inkubasi elemen Kayu, yang kemudian menyerap Udara Beracun menjadi spiritual. Serangannya disertai dengan kekuatan korosi, menimbulkan kerusakan tambahan pada Qi Barrier. (Setelah dilengkapi, klik kanan untuk mencoba menyerap Udara Beracun)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Noxious Air 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when attacking the enemy's body itself.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JueXianJian" sParam="Item">
+			<ThingName>Wrathbringer</ThingName>
+			<Desc>Pedang Ilahi diwariskan dari zaman kuno. Meskipun ini adalah salinannya, namun ia memiliki kekuatan membunuh yang mematikan. Pedang ini menggunakan Tanduk Naga Banjir sebagai intinya, dipadukan dengan sembilan Batu Suci untuk menciptakan inkubasi elemen Tanah, yang kemudian menyerap Badai Pasir menjadi spiritual. Saat melancarkan serangan, ada kemungkinan kecil untuk menimbulkan kerusakan khusus, yang besarnya relatif terhadap Qi musuh. (Setelah dilengkapi, klik kanan untuk mencoba menyerap Sandstorm)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Sandstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing an additional damage that is equal to 30% of the current target's Qi.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianLangDing" sParam="Item">
+			<ThingName>Sirius Spike</ThingName>
+			<Desc>Artefak jahat dari alam lain. Menggunakan sisa kejahatan yang ditinggalkan oleh Ascended Immortal sebagai katalisnya, esensi kekuatan Gnarled Vine dipadatkan ke dalam Demon Wolf's Fang. Peliharalah dengan esensi Anda sendiri untuk menjadikannya spiritual. Artefak ini sangat tipis dan sensitif saat digunakan dalam pertempuran. Setelah dipicu, ia akan terpecah menjadi 9 penampakan untuk menyerang musuh. Itu adalah senjata yang kejam. (Setelah dilengkapi, klik kanan untuk memasukkan esensi ke dalamnya)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Feed the artifact 18 times with your essence.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianShu" sParam="Item">
+			<ThingName>Sword of Dubhe</ThingName>
+			<Desc>Salah satu senjata ilahi Grand Chariot yang diwariskan dari zaman kuno. Seseorang dapat menggunakan Cakar Naga Banjir bersama dengan empat puluh sembilan unit Baja Hitam untuk menciptakan inkubasi, dan kemudian memanfaatkan kekuatan bintang-bintang Kereta Besar untuk menjadikannya spiritual, yang secara mendasar meningkatkan Kekuatan Artefaknya. (Setelah dipakai, klik kanan untuk mencoba menyerap Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Power Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianQuan" sParam="Item">
+			<ThingName>Sword of Megrez</ThingName>
+			<Desc>Salah satu senjata ilahi Grand Chariot yang diwariskan dari zaman kuno. Seseorang dapat menggunakan Cakar Naga Banjir bersama dengan empat puluh sembilan unit Baja Hitam untuk menciptakan inkubasi, dan kemudian memanfaatkan kekuatan bintang-bintang Kereta Besar untuk menjadikannya spiritual, yang secara mendasar meningkatkan Qi Artefaknya. (Setelah dipakai, klik kanan untuk mencoba menyerap Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Qi Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianJi" sParam="Item">
+			<ThingName>Sword of Phegda</ThingName>
+			<Desc>Salah satu senjata ilahi Grand Chariot yang diwariskan dari zaman kuno. Seseorang dapat menggunakan Cakar Naga Banjir bersama dengan empat puluh sembilan unit Baja Hitam untuk membuat inkubasi, dan kemudian memanfaatkan kekuatan bintang-bintang Kereta Besar untuk menjadikannya spiritual, yang secara mendasar meningkatkan Ketahanan Knockback Artefaknya. (Setelah dipakai, klik kanan untuk mencoba menyerap Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact's Knockback Resistance by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianXuan" sParam="Item">
+			<ThingName>Sword of Merak</ThingName>
+			<Desc>Salah satu senjata ilahi Grand Chariot yang diwariskan dari zaman kuno. Seseorang dapat menggunakan Cakar Naga Banjir bersama dengan empat puluh sembilan unit Baja Hitam untuk menciptakan inkubasi, dan kemudian memanfaatkan kekuatan bintang-bintang Kereta Besar untuk menjadikannya spiritual, yang secara mendasar meningkatkan Kecepatan Putaran Artefaknya. (Setelah dipakai, klik kanan untuk mencoba menyerap Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Turn Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YuHeng" sParam="Item">
+			<ThingName>Sword of Alioth</ThingName>
+			<Desc>Salah satu senjata ilahi Grand Chariot yang diwariskan dari zaman kuno. Seseorang dapat menggunakan Cakar Naga Banjir bersama dengan empat puluh sembilan unit Baja Hitam untuk menciptakan inkubasi, dan kemudian memanfaatkan kekuatan bintang-bintang Kereta Besar untuk menjadikannya spiritual, yang secara mendasar meningkatkan Tingkat Pemulihan Qi Artefaknya. (Setelah dipakai, gunakan untuk mencoba menyerap Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Qi Recovery Rate by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_KaiYang" sParam="Item">
+			<ThingName>Sword of Mizar</ThingName>
+			<Desc>Salah satu senjata ilahi Grand Chariot yang diwariskan dari zaman kuno. Seseorang dapat menggunakan Cakar Naga Banjir bersama dengan empat puluh sembilan unit Baja Hitam untuk menciptakan inkubasi, dan kemudian memanfaatkan kekuatan bintang-bintang Kereta Besar untuk menjadikannya spiritual, yang secara mendasar meningkatkan Artifact Knockback-nya. (Setelah dipakai, klik kanan untuk mencoba menyerap Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Knockback by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YaoGuang" sParam="Item">
+			<ThingName>Sword of Elkeid</ThingName>
+			<Desc>Salah satu senjata ilahi Grand Chariot yang diwariskan dari zaman kuno. Seseorang dapat menggunakan Cakar Naga Banjir bersama dengan empat puluh sembilan unit Baja Hitam untuk menciptakan inkubasi, dan kemudian memanfaatkan kekuatan bintang-bintang Kereta Besar untuk menjadikannya spiritual, yang secara mendasar meningkatkan Kecepatan Terbang Artefaknya. (Setelah dipakai, klik kanan untuk mencoba menyerap Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Fly Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
+			<ThingName>Unus</ThingName>
+			<Desc>Pedang rahasia yang ditempa berdasarkan Hukum Pemurnian Bunga Matahari, dibuat dengan mengukir dan menyatukan 3 Giok Ilahi dan dipasang dengan 1 Benih Keberuntungan. Ia kemudian perlu menyerap nafas Polar Night Ouroboros untuk menjadi roh. Setiap kali pedang ini digunakan melawan musuh, serangan pertamanya beberapa kali lipat dari kekuatan aslinya. (Setelah dipakai, klik kanan untuk mencoba menyerap Breath of Polar Night)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Breath of Polar Night 12 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Power of first sword strike increased by 500%. The effect is reset when replenishing Qi to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhuXianZhenTu" sParam="Item">
+			<ThingName>Slayer's Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Ragestriker. Dikatakan sebagai Formasi paling kejam di medan perang kuno, hampir tak terkalahkan dan tak terhentikan.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QiXingZhenTu" sParam="Item">
+			<ThingName>Conqueror's Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Sang Penakluk. Dikatakan mampu memanfaatkan cahaya ilahi Keterasingan Grand Chariot, yang memberinya kekuatan pembantai iblis yang mahatahu.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianDiWuFangZhenTu" sParam="Item">
+			<ThingName>Impregnable Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi yang Tidak Dapat Ditembus. Dikatakan mampu menyebarkan medan yang tidak bisa dihancurkan dengan Panji Lima Arah Langit dan Bumi untuk melindungi apapun di alam semesta.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LiuYuZhenTu" sParam="Item">
+			<ThingName>Divine Law Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Hukum Ilahi. Dikatakan sebagai Formasi divinator enam dewa di Langit, yang mampu mengubah Alam Fana menjadi surga dan membuat manusia hidup dalam keharmonisan spiritual.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LongXingZhenTu" sParam="Item">
+			<ThingName>Dragonrider Formation</ThingName>
+			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Dragonrider. Dikatakan sebagai Formasi Pengendali Naga. Saat dikerahkan, seseorang dapat menggunakan kekuatan Dragonsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_FengHunZhenTu" sParam="Item">
+			<ThingName>Phoenix Sword Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Pedang Phoenix. Dikatakan sebagai formasi pengendali burung phoenix. Saat dikerahkan, seseorang dapat menggunakan kekuatan Phoenixsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YinYangZhenTu" sParam="Item">
+			<ThingName>Yin Yang Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Yin Yang. Dikatakan bahwa Formasi ini dikerahkan berdasarkan Aturan Yin dan Yang. Memanfaatkan transformasi Yin dan Yang, Formasi menjadi sangat fleksibel.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_SanYinZhenTu" sParam="Item">
+			<ThingName>Dark Force Formation</ThingName>
+			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Kekuatan Gelap. Dikatakan sebagai Formasi yang dibentuk oleh energi Yin murni, yang dapat meningkatkan kekuatan Anda secara signifikan.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_BaMenZhenTu" sParam="Item">
+			<ThingName>Abyssal Sword Formation</ThingName>
+			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Pedang Abyssal. Dikatakan sebagai Formasi yang dikerahkan sesuai dengan aturan Delapan Gerbang Trigram, dengan kemampuan ofensif dan defensif. Sangat ajaib.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShenMuZhenTu" sParam="Item">
+			<ThingName>Wood Spirit Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Roh Kayu. Dikatakan sebagai Formasi yang mampu membangkitkan Qi vitalitas antara langit dan bumi, meremajakan semua makhluk hidup.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_WuYueZhenTu" sParam="Item">
+			<ThingName>Convergence Formation</ThingName>
+			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Konvergensi. Dikatakan bahwa setelah dikerahkan, Formasi ini menghadirkan bentuk Lima Puncak untuk melindungi suatu lokasi, menjadikannya tidak bisa dihancurkan.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Mencoba bermeditasi pada Diagram Formasi.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Wonder_BaBaoGongDe" sParam="Item">
+			<ThingName>Heart of Merit</ThingName>
+			<Desc>Esensi sejati terbentuk di Kolam Delapan Kebajikan, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WanDaoZunFaZuo" sParam="Item">
+			<ThingName>Heart of Law</ThingName>
+			<Desc>Esensi sejati terbentuk di Singgasana Sepuluh Ribu Taos, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QiQingQingTongShu" sParam="Item">
+			<ThingName>Heart of Emotion</ThingName>
+			<Desc>Esensi sejati terbentuk di Kayu Suci Emosi, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhouTianXingDouPan" sParam="Item">
+			<ThingName>Heart of the Stars</ThingName>
+			<Desc>Esensi sejati terbentuk di Lempeng Astral Siklus Universal, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WuLongXuanJinTa" sParam="Item">
+			<ThingName>Heart of the Sun</ThingName>
+			<Desc>Esensi sejati terbentuk di Pagoda Drakonik Yang, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_ShuShanJianChi" sParam="Item">
+			<ThingName>Heart of the Sword</ThingName>
+			<Desc>Esensi sejati terbentuk di Kolam Pedang Teratai Biru, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_LingYuFeng" sParam="Item">
+			<ThingName>Heart of Jade</ThingName>
+			<Desc>Esensi sejati terbentuk di Numinous Peak, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WanGuXieFaTan" sParam="Item">
+			<ThingName>Heart of Crimson</ThingName>
+			<Desc>Esensi sejati terbentuk di Altar Sihir Maut, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_XuanCiTianKeng" sParam="Item">
+			<ThingName>Heart of Stone</ThingName>
+			<Desc>Esensi sejati terbentuk di Kawah Meta-magnetik, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QiShaShenBei" sParam="Item">
+			<ThingName>Heart of the Seven-Slaughtering</ThingName>
+			<Desc>Esensi sejati terbentuk dalam Prasasti Tujuh Pembantaian Ilahi, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_XuanYinShengQuan" sParam="Item">
+			<ThingName>Heart of the Moon</ThingName>
+			<Desc>Esensi sejati terbentuk di Mata Air Suci Yin, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_YaoZuYiHai" sParam="Item">
+			<ThingName>Ancestral Yaoguai's Remains</ThingName>
+			<Desc>Substansi terkonsentrasi yang dibentuk oleh sisa roh di dalam Peninggalan Yaoguai Leluhur, yang juga merupakan akar dari segala kedalamannya.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QianKunLingJing" sParam="Item">
+			<ThingName>Universe Spirit Crystal</ThingName>
+			<Desc>Kristal aneh dengan kekuatan ruang misterius yang bersemayam di dalamnya. Tampaknya memiliki beberapa kegunaan khusus.</Desc>
+		</Text>
+	</List>
+</Texts>
