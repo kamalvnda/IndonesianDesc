@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Other_BuryObject">
+			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="Other_CreateLingPlant">
+			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="Other_BuildMine">
+			<DisplayName>System Mountain Shaping</DisplayName>
+			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+		</Text>
+		<Text Name="Item_TrackNpc">
+			<DisplayName>Tracking</DisplayName>
+			<TargetDesc>Pilih karakter yang perlu dilacak.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_Firecracker">
+			<DisplayName>Firecracker</DisplayName>
+			<TargetDesc>Pilih lokasi untuk menyalakannya.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_FirecrackerShit">
+			<DisplayName>Poopy Firecracker</DisplayName>
+			<TargetDesc>Pilih lokasi untuk menyalakannya.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
