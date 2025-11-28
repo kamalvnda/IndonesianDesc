@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBrown" sParam="Plant">
+			<ThingName>Brown Rock</ThingName>
+			<Desc>Gunung berbatu berwarna coklat. Terdiri dari bahan yang rapuh, agak sulit untuk menambang batu yang dapat digunakan dari bahan tersebut.</Desc>
+		</Text>
+		<Text Name="RockGray" sParam="Plant">
+			<ThingName>Gray Rock</ThingName>
+			<Desc>Gunung berbatu berwarna abu-abu. Terdiri dari bahan padat, dapat ditambang untuk bahan bangunan.</Desc>
+		</Text>
+		<Text Name="RockMarble" sParam="Plant">
+			<ThingName>Marble Rock</ThingName>
+			<Desc>Batuan gunung yang kaya akan marmer, dari mana Marmer dapat ditambang.</Desc>
+		</Text>
+		<Text Name="RockJade" sParam="Plant">
+			<ThingName>Jade Rock</ThingName>
+			<Desc>Batuan gunung yang kaya akan batu giok, dari mana batu giok dapat ditambang.</Desc>
+		</Text>
+		<Text Name="RockCinnabar" sParam="Plant">
+			<ThingName>Cinnabar Rock</ThingName>
+			<Desc>Batuan gunung yang kaya akan cinnabar, dari mana Cinnabar dapat ditambang.</Desc>
+		</Text>
+	</List>
+</Texts>
