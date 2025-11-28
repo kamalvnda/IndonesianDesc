@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBase" sParam="Item">
+			<Item.FabaoSuffix>Wood, Branch, Column, Stake</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wood" sParam="Item">
+			<ThingName>Wood</ThingName>
+			<Desc>Kayu berkualitas baik, merupakan bahan kerajinan yang umum.</Desc>
+			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWood" sParam="Item">
+			<ThingName>Goldwood</ThingName>
+			<Desc>Goldwood berharga yang berumur seratus tahun, bahannya sangat kokoh dan berat.</Desc>
+			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWood" sParam="Item">
+			<ThingName>Phoenixwood</ThingName>
+			<Desc>Kayu surgawi tempat Phoenix bertengger, memiliki permukaan halus dan tekstur sangat kuat yang kaya akan Qi. Bahan yang sangat langka.</Desc>
+			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWood" sParam="Item">
+			<ThingName>Spiritwood</ThingName>
+			<Desc>Kayu yang telah diliputi Qi, merupakan bahan yang sangat kokoh dan sangat tahan terhadap api.</Desc>
+			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
