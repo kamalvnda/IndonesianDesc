@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Human">
+			<DisplayName>Manusia</DisplayName>
+			<Desc>Hewan Biasa: Manusia</Desc>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
+		</Text>
+		<Text Name="Human_JGZT">
+			<DisplayName>Roh yang Hidup</DisplayName>
+			<Desc>Istilah kolektif untuk benda/bangunan/tanaman yang secara tidak sengaja diterangi dan diubah bentuknya menjadi bentuk manusia.</Desc>
+			<MaleName>Pria</MaleName>
+			<FemaleName>Perempuan</FemaleName>
+		</Text>
+	</List>
+</Texts>
