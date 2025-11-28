@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TheGate">
+			<CosmeticsDatas.0.Display>Sect Stele</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Prasasti Sekte Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Elite Stele</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar prasasti batu sekte yang megah dan penuh hiasan, suatu kehormatan eksklusif untuk kelompok strategi elit.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="LsDog">
+			<CosmeticsDatas.0.Display>Classic Huajuan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Huajuan Biasa</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Demonization</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Huajuan yang di-daemonisasi di Era Yaoguais</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<CosmeticsDatas.0.Display>Rock Garden (Hill)</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Taman Batu Klasik (Bukit).</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Scenery - Twin Dragons</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar bebatuan yang megah dan penuh hiasan, suatu kehormatan eksklusif bagi kelompok strategi elit.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_Tower">
+			<CosmeticsDatas.0.Display>Subduer Pagoda</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Pagoda Subduer Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Peace and prosperity</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar lonceng naga yang menekan roh jahat melambangkan perdamaian dan kemakmuran.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<CosmeticsDatas.0.Display>Cauldron</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Kuali Besar Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Spirit Gourd</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar alami dari Labu Roh melambangkan pencapaian pre-order</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ColdHole">
+			<CosmeticsDatas.0.Display>Frozen Furnace</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tungku Beku Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Crouching Dragon</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar tungku alkimia kuno dan sederhana dengan cahaya ilahi yang terkendali, simbol reservasi tonggak sejarah.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<CosmeticsDatas.0.Display>Stone Giant</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Batu Raksasa Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Divine General Statue</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar patung jenderal lapis baja yang megah, simbol reservasi tonggak sejarah.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<CosmeticsDatas.0.Display>Sword Shield</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Perisai Pedang Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Dragon Slayer</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar pedang raksasa kuno dengan banyak segel.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="IncenseTripod">
+			<CosmeticsDatas.0.Display>Incense Cauldron</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Kuali Dupa Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Violet Gold Furnace</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tungku Emas Ungu, yang terkenal sebagai harta karun sekte Daois.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<CosmeticsDatas.0.Display>Ice Phoenix</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Patung Es Phoenix Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Phoenix King</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar patung Phoenix King yang megah dan mulia.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<CosmeticsDatas.0.Display>Bronze Dragon</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Naga Perunggu Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Kirin</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Citra Kirin yang tinggi dan mulia.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar">
+			<CosmeticsDatas.0.Display>Classic Spirit Contract: Boar</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Kontak Roh Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Monster</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Kontrak Roh khusus di Era Yaoguais</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<CosmeticsDatas.0.Display>Small Furnace</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tungku Kecil Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Crouching Dragon</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar tungku alkimia kuno dan sederhana dengan cahaya ilahi yang terkendali, simbol reservasi tonggak sejarah.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<CosmeticsDatas.0.Display>Sect Gate</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Gerbang Sekte Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Floating Dragon Workshop</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Dekorasi gerbang gunung bergaya antik melambangkan permintaan maaf yang tulus.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<CosmeticsDatas.0.Display>Black Tortoise Lantern</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Lentera Kura-kura Hitam Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Samantabhadra Lamp</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Sebagai simbol sumpah, Gajah Putih Bergading Enam menunjukkan kesaktiannya.</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_Other_PuppetTest">
+			<CosmeticsDatas.0.Display>Puppet</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Kapal Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Mysterious Puppet</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Pengganti dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Bed">
+			<CosmeticsDatas.0.Display>Bed</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tempat Tidur Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Gathered Mist</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tempat Tidur Single dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DoubleBed">
+			<CosmeticsDatas.0.Display>Double Bed</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tempat Tidur Double Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Banish Evil</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tempat Tidur Ganda dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Simulator Budidaya Luar Biasa'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WaterTank">
+			<CosmeticsDatas.0.Display>Water Vat</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Ppn Air Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Eight Scenery</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tong Air dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Simulator Budidaya Luar Biasa'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Candlestick">
+			<CosmeticsDatas.0.Display>Oil Lamp</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Lampu Minyak Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Perching Bird</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Lampu Minyak dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<CosmeticsDatas.0.Display>Qi Cushion</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Bantal Qi Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Demon Pattern</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Qi Cushion dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DanStove">
+			<CosmeticsDatas.0.Display>Alchemy Furnace</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tungku Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Demon Flame</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tungku Alkimia dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Simulator Budidaya Luar Biasa'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Cushion">
+			<CosmeticsDatas.0.Display>Cushion</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Bantal Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Whirling Scale</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Bantal dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<CosmeticsDatas.0.Display>Censer</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Pedupaan Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Hill Fall</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Pedupaan dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Simulator Budidaya Luar Biasa'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="StreetLight">
+			<CosmeticsDatas.0.Display>Lamp Post</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tiang Lampu Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Drink Light</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tiang Lampu dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="SmallTable">
+			<CosmeticsDatas.0.Display>Table</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tabel Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Jade Table</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tabel dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Table">
+			<CosmeticsDatas.0.Display>Square Table</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Meja Kecil Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Spirit Cloud</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Meja Persegi Kecil dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Simulator Budidaya Luar Biasa'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<CosmeticsDatas.0.Display>Display</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Gambar Tampilan Klasik</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Dian Jiang</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Gambar Tampilan dari Era Yaoguais, terima kasih kepada setiap pemain yang mendukung 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+	</List>
+</Texts>
