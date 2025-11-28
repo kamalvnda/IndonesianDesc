@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Human_1">
+			<Prefix>Elemental</Prefix>
+			<Suffix>Lock</Suffix>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi global badan rahasia.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
