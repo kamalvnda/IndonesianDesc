@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcDiscipleOfJinDan">
+			<Notes>Comment Panel of Xiandao Cultivator</Notes>
+			<Title>Xiandao Cultivator</Title>
+			<Desc>Seorang kultivator yang berlatih dengan Hukum Inti Emas dalam mengejar jalan menuju keabadian. Meskipun Penggarap Xiandao telah memilih Hukum yang sulit, itu adalah Hukum keagungan yang benar-benar memberi Anda pemahaman komprehensif tentang dunia yang mengarah pada pembebasan tertinggi. Meskipun kekuatan individu mereka terbatas, mereka dapat bertarung dalam formasi untuk melawan musuh dengan kekuatan gabungan massa. Selain itu, mereka unggul dalam menggambar alkimia dan jimat, mengubah alam dengan berbagai teknik ajaib. Tidak diragukan lagi mereka adalah arus utama dunia budidaya.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfGod">
+			<Notes>Comment Panel of Shendao Cultivator</Notes>
+			<Title>Shendao Cultivator</Title>
+			<Desc>Penggarap yang mengumpulkan kekuatan keyakinan dari massa untuk mengejar jalan para dewa. Meskipun mereka sangat kuat, karena mereka dapat memperoleh kekuatan tanpa batas dari keyakinan yang tak terbatas, mereka akan kehilangan identitas mereka secara permanen karena didominasi oleh keyakinan, dan pada akhirnya menjadi dewa murni.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfBody">
+			<Notes>Comment Panel of Physical Cultivator</Notes>
+			<Title>Physical Cultivator</Title>
+			<Desc>Hukum penanaman yang sudah ada sejak zaman kuno. Manfaatkan esensi antara langit dan bumi untuk memurnikan tubuh fana Anda menjadi tubuh abadi. Penggarap Fisik pandai bertarung, mereka menekankan pada penggunaan kekuatan dalam budidaya. Bahkan para pemula, setelah menyelesaikan kursus pengantar, dapat dengan cepat menjadi kuat dalam pertarungan. Namun cara pemurnian tubuh hanya terfokus pada tubuh itu sendiri, ia terus menyerap energi antara langit dan bumi namun memberikan sedikit imbalan. Akibatnya, jumlah mereka sulit bertambah. Seiring berjalannya waktu, pada akhirnya terbukti terlalu sulit bagi mereka untuk bersaing dengan para pembudidaya Xiandao yang sedang naik daun, sehingga lambat laun mereka mengalami kemunduran.</Desc>
+		</Text>
+		<Text Name="NpcWaiMen">
+			<Notes>Comment Panel of Outer Disciple</Notes>
+			<Title>Mortal</Title>
+			<Desc>Mereka yang tidak pernah menginjakkan kaki pada Hukum kultivasi ibarat dedaunan yang tersapu di masa sulit ini.</Desc>
+		</Text>
+		<Text Name="NpcDaNeng">
+			<Notes>Comment Panel of Master</Notes>
+			<Title>Ancient Cultivator</Title>
+			<Desc>Penggarap yang tertidur karena kekeringan Qi di zaman kuno kini telah terbangun dan kembali. Mereka sangat kuat.</Desc>
+		</Text>
+		<Text Name="NpcPuppet">
+			<Notes>Comment Panel of Vessel</Notes>
+			<Title>Vessel</Title>
+			<Desc>Benda humanoid yang dimanipulasi dengan sihir, dapat melakukan pekerjaan manual sederhana.</Desc>
+		</Text>
+		<Text Name="NpcZombie">
+			<Notes>Comment Panel of Zombie</Notes>
+			<Title>Zombie</Title>
+			<Desc>Karena Feng Shui yang buruk, beberapa orang yang meninggal bermutasi menjadi makhluk tak berakal yang haus darah.</Desc>
+		</Text>
+		<Text Name="NpcTeacher">
+			<Notes>Comment Panel of Mysterious Cultivator</Notes>
+			<Title>Mysterious Cultivator</Title>
+		</Text>
+	</List>
+</Texts>
