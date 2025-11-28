@@ -1,0 +1,207 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BodyPracticeBase" sParam="Item">
+			<ThingName>Base</ThingName>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiXu" sParam="Item">
+			<ThingName>Illusion Essence</ThingName>
+			<Desc>Energi yang ditinggalkan oleh kekuatan penciptaan sejak awal langit dan bumi. Esensi khas seperti ini sangat sulit ditemukan saat ini.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanTian" sParam="Item">
+			<ThingName>Nimbus Essence</ThingName>
+			<Desc>Energi yang ditinggalkan oleh kekuatan penciptaan sejak awal langit dan bumi. Esensi khas seperti ini sangat sulit ditemukan saat ini.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JieMie" sParam="Item">
+			<ThingName>Tribulation Essence</ThingName>
+			<Desc>Esensi dengan kekuatan pemusnahan hanya dapat dikumpulkan dalam kesengsaraan surgawi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiuYang" sParam="Item">
+			<ThingName>Ignis Essence</ThingName>
+			<Desc>Energi yang paling terkondensasi di bawah terik matahari, sangat sulit dikumpulkan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYue" sParam="Item">
+			<ThingName>Aqualuna Essence</ThingName>
+			<Desc>Energi paling terkondensasi di bulan yang membekukan, sangat sulit dikumpulkan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYang" sParam="Item">
+			<ThingName>Solar Essence</ThingName>
+			<Desc>Essence of the Sun, hanya bisa dikumpulkan pada tengah hari.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYin" sParam="Item">
+			<ThingName>Lunar Essence</ThingName>
+			<Desc>Essence of the Moon, hanya bisa dikumpulkan pada tengah malam.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXJin" sParam="Item">
+			<ThingName>Innate Metal Essence</ThingName>
+			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Logam yang sangat kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXMu" sParam="Item">
+			<ThingName>Innate Wood Essence</ThingName>
+			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Kayu yang sangat kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXShui" sParam="Item">
+			<ThingName>Innate Water Essence</ThingName>
+			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Air yang sangat kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXHuo" sParam="Item">
+			<ThingName>Innate Fire Essence</ThingName>
+			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Api yang sangat kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXTu" sParam="Item">
+			<ThingName>Innate Earth Essence</ThingName>
+			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Tanah yang sangat kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jin" sParam="Item">
+			<ThingName>Metal Essence</ThingName>
+			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Mu" sParam="Item">
+			<ThingName>Wood Essence</ThingName>
+			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Shui" sParam="Item">
+			<ThingName>Water Essence</ThingName>
+			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Huo" sParam="Item">
+			<ThingName>Fire Essence</ThingName>
+			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Tu" sParam="Item">
+			<ThingName>Earth Essence</ThingName>
+			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiLing" sParam="Item">
+			<ThingName>Blessed Feng Shui Essence</ThingName>
+			<Desc>Esensi yang hanya terbentuk perlahan di tempat dengan Feng Shui paling luar biasa.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiSha" sParam="Item">
+			<ThingName>Cursed Feng Shui Essence</ThingName>
+			<Desc>Esensi yang hanya terbentuk perlahan di tempat dengan Feng Shui paling mengerikan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Chun" sParam="Item">
+			<ThingName>Germination Essence</ThingName>
+			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, melambangkan energi yang tumbuh di musim semi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Xia" sParam="Item">
+			<ThingName>Blossom Essence</ThingName>
+			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, mewakili energi kemekaran di musim panas.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Qiu" sParam="Item">
+			<ThingName>Withering Essence</ThingName>
+			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, melambangkan energi kemunduran di musim gugur.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Dong" sParam="Item">
+			<ThingName>Reversion Essence</ThingName>
+			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, mewakili energi kehancuran di musim dingin.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_YongYe" sParam="Item">
+			<ThingName>Everlasting Essence</ThingName>
+			<Desc>Esensi misterius yang menembus ruang antara langit dan bumi di Malam Kutub. Asal usul pasti mereka tidak diketahui, seolah-olah mereka bukan milik dunia ini.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
+			<ThingName>Flood Dragon Essence</ThingName>
+			<Desc>Esensi yang mengandung misteri kehidupan Naga Banjir, yang bisa menjadi referensi bagus bagi Penggarap Fisik.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
+			<ThingName>Phoenix Essence</ThingName>
+			<Desc>Essence yang mengandung misteri kehidupan Phoenix, yang bisa menjadi referensi bagus bagi Penggarap Fisik.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
+			<ThingName>Torch Dragon Essence</ThingName>
+			<Desc>Essence yang mengandung misteri kehidupan Torch Dragon, yang bisa menjadi referensi bagus bagi Penggarap Fisik.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouJingXue" sParam="Item">
+			<ThingName>Ancient Beast's Blood Essence</ThingName>
+			<Desc>Setetes esensi darah dari Binatang Purba, mengandung misteri tubuhnya yang kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouGuFen" sParam="Item">
+			<ThingName>Ancient Beast's Bone Essence</ThingName>
+			<Desc>Beberapa bubuk yang terbuat dari tulang Binatang Purba, mengandung misteri tubuhnya yang kuat.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_DaYaoYuanJing" sParam="Item">
+			<ThingName>Yaoguai Essence</ThingName>
+			<Desc>Esensi di dalam tubuh monster dengan budidaya yang hebat, mungkin mengandung rahasia tubuh kuat bawaan Yaoguai.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv1" sParam="Item">
+			<ThingName>Pure Life Essence</ThingName>
+			<Desc>Esensi vitalitas murni, dapat menjadi suplemen yang bagus untuk tubuh Anda.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv2" sParam="Item">
+			<ThingName>Intrinsic Life Essence</ThingName>
+			<Desc>Secercah esensi intrinsik asli kehidupan pascakelahiran.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv3" sParam="Item">
+			<ThingName>Destiny Life Essence</ThingName>
+			<Desc>Nafas kehidupan yang secara alami dihasilkan antara langit dan bumi. Itu juga merupakan sumber kehidupan purba.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_SiWang" sParam="Item">
+			<ThingName>Wraith Breath</ThingName>
+			<Desc>Setelah kematian suatu makhluk hidup, sebagian dari kekuatan hidup intrinsiknya akan menyebar ke langit dan bumi, sedangkan sebagian lainnya akan berubah menjadi substansi tersebut.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuHui" sParam="Item">
+			<ThingName>Filth Essence</ThingName>
+			<Desc>Meskipun asal muasal zat ini tidak jelas, zat ini juga merupakan konsentrasi energi keruh semua makhluk hidup, yang mewujudkan misteri mendalam reinkarnasi dan perubahan.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuXing" sParam="Item">
+			<ThingName>Ethereal Essence</ThingName>
+			<Desc>Esensi yang sangat aneh, tidak terlihat dan tidak berwujud, tetapi benar-benar ada. Dapat diekstraksi dari item halus.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
+			<ThingName>Immortal Essence</ThingName>
+			<Desc>Istilah kolektif untuk produk segala jenis esensi di dunia yang diproses dengan Qi oleh para pembudidaya Inti Emas. Karena infus Qi, esensi ini tidak efektif untuk kultivator Fisik. Jika seseorang secara paksa menggunakan esensi ini untuk membentuk kembali tubuh, hal itu akan menyebabkan kemajuan budidaya bagian tubuh yang ditentukan menjadi batal karena efek tolakan Qi, sehingga mengembalikannya ke keadaan semula.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianSui" sParam="Item">
+			<ThingName>Immortal Marrow</ThingName>
+			<Desc>Esensi Tubuh Abadi yang dibentuk oleh seorang kultivator Inti Emas. Efek yang sangat kuat dari zat ini akan menciptakan rangsangan yang intens pada kultivator Fisik. Tidak diketahui apa yang mungkin terjadi jika seseorang menggunakannya untuk Remolding.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShenSui" sParam="Item">
+			<ThingName>Divine Marrow</ThingName>
+			<Desc>Esensi Tubuh Ilahi yang dibentuk oleh seorang kultivator Shendao. Efek yang sangat kuat dari zat ini akan menciptakan rangsangan yang intens pada kultivator Fisik. Tidak diketahui apa yang mungkin terjadi jika seseorang menggunakannya untuk Remolding.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_BaBao" sParam="Item">
+			<ThingName>Universe Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara-cara alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanDao" sParam="Item">
+			<ThingName>Genesis Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara penciptaan alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiQing" sParam="Item">
+			<ThingName>Yin Yang Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhouTian" sParam="Item">
+			<ThingName>Spacetime Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara-cara penurunan waktu.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYang" sParam="Item">
+			<ThingName>Begin-end Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara awal dan akhir.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jian" sParam="Item">
+			<ThingName>Life-death Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara hidup dan mati.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_LingYu" sParam="Item">
+			<ThingName>Thriving Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Ini adalah hakikat yang diwujudkan dari evolusi cara berkembangnya makhluk hidup.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanGu" sParam="Item">
+			<ThingName>Nullification Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara-cara penghapusan waktu.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanCi" sParam="Item">
+			<ThingName>Desolation Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara-cara kehancuran alam semesta.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiSha" sParam="Item">
+			<ThingName>Obliteration Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang terwujud dari evolusi cara pemusnahan makhluk hidup.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYin" sParam="Item">
+			<ThingName>Destiny Essence</ThingName>
+			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara penciptaan dan pembentukan.</Desc>
+		</Text>
+	</List>
+</Texts>
