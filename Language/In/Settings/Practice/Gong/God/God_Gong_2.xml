@@ -1,0 +1,27 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_2">
+			<DisplayName>Eight Heavens Sadhana</DisplayName>
+			<Desc>Sebuah metode budidaya Hukum Shendao yang telah hilang sejak zaman kuno, merupakan cara mengumpulkan Keyakinan makhluk hidup untuk mencapai ketuhanan. Sebagian besar aliran Hukum Shendao memiliki banyak kesamaan, mereka hanya berbeda dalam jenis katalis spiritual yang digunakan, yang memanggil makhluk surgawi yang berbeda untuk perlindungan. Warisan Sadhana Delapan Surga datang dari surga melampaui langit ke arah barat. Dengan mengolah metode ini, seseorang akan mampu memanfaatkan katalis spiritual dari banyak surga untuk memanggil roh Delapan Legiun sebagai penjaga. Ini menekankan keahlian mantra.</Desc>
+			<SelectDesc>Budidaya Iman berbeda dengan cara tradisional dalam memanfaatkan Inti Emas. Itu sepenuhnya bergantung pada keyakinan makhluk hidup. Meskipun tidak ada persyaratan bakat untuk Pengembangan Iman, Anda tetap harus memiliki tingkat Kecerdasan yang sangat tinggi jika ingin mencapai puncak. Apakah anda ingin memilih untuk mengembangkan Hukum ini?</SelectDesc>
+			<Stages.0.DisplayName>Ascetic</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Devotion</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Preaching</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Creation</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Sushruta</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Edict: Gandharva</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Edict: Kinnara</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Edict: Garuda</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Ferocious</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Edict: Mahoraga</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Edict: Yaksha</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Edict: Asura</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Supreme</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Edict: Naga</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Edict: Deva</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Transcendence</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Attainment</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Supreme</Stages.5.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
