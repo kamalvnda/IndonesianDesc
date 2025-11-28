@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Wood, Column, Take</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_RoughWoodBlock" sParam="Item">
+			<ThingName>Timber</ThingName>
+			<Desc>Bahan kayu terbuat dari kayu. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
+			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodBlock" sParam="Item">
+			<ThingName>Goldwood Timber</ThingName>
+			<Desc>Bahan kayu terbuat dari Goldwood. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
+			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodBlock" sParam="Item">
+			<ThingName>Parasol Timber</ThingName>
+			<Desc>Bahan kayu terbuat dari Kayu Parasol. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
+			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodBlock" sParam="Item">
+			<ThingName>Spiritwood Timber</ThingName>
+			<Desc>Bahan kayu terbuat dari Spiritwood. Dapat digunakan dengan lebih efektif dalam kerajinan.</Desc>
+			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
