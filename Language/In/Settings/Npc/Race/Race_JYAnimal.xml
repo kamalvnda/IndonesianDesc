@@ -1,0 +1,86 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JYRabbit">
+			<DisplayName>Kelinci Monster</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Kelinci</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYChicken">
+			<DisplayName>Ayam Monster</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Chicken</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYWolf">
+			<DisplayName>Rakasa Serigala</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Wolf</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYSnake">
+			<DisplayName>Monster Ular</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Ular</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYBoar">
+			<DisplayName>Monster Babi Hutan</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Boar</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYBear">
+			<DisplayName>Monster Beruang</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bear</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYFrog">
+			<DisplayName>Katak Raksasa</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Katak Monster</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYTurtle">
+			<DisplayName>Monster Penyu</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Turtle</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYCat">
+			<DisplayName>Monster Kucing</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Cat</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYCattle">
+			<DisplayName>Monster Banteng</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bull</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYTiger">
+			<DisplayName>Monster Harimau</DisplayName>
+			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Tiger</Desc>
+			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
+			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+		</Text>
+		<Text Name="JYLongpuNight">
+			<DisplayName>Hamba Naga (Malam)</DisplayName>
+			<Desc>Hamba berasal dari kekuatan Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="JYLongpuDay">
+			<DisplayName>Hamba Naga (Hari)</DisplayName>
+			<Desc>Hamba berasal dari kekuatan Yin dan Yang.</Desc>
+		</Text>
+		<Text Name="JYZhuLongENian">
+			<DisplayName>Avatar Naga Ganas</DisplayName>
+			<Desc>Manifestasi dari kejahatan dalam pikiran.</Desc>
+		</Text>
+		<Text Name="JYZhuLongShanNian">
+			<DisplayName>Avatar Naga Jinak</DisplayName>
+			<Desc>Perwujudan kebaikan dalam pikiran.</Desc>
+		</Text>
+	</List>
+</Texts>
