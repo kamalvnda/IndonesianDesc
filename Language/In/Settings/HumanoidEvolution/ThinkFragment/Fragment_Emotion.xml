@@ -1,0 +1,87 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlightlyFear">
+			<DisplayName>A bit afraid</DisplayName>
+			<SingleFormat.0>Merasa {0} dari hewan lainnya..</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} dari lingkungan baru..</SingleFormat.1>
+		</Text>
+		<Text Name="Fear">
+			<DisplayName>Afraid</DisplayName>
+			<SingleFormat.0>Terasa {0} dari orang-orang di sekitar..</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyFear">
+			<DisplayName>Terrified</DisplayName>
+			<SingleFormat.0>Mengingat musuh alaminya dan Merasa {0}..</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} tentang temannya yang terbunuh..</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyHappy">
+			<DisplayName>A bit happy</DisplayName>
+			<SingleFormat.0>Merasa {0} tentang hari yang cerah dan cerah.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} tentang sesuatu yang lezat.</SingleFormat.1>
+		</Text>
+		<Text Name="Happy">
+			<DisplayName>Delighted</DisplayName>
+			<SingleFormat.0>Merasakan {0} di sekitarnya.</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyHappy">
+			<DisplayName>Ecstatic</DisplayName>
+			<SingleFormat.0>Merasa {0} tentang bertemu dengan kerabat.</SingleFormat.0>
+		</Text>
+		<Text Name="SlightlyAnger">
+			<DisplayName>A bit ticked off</DisplayName>
+			<SingleFormat.0>Merasa {0} pada orang yang lewat.</SingleFormat.0>
+		</Text>
+		<Text Name="Anger">
+			<DisplayName>Angry</DisplayName>
+			<SingleFormat.0>Merasa {0} tentang orang lain yang mengambil risiko.</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyAnger">
+			<DisplayName>Furious</DisplayName>
+			<SingleFormat.0>Merasa {0} tentang perkelahian hewan lain.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} diintimidasi.</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyWorry">
+			<DisplayName>A bit anxious</DisplayName>
+			<SingleFormat.0>Merasa {0} pada orang asing yang lewat.</SingleFormat.0>
+		</Text>
+		<Text Name="Worry">
+			<DisplayName>Anxious</DisplayName>
+			<SingleFormat.0>Merasa {0} tentang sungai yang dalam.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} di tepi jurang.</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyWorry">
+			<DisplayName>Distraught</DisplayName>
+			<SingleFormat.0>Merasa {0} tentang kematian.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} seperti ditangkap manusia.</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyMiss">
+			<DisplayName>A vague yearning</DisplayName>
+			<SingleFormat.0>Merasa {0} untuk beberapa angka kabur.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} untuk area yang indah.</SingleFormat.1>
+		</Text>
+		<Text Name="Miss">
+			<DisplayName>yearning</DisplayName>
+			<SingleFormat.0>Merasa {0} untuk kehidupan di alam terbuka.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} untuk sahabat.</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyMiss">
+			<DisplayName>Desire</DisplayName>
+			<SingleFormat.0>Merasa {0} tentang kerabat masa kecil.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} tentang sungai dalam kenangan.</SingleFormat.1>
+		</Text>
+		<Text Name="Peace">
+			<DisplayName>Tranquil</DisplayName>
+			<SingleFormat.0>Terasa {0} saat menginjak tanah yang kokoh.</SingleFormat.0>
+			<SingleFormat.1>Merasa {0} melihat makhluk yang lewat.</SingleFormat.1>
+		</Text>
+		<Text Name="Eruption">
+			<DisplayName>Restlessness</DisplayName>
+			<SingleFormat.0>Secara naluriah merasakan perasaan {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>Regretful</DisplayName>
+			<SingleFormat.0>Terasa {0} saat bunga plum berjatuhan.</SingleFormat.0>
+			<SingleFormat.1>Terasa {0} saat bunga plum berjatuhan.</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>
