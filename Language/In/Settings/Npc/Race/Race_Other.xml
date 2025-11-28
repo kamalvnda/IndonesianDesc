@@ -1,0 +1,38 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Kosong</DisplayName>
+		</Text>
+		<Text Name="Puppet">
+			<DisplayName>Boneka Vessel</DisplayName>
+			<Desc>Alat buatan manusia yang menyerupai manusia, dapat digerakkan dengan sihir.</Desc>
+		</Text>
+		<Text Name="NY_Zhuyao">
+			<DisplayName>Setan Babi Festival Musim Semi</DisplayName>
+		</Text>
+		<Text Name="NY_Shuyao">
+			<DisplayName>Monster Tikus (Festival Musim Semi)</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai">
+			<DisplayName>Antek Festival Musim Semi</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai2">
+			<DisplayName>Antek Festival Musim Semi</DisplayName>
+		</Text>
+		<Text Name="BodyPart">
+			<DisplayName>Bagian Tubuh</DisplayName>
+		</Text>
+		<Text Name="MiniLong">
+			<DisplayName>Bayi Naga</DisplayName>
+		</Text>
+		<Text Name="MiniFeng">
+			<DisplayName>Bayi Phoenix</DisplayName>
+		</Text>
+		<Text Name="SP_Zhulong">
+			<DisplayName>Naga Obor (Festival Musim Semi)</DisplayName>
+		</Text>
+		<Text Name="Hero1">
+			<DisplayName>Pahlawan</DisplayName>
+		</Text>
+	</List>
+</Texts>
