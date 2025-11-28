@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_5">
+			<DisplayName>Fallen Obliteration Body</DisplayName>
+			<Desc>Di masa lalu, beberapa pembudidaya fisik menganggap kehidupan ini sebagai sangkar dan malam kutub adalah cahaya yang dipancarkan dari luar sangkar. Mereka menyerap esensi aneh dari malam kutub dan menggunakannya untuk membentuk kembali tubuh, percaya bahwa pada akhirnya akan diubah menjadi kendaraan yang menghancurkan kandang dan membawa mereka keluar dari kesengsaraan. Sekolah kultivator fisik ini memuja malam kutub dan dijauhi oleh orang lain, sehingga dinamakan Pemusnahan Kultus. Oleh karena itu, Hukum dasar mereka disebut Badan Penghapusan.</Desc>
+			<SelectDesc>Latihan fisik berarti menggabungkan energi, Qi, dan roh menjadi satu, menghilangkan Qi dan benda magis lainnya, dan memulai latihan hanya dengan tubuh fisik. Apakah Anda ingin mengambil UU ini?</SelectDesc>
+			<Stages.0.DisplayName>Remold Phase</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Physical Reborn</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Marrow-cleansing Phase</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Marrow Change</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Incubation Phase</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Unifying Oneness</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Chaos Phase</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Paramount Penalty</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
