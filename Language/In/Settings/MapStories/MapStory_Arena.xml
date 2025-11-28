@@ -1,0 +1,10 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="RPGOnlineNpc">
+			<DisplayName>Test</DisplayName>
+			<Selections.0.Display>Unggah karakternya</Selections.0.Display>
+			<Selections.1.Display>Panggil musuh</Selections.1.Display>
+			<Selections.2.Display>Meninggalkan</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>
