@@ -1,0 +1,77 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="All">
+			<PeferEnvironment.Desc>Menyukai</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Snake">
+			<NaiveTalk>Hiss, hissss!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Lebih suka kamar.</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Lebih menyukai hewan kecil.</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Lebih menyukai hewan kecil.\nLebih menyukai kamar. \N</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Bear">
+			<NaiveTalk>Grrrrr, grrrrrrr!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Lebih menyukai herbivora di dekatnya</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Lebih menyukai herbivora di dekatnya.\nSuka berada di luar ruangan. \N</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Rabbit">
+			<NaiveTalk>Cluck, cluck, chirp!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Lebih menyukai rumput liar di dekatnya</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Lebih menyukai spesies yang sama</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Lebih menyukai rumput liar di dekatnya. Suka berada di luar ruangan.\nLebih menyukai spesies yang sama.</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Chicken">
+			<NaiveTalk>Cluck, cluck!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Lebih menyukai Gandum di dekatnya</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Tidak menyukai karnivora</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Lebih menyukai Gandum di dekatnya. Suka berada di luar ruangan.\nTidak menyukai karnivora.</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Wolf">
+			<NaiveTalk>Rawr, rawr!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Lebih menyukai spesies yang sama</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Lebih menyukai spesies yang sama.\nSuka berada di luar ruangan.</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Boar">
+			<NaiveTalk>Oink, oink!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Lebih menyukai Jamur di dekatnya</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Lebih menyukai Jamur di dekatnya. Suka berada di luar ruangan. \N</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Frog">
+			<NaiveTalk>Ribbit, ribbit!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Lebih menyukai Bunga Teratai di dekatnya.</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Tidak menyukai karnivora</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Lebih menyukai Bunga Teratai di dekatnya. Suka berada di luar ruangan.\nTidak suka karnivora. \N</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Turtle">
+			<NaiveTalk>Caw, caw!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Lebih suka Reeds di dekatnya</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Suka berada di dalam ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Lebih suka Reeds di dekatnya. Suka berada di dalam ruangan.</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cat">
+			<NaiveTalk>Meow, meow!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Suka berada di dalam ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Tidak menyukai hewan lain</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Suka berada di dalam ruangan. Tidak menyukai hewan lain.</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Tiger">
+			<NaiveTalk>Roar, roar!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Tidak menyukai hewan lain</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Suka berada di luar ruangan. Tidak menyukai hewan lain.</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cattle">
+			<NaiveTalk>Moo, moo!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Suka rumput tinggi di dekatnya</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Tidak menyukai karnivora</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Suka rumput tinggi di dekatnya. Suka berada di luar ruangan.\nTidak menyukai karnivora. \N</PeferEnvironment.Desc>
+		</Text>
+	</List>
+</Texts>
