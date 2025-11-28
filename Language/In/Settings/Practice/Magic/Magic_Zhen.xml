@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenSheild">
+			<DisplayName>Barrier</DisplayName>
+			<TargetDesc>Pilih Bangunan atau Barang.</TargetDesc>
+		</Text>
+		<Text Name="ZhenAddModifier">
+			<DisplayName>Add modifier</DisplayName>
+			<TargetDesc>Pilih Bangunan atau Barang.</TargetDesc>
+		</Text>
+		<Text Name="ZhenAura">
+			<DisplayName>Man-made aura</DisplayName>
+			<TargetDesc>Pilih Bangunan atau Barang.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
