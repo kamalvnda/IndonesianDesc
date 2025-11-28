@@ -1,0 +1,60 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BPQuenchingMethods_test1">
+			<DisplayName>Test Green</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test2">
+			<DisplayName>Test Purple</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test3">
+			<DisplayName>Test Orange</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1">
+			<DisplayName>Acupoint Remold</DisplayName>
+			<Desc>Salah satu mantra pembuatan ulang paling dasar untuk kultivator fisik. Setiap kali mantra diucapkan, bagian target akan mengalami pencetakan ulang standar satu kali.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1_1">
+			<DisplayName>Remold of Eight Acupoints</DisplayName>
+			<Desc>Salah satu mantra remold paling dasar bagi kultivator fisik, sama dengan menggunakan Acupoint Remolding sebanyak 8 kali berturut-turut. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang standar sebanyak delapan kali, dan terakhir kali akan menghasilkan setidaknya satu arah evolusi yang langka.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_2">
+			<DisplayName>Wild Remold</DisplayName>
+			<Desc>Mantra cetakan ulang yang digunakan oleh setan liar. Membutuhkan lebih banyak esensi untuk merangsang tubuh fisik guna menciptakan lebih banyak arah evolusi. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang satu kali yang menciptakan lebih banyak arah evolusi.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_3">
+			<DisplayName>Remold of Six Directions</DisplayName>
+			<Desc>Menggunakan kesatuan enam arah untuk mengerjakan esensi, yang melemahkan sifatnya tetapi menawarkan efisiensi tinggi. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang dasar sebanyak enam kali.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_4">
+			<DisplayName>Emperor Remold</DisplayName>
+			<Desc>Mantra pembuatan ulang yang ditemukan oleh Lima Kaisar kuno, membutuhkan sejumlah besar esensi untuk efek penuhnya guna merangsang tubuh untuk berevolusi ke arah yang langka. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang satu kali yang kemungkinan besar akan menghasilkan evolusi tingkat lanjut.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_5">
+			<DisplayName>Aqua Remold</DisplayName>
+			<Desc>Membentuk kembali tubuh dengan Perhitungan Derivatif. Setiap kali mantra diucapkan, bagian target akan melalui pembentukan ulang standar sebanyak sembilan kali, dan terakhir kali akan menghasilkan setidaknya satu arah evolusi yang langka.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_6">
+			<DisplayName>Purple Star Remold</DisplayName>
+			<Desc>Membentuk kembali tubuh sesuai dengan Astrologi Bintang Ungu. Setiap kali mantra diucapkan, bagian target akan mengalami pembentukan ulang standar sebanyak 14 kali, dan terakhir kali akan menghasilkan setidaknya satu arah evolusi yang luar biasa.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp1">
+			<DisplayName>Firestruck Remold</DisplayName>
+			<Desc>Menggunakan Firestruck Blood untuk menstimulasi esensi pembentukan kembali. Meskipun jumlah kemungkinan evolusi pada setiap kali pembentukan kembali kecil, peluang terjadinya evolusi lanjutan akan lebih tinggi. Jika metode ini digunakan untuk membentuk kembali tulang belakang, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh tulang.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp2">
+			<DisplayName>Illusion Remold</DisplayName>
+			<Desc>Menggunakan Illusion Remold untuk merangsang esensi pembentukan ulang. Meskipun jumlah kemungkinan evolusi pada setiap kali pembentukan kembali kecil, peluang terjadinya evolusi lanjutan akan lebih tinggi. Jika metode ini digunakan untuk membentuk kembali otak, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh organ.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp3">
+			<DisplayName>Rejection Remold</DisplayName>
+			<Desc>Menggunakan Hati Transenden untuk memberikan Kekuatan Penolakan untuk menstimulasi esensi pembentukan kembali. Meskipun jumlah kemungkinan evolusi pada setiap kali pembentukan kembali kecil, peluang terjadinya evolusi lanjutan akan lebih tinggi. Jika metode ini digunakan untuk membentuk kembali jantung, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh daging.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_ReQuenching">
+			<DisplayName>Destruction Remold</DisplayName>
+			<Desc>Karena produk Qi ditolak oleh tubuh pemurni, ia menggunakan Esensi Abadi untuk mengatur ulang semua hasil pencetakan ulang di bagian tertentu untuk mengembalikannya ke keadaan fana.</Desc>
+		</Text>
+	</List>
+</Texts>
