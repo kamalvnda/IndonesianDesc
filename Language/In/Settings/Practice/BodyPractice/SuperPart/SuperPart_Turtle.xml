@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Turtle_1">
+			<Prefix>Creed Endurance</Prefix>
+			<Suffix>Shell</Suffix>
+			<Desc>Sebuah tubuh rahasia yang diturunkan oleh orang bijak penyu kuno yang membentuk kembali cangkangnya dengan Force of Creed. Setelah tercapai, hampir mustahil untuk ditembus.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara mendasar meningkatkan daya tahan rahasia tubuh dalam jumlah sedang.\n Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah besar.</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>
