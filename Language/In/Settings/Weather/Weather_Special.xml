@@ -1,0 +1,155 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LingUpWave_Sp">
+			<DisplayName>Qi Frenzy</DisplayName>
+			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri.</StoryDesc>
+		</Text>
+		<Text Name="FireRain">
+			<DisplayName>Moderate Rain</DisplayName>
+		</Text>
+		<Text Name="Rainstorm_Teach">
+			<DisplayName>Rainstorm</DisplayName>
+			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Teach2">
+			<DisplayName>Rainstorm</DisplayName>
+			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_Hack">
+			<DisplayName>Thunderstorm</DisplayName>
+			<StoryDesc>Karena campur tangan suatu kekuatan yang tidak diketahui, badai petir muncul entah dari mana.</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_AllSeason">
+			<DisplayName>Rainstorm</DisplayName>
+			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
+		</Text>
+		<Text Name="Fohn_AllSeason">
+			<DisplayName>Foehn Wind</DisplayName>
+			<StoryDesc>Angin hangat dan kering bertiup.</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_AllSeason">
+			<DisplayName>Dust Storm</DisplayName>
+			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara.</StoryDesc>
+		</Text>
+		<Text Name="Miasma_AllSeason">
+			<DisplayName>Noxious Air</DisplayName>
+			<StoryDesc>Suasana berbahaya menyebar.</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_AllSeason">
+			<DisplayName>Thunderstorm</DisplayName>
+			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan.</StoryDesc>
+		</Text>
+		<Text Name="JinLingMiMan">
+			<DisplayName>Metal Qi Swell</DisplayName>
+			<StoryDesc>Elemen Logam Qi meresap ke udara.</StoryDesc>
+		</Text>
+		<Text Name="MuLingMiMan">
+			<DisplayName>Wood Qi Swell</DisplayName>
+			<StoryDesc>Elemen Kayu Qi meresap ke udara.</StoryDesc>
+		</Text>
+		<Text Name="ShuiLingMiMan">
+			<DisplayName>Water Qi Swell</DisplayName>
+			<StoryDesc>Elemen Air Qi meresap ke udara.</StoryDesc>
+		</Text>
+		<Text Name="HuoLingMiMan">
+			<DisplayName>Fire Qi Swell</DisplayName>
+			<StoryDesc>Elemen Api Qi meresap ke udara.</StoryDesc>
+		</Text>
+		<Text Name="TuLingMiMan">
+			<DisplayName>Earth Qi Swell</DisplayName>
+			<StoryDesc>Elemen Tanah Qi meresap ke udara.</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Big">
+			<DisplayName>Qi Tide</DisplayName>
+			<StoryDesc>Qi membanjiri udara di sekelilingnya.</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave_Big">
+			<DisplayName>Qi Deficiency</DisplayName>
+			<StoryDesc>Kurangnya Qi.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_Drought">
+			<DisplayName>Extreme Heat</DisplayName>
+			<StoryDesc>Suhu yang sangat tinggi.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_HighTemp">
+			<DisplayName>Prolonged Drought</DisplayName>
+			<StoryDesc>Kekeringan ini sepertinya semakin parah.</StoryDesc>
+		</Text>
+		<Text Name="DimCave">
+			<DisplayName>Cave</DisplayName>
+			<StoryDesc>Itu adalah gua yang gelap.</StoryDesc>
+		</Text>
+		<Text Name="ForestRain">
+			<DisplayName>Raining</DisplayName>
+			<StoryDesc>Hujan turun di hutan hujan.</StoryDesc>
+		</Text>
+		<Text Name="LightSnow_Fov">
+			<DisplayName>Light Snow</DisplayName>
+			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan.</StoryDesc>
+		</Text>
+		<Text Name="SunSet">
+			<DisplayName>Sunset Glows</DisplayName>
+			<StoryDesc>Matahari Terbenam Bersinar</StoryDesc>
+		</Text>
+		<Text Name="DustPlace">
+			<DisplayName>Dust Storm</DisplayName>
+			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara.</StoryDesc>
+		</Text>
+		<Text Name="EverSnow">
+			<DisplayName>Light Snow</DisplayName>
+			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>Qi Aquasphere</DisplayName>
+			<StoryDesc>Ada area di dalam Qi Aquasphere.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_BeiDouJianJie">
+			<DisplayName>Grand Chariot Bladezone</DisplayName>
+			<StoryDesc>Ada area di dalam Grand Chariot Bladezone.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>Qi Ignosphere</DisplayName>
+			<StoryDesc>Ada area di dalam Qi Ignosphere.</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Mutation">
+			<DisplayName>Burst of Qi</DisplayName>
+			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri</StoryDesc>
+		</Text>
+		<Text Name="Yang_Mutation">
+			<DisplayName>Place of Extreme Yang</DisplayName>
+			<StoryDesc>Tempat Yang Tertinggi</StoryDesc>
+		</Text>
+		<Text Name="Yin_Mutation">
+			<DisplayName>Place of Extreme Yin</DisplayName>
+			<StoryDesc>Tempat Yin Tertinggi</StoryDesc>
+		</Text>
+		<Text Name="MouldRains_Mutation">
+			<DisplayName>Rainy Season</DisplayName>
+			<StoryDesc>Hujan berkepanjangan mengguyur daratan</StoryDesc>
+		</Text>
+		<Text Name="Drought_Mutation">
+			<DisplayName>Drought</DisplayName>
+			<StoryDesc>Matahari membakar seluruh bagian bawah dengan tatapannya yang berapi-api</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Mutation">
+			<DisplayName>Rainstorm</DisplayName>
+			<StoryDesc>Hujan badai mendatangkan malapetaka</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_Mutation">
+			<DisplayName>Dust Devil</DisplayName>
+			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara</StoryDesc>
+		</Text>
+		<Text Name="Miasma_Mutation">
+			<DisplayName>Noxious Air</DisplayName>
+			<StoryDesc>Suasana berbahaya menyebar</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong_Mutation">
+			<DisplayName>Thunderstorm</DisplayName>
+			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng_Mutation">
+			<DisplayName>Foehn Wind</DisplayName>
+			<StoryDesc>Angin hangat dan kering bertiup</StoryDesc>
+		</Text>
+	</List>
+</Texts>
