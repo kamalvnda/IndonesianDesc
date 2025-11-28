@@ -1,0 +1,62 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SpNpc_BasePropertie">
+			<DisplayName>Starting Stats</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_BaseFightPropertie">
+			<DisplayName>Base Battle Stats</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_Ling">
+			<DisplayName>Spiritual</DisplayName>
+			<Desc>Orang ini mempunyai fondasi yang sangat kuat, dengan energi Qi yang tak berdasar.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Shield">
+			<DisplayName>Resilient</DisplayName>
+			<Desc>Orang ini memiliki tubuh besi, dan sangat ahli dalam skill Perlindungan.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoAtk">
+			<DisplayName>Keen</DisplayName>
+			<Desc>Orang ini menggunakan Artefak seperti guntur, dengan kekuatan yang luar biasa menakjubkan.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoLing">
+			<DisplayName>Robust</DisplayName>
+			<Desc>Orang ini menggunakan Artefak seperti gunung, dengan kekuatan kekokohan yang tidak bisa dihancurkan.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoSpeed">
+			<DisplayName>Nimble</DisplayName>
+			<Desc>Orang ini menggunakan Artefak seperti kilat, dengan kecepatan secepat sambaran petir.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoDisp">
+			<DisplayName>Masterful</DisplayName>
+			<Desc>Orang ini menggunakan Artefak dengan keanggunan dan keanggunan yang tak tertandingi.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoNum">
+			<DisplayName>Versatile</DisplayName>
+			<Desc>Orang ini dapat menguasai banyak artefak.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillAtk">
+			<DisplayName>Mystic</DisplayName>
+			<Desc>Orang ini memiliki Kekuatan Mantra yang tak tertandingi.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillCD">
+			<DisplayName>Swift</DisplayName>
+			<Desc>Orang ini memiliki Pemulihan Penundaan Pemeran Mantra yang sangat cepat.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Comeback">
+			<DisplayName>Nemesis</DisplayName>
+			<Desc>Ketika berhadapan dengan musuh bebuyutan, kekuatan seseorang menjadi lebih kuat dari sebelumnya karena kebencian.</Desc>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+			<DisplayName>Qi Shaping Minimum</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+			<DisplayName>Core Shaping Minimum</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+			<DisplayName>Golden Core Minimum</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_God">
+			<DisplayName>Primordial Spirit Minimum</DisplayName>
+		</Text>
+	</List>
+</Texts>
