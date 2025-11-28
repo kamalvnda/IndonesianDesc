@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_2">
+			<DisplayName>Barbarous Forging Body</DisplayName>
+			<Desc>Hukum penanaman kembali yang diciptakan oleh pembudidaya fisik manusia mengacu pada tubuh Yaoguai alami orang bijak kuno. Hukum ini terkenal karena sifatnya yang liar dan agresif dan unggul dalam memurnikan tulang hingga akhirnya menciptakan Badan Penempaan yang Barbar. Tubuh fisik menjadi ilahi dan terlupakan.</Desc>
+			<SelectDesc>Latihan fisik berarti menggabungkan energi, Qi, dan roh menjadi satu, menghilangkan Qi dan benda magis lainnya, dan memulai latihan hanya dengan tubuh fisik. Apakah Anda ingin mengambil UU ini?</SelectDesc>
+			<Stages.0.DisplayName>Remold Phase</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Physical Reborn</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Marrow-cleansing Phase</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Marrow Change</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Incubation Phase</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Unifying Oneness</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Chaos Phase</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Paramount Penalty</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
