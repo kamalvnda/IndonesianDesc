@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Panda1">
+			<DisplayName>Lazy &amp; Naughty</DisplayName>
+			<Desc>Malas tapi nakal. Lambat dan ceroboh saat bekerja. Sangat menawan.</Desc>
+		</Text>
+		<Text Name="Panda2">
+			<DisplayName>Body of Yin and Yang</DisplayName>
+			<Desc>Tubuhnya merupakan kombinasi Yin dan Yang, dengan peningkatan kecepatan pembentukan ulang dan kecepatan belajar.</Desc>
+		</Text>
+	</List>
+</Texts>
