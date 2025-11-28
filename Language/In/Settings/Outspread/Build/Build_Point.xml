@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Farm">
+			<DisplayName>Field</DisplayName>
+			<Desc>Lahan pertanian di alam fana. Menghasilkan gandum.</Desc>
+		</Text>
+		<Text Name="Mine">
+			<DisplayName>Mine</DisplayName>
+			<Desc>Tambang di alam fana. Menghasilkan batu coklat.</Desc>
+		</Text>
+		<Text Name="Lumber">
+			<DisplayName>Logging Camp</DisplayName>
+			<Desc>Penebangan kamp di alam fana. Menghasilkan kayu.</Desc>
+		</Text>
+		<Text Name="LingMine">
+			<DisplayName>Spirit Stone Mine</DisplayName>
+			<Desc>Batu roh menambang di alam fana. Menghasilkan batu roh.</Desc>
+		</Text>
+		<Text Name="Statue">
+			<DisplayName>Statue</DisplayName>
+			<Desc>Patung dewa. Setelah dibangun, jika seorang murid Shendao membangun Kuil Keajaiban di Alam Ilahi, Anda dapat menunjuk murid tersebut untuk dirasuki di sini.</Desc>
+		</Text>
+		<Text Name="Arena">
+			<DisplayName>Dojo</DisplayName>
+			<Desc>Dojo. Setelah dibangun, tempat ini dapat digunakan untuk latihan oleh para murid yang ditempatkan di sini.</Desc>
+		</Text>
+	</List>
+</Texts>
