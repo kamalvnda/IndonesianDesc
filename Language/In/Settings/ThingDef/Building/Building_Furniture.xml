@@ -1,0 +1,103 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Bed" sParam="Building">
+			<ThingName>Bed</ThingName>
+			<Desc>Tempat tidur single yang dapat memberikan Anda tidur malam yang nyenyak.</Desc>
+		</Text>
+		<Text Name="DoubleBed" sParam="Building">
+			<ThingName>Double Bed</ThingName>
+			<Desc>Tempat tidur double cocok untuk dua orang.</Desc>
+		</Text>
+		<Text Name="SmallTable" sParam="Building">
+			<ThingName>Table</ThingName>
+			<Desc>Meja sederhana tempat orang makan.</Desc>
+		</Text>
+		<Text Name="Table" sParam="Building">
+			<ThingName>Square Table</ThingName>
+			<Desc>Meja tradisional tempat orang makan malam.</Desc>
+		</Text>
+		<Text Name="WaterTank" sParam="Building">
+			<ThingName>Water Vat</ThingName>
+			<Desc>Wadah untuk menyimpan dan menjernihkan air. Akan sangat nyaman untuk memiliki tempat yang sering membutuhkan air.</Desc>
+		</Text>
+		<Text Name="SmallPool" sParam="Building">
+			<ThingName>Destiny Pool</ThingName>
+			<Desc>Kolam yang terbuat dari Tembaga Api dan Kristal Es dengan Benih Keberuntungan sebagai intinya. Secara bertahap dapat meningkatkan kualitas bumi disekitarnya.</Desc>
+		</Text>
+		<Text Name="StreetLight" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<Desc>Lampu hias yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="StreetLight1" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<Desc>Lampu hias yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="StreetLight2" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<Desc>Lampu hias yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Lantern" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Lantern1" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Lantern2" sParam="Building">
+			<ThingName>Lantern (Protection)</ThingName>
+		</Text>
+		<Text Name="Lantern3" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Lantern4" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Lantern5" sParam="Building">
+			<ThingName>Prosperity Lantern</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Lantern6" sParam="Building">
+			<ThingName>Harmony Lantern</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Lantern_S1" sParam="Building">
+			<ThingName>Crane Lantern</ThingName>
+			<Desc>Cahaya yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+		</Text>
+		<Text Name="Candlestick" sParam="Building">
+			<ThingName>Oil Lamp</ThingName>
+			<Desc>Lampu yang sering digunakan di dalam ruangan yang bersinar di malam hari untuk menerangi lingkungan sekitarnya.</Desc>
+		</Text>
+		<Text Name="TicTacToe" sParam="Building">
+			<ThingName>Tic-tac-toe</ThingName>
+			<Desc>Tidak memerlukan bahan apa pun, hanya area kosong di tanah untuk bermain tic-tac-toe.</Desc>
+		</Text>
+		<Text Name="GoTable" sParam="Building">
+			<ThingName>Go Table</ThingName>
+			<Desc>Meja Go pendek dengan kisi 19x19 untuk dua orang memainkan permainan Go On yang hebat.</Desc>
+		</Text>
+		<Text Name="GuzhengTable" sParam="Building">
+			<ThingName>Zither Table</ThingName>
+			<Desc>Sebuah meja dengan Sitar Cina di atasnya yang dapat dimainkan oleh satu orang.</Desc>
+		</Text>
+		<Text Name="CalligraphyTable" sParam="Building">
+			<ThingName>Talisman Table</ThingName>
+			<Desc>Meja dengan kuas tulis, tongkat tinta, kertas dan batu tinta di atasnya yang dapat digunakan untuk menggambar jimat. Selain itu juga dapat digunakan untuk keperluan bersantai.</Desc>
+		</Text>
+		<Text Name="CageShelf" sParam="Building">
+			<ThingName>Bird Cage</ThingName>
+			<Desc>Sangkar burung yang dibuat dengan indah untuk orang yang memelihara burung dan serangga.</Desc>
+		</Text>
+		<Text Name="Building_Tomb" sParam="Building">
+			<ThingName>Grave</ThingName>
+			<Desc>Tempat pemakaman sederhana bagi orang mati.</Desc>
+		</Text>
+		<Text Name="Building_BigTomb" sParam="Building">
+			<ThingName>Tomb</ThingName>
+			<Desc>Tempat pemakaman orang mati.</Desc>
+		</Text>
+	</List>
+</Texts>
