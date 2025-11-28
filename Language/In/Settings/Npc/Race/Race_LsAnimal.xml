@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<DisplayName>Huajuan</DisplayName>
+			<Desc>Anjing Ilahi Huajuan adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>warisan warisan,</TalkBefore>
+			<TalkAfter>, ah!</TalkAfter>
+		</Text>
+		<Text Name="LsFox">
+			<DisplayName>Qin Muxue</DisplayName>
+			<Desc>Spirit Rubah Qinmuxue adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>Melolong melolong,</TalkBefore>
+			<TalkAfter>, melolong!</TalkAfter>
+		</Text>
+		<Text Name="LsDragon">
+			<DisplayName>Changhai</DisplayName>
+			<Desc>Naga Terbang Changhai adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>Baris baris,</TalkBefore>
+			<TalkAfter>, menggeram!</TalkAfter>
+		</Text>
+		<Text Name="LsPhoenix">
+			<DisplayName>Yiming</DisplayName>
+			<Desc>Phoenix Kegelapan Yiming adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
+			<TalkBefore>Kicauan kicauan,</TalkBefore>
+			<TalkAfter>, kicauan!</TalkAfter>
+		</Text>
+	</List>
+</Texts>
