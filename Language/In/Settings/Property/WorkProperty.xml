@@ -1,0 +1,186 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TestProperty1">
+			<DisplayName>Test Data</DisplayName>
+		</Text>
+		<Text Name="GlobalEfficiency">
+			<DisplayName>Overall Work Efficiency</DisplayName>
+			<Desc>Tingkat kerja dasar para pembudidaya, yang mempengaruhi semua pekerjaan yang mereka lakukan.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="SmithingInjuredChance">
+			<DisplayName>Forging Injury Chance</DisplayName>
+			<Desc>Kemungkinan terjadinya kecelakaan yang merugikan saat melakukan pekerjaan penempaan.</Desc>
+		</Text>
+		<Text Name="MiningInjuredChance">
+			<DisplayName>Digging Injury Chance</DisplayName>
+			<Desc>Kemungkinan terjadinya kecelakaan berbahaya saat melakukan pekerjaan penggalian.</Desc>
+		</Text>
+		<Text Name="ConstructInjuredChance">
+			<DisplayName>Construction Injury Chance</DisplayName>
+			<Desc>Kemungkinan terjadinya kecelakaan yang merugikan pada saat melaksanakan pekerjaan bangunan.</Desc>
+		</Text>
+		<Text Name="DrugProductSpeed">
+			<DisplayName>Medicine Craft Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan pembuatan obat, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="TreatSpeed">
+			<DisplayName>Healing Speed</DisplayName>
+			<Desc>Laju kerja yang berhubungan dengan penyembuhan, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="TreatSuccessChance">
+			<DisplayName>Healing Success Rate</DisplayName>
+			<Desc>Kemungkinan penyembuhan berhasil dilakukan. Kegagalan dapat memperburuk cedera.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="TreatmentExpectQuality">
+			<DisplayName>Healing Estimate</DisplayName>
+			<DisplayValue>{0}%/sec</DisplayValue>
+			<Desc>Perkiraan nilai berapa lama waktu yang dibutuhkan cedera untuk pulih setelah perawatan. Dapat bervariasi sesuai dengan status dokter.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="TreatmentRealQualityPercentMin">
+			<DisplayName>Minimum Healing</DisplayName>
+			<Desc>Nilai acak terendah yang dapat dicapai saat melakukan penyembuhan.</Desc>
+		</Text>
+		<Text Name="TreatmentRealQualityPercentMax">
+			<DisplayName>Maximum Healing</DisplayName>
+			<Desc>Nilai acak tertinggi yang dapat dicapai saat melakukan penyembuhan.</Desc>
+		</Text>
+		<Text Name="CookingSpeed">
+			<DisplayName>Cooking Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan memasak, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="ButcherSpeed">
+			<DisplayName>Butchering Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan menyembelih, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="ButcherYieldEfficiency">
+			<DisplayName>Butchering Yield</DisplayName>
+			<Desc>Perbandingan bulu dan daging yang dihasilkan dari pemotongan.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="CookingSuccessChance">
+			<DisplayName>Cooking Success Rate</DisplayName>
+			<Desc>Tingkat keberhasilan menyiapkan makanan. Kegagalan dapat mengakibatkan makanan rusak.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="StoneWorkSpeed">
+			<DisplayName>Stoneworking Speed</DisplayName>
+			<Desc>Kecepatan kerja yang berhubungan dengan pemrosesan dan pemolesan material batu, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="ConstructionSpeed">
+			<DisplayName>Building Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan konstruksi, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="ConstructSuccessChance">
+			<DisplayName>Building Success Rate</DisplayName>
+			<Desc>Tingkat keberhasilan struktur bangunan. Kegagalan dapat menyebabkan cedera.</Desc>
+		</Text>
+		<Text Name="PlantWorkSpeed">
+			<DisplayName>Farming Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan bertani, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="PlantHarvestSpeed">
+			<DisplayName>Harvesting Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan pemanenan, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="PlantHarvestYieldEfficiency">
+			<DisplayName>Harvest Yield</DisplayName>
+			<Desc>Hasil panen diperoleh dari memanen tanaman.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="MiningSpeed">
+			<DisplayName>Mining Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan penambangan, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="MiningYieldEfficiency">
+			<DisplayName>Mining Yield</DisplayName>
+			<Desc>Hasil yang diperoleh dari penambangan mineral.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="MadeQualityAddValue">
+			<DisplayName>Crafting Quality Gains</DisplayName>
+			<Desc>Kualitas yang ditambahkan pada barang saat mengolahnya menjadi produk akhir.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="ArtRateValue">
+			<DisplayName>Estimated Artwork Value</DisplayName>
+			<Desc>Kualitas yang ditambahkan pada barang saat mengolahnya menjadi produk akhir.</Desc>
+		</Text>
+		<Text Name="SmithingSpeed">
+			<DisplayName>Forging Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang terkait dengan penempaan, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="HandworkSpeed">
+			<DisplayName>Handicraft Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan kerajinan tangan, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="TailoringSpeed">
+			<DisplayName>Sewing Speed</DisplayName>
+			<Desc>Kecepatan kerja yang berhubungan dengan menjahit, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="ManufactureExpectQuality">
+			<DisplayName>Product Quality Estimate</DisplayName>
+			<Desc>Perkiraan kualitas suatu produk yang dibuat. Nilai produk akhir akan berada dalam margin sekitar perkiraan ini.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="ManufactureRealQualityPercentMin">
+			<DisplayName>Minimum Craft Quality</DisplayName>
+			<Desc>Kualitas serendah mungkin dari suatu barang yang dibuat.</Desc>
+		</Text>
+		<Text Name="ManufactureRealQualityPercentMax">
+			<DisplayName>Maximum Craft Quality</DisplayName>
+			<Desc>Kualitas tertinggi dari suatu barang yang sedang dibuat.</Desc>
+		</Text>
+		<Text Name="SmithingQualityAddValue">
+			<DisplayName>Forging Quality Gains</DisplayName>
+			<Desc>Kualitas yang ditambahkan pada barang jadi saat ditempa.</Desc>
+		</Text>
+		<Text Name="HandworkQualityAddValue">
+			<DisplayName>Handicraft Quality Gains</DisplayName>
+			<Desc>Kualitas yang ditambahkan pada barang jadi saat membuat kerajinan tangan.</Desc>
+		</Text>
+		<Text Name="TailoringQualityAddValue">
+			<DisplayName>Sewing Quality Gains</DisplayName>
+			<Desc>Kualitas yang ditambahkan pada barang jadi saat menjahit.</Desc>
+		</Text>
+		<Text Name="CuttingSpeed">
+			<DisplayName>Cutting Speed</DisplayName>
+			<Desc>Kecepatan kerja yang berhubungan dengan menebang kayu, memotong rumput dan sebagainya, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="DisasterFightingSpeed">
+			<DisplayName>Firefighting Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan perilaku pemadaman kebakaran, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="DisasterFightingSuccessChance">
+			<DisplayName>Firefighting Success Rate</DisplayName>
+			<Desc>Peluang sukses saat melakukan manuver pemadaman kebakaran. Kegagalan dapat mengakibatkan cedera.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="CleanSpeed">
+			<DisplayName>Cleaning Speed</DisplayName>
+			<Desc>Tingkat pekerjaan yang berhubungan dengan pembersihan, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+		<Text Name="SocialInclination">
+			<DisplayName>Social Tendency</DisplayName>
+			<Desc>Kecenderungan untuk mempunyai perilaku sosial yang berbeda-beda, dipengaruhi oleh suasana hati.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
+		</Text>
+	</List>
+</Texts>
