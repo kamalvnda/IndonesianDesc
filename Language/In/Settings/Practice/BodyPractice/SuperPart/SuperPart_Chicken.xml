@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Chicken_1">
+			<Prefix>Solar</Prefix>
+			<Suffix>Needles</Suffix>
+			<Desc>Sebuah badan rahasia yang diturunkan dari garis keturunan ayam Yaoguai yang menyatukan kekuatan Yang ke paruhnya dan memberinya Kekuatan Penghancur. Menggunakannya untuk menyerang dengan paruh dan unggul dalam menembus penghalang Qi.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.\n Secara drastis meningkatkan tingkat penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_2">
+			<Prefix>Skyfire</Prefix>
+			<Suffix>Crown</Suffix>
+			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan ayam Yaoguai yang membentuk kembali mahkotanya dengan Kekuatan Matahari. Setelah tercapai, pencetakan ulang akan menjadi sangat efisien.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan tingkat pencetakan ulang kultivator fisik dalam jumlah besar.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_3">
+			<Prefix>Prismatic</Prefix>
+			<Suffix>Aura</Suffix>
+			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan ayam Yaoguai, yang aslinya berasal dari bulu ekor yang dibentuk ulang oleh Peacock Sage mengikuti keyakinan kuno Lima Elemen. Setelah tercapai, tidak ada yang bisa lepas dari genggamannya.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan peluang penekanan artefak tubuh rahasia dalam jumlah besar.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
