@@ -1,0 +1,180 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Empty</DisplayName>
+			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong)</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences1">
+			<DisplayName>Fierce Warrior</DisplayName>
+			<Desc>Reinkarnasi ini telah mengorbankan semua Hukum yang dikembangkan, namun jurus pamungkas dari Prajurit Fierce belum dilupakan. \n\n\nPanduan Awal: [color=#F2AD35]Pukulan Liar[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences2">
+			<DisplayName>A Beautiful World</DisplayName>
+			<Desc>Sebuah kotak aneh, berisi harapan banyak orang untuk dunia yang lebih baik. \n\n\nArtefak Warisan Awal: [color=#F2AD35]Dunia yang Indah[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences3">
+			<DisplayName>Otherworld Traveler</DisplayName>
+			<Desc>Anda berasal dari dunia lain, membawa pedang yang tampak aneh. \n\n\nSenjata Awal: [color=#F2AD35]Daraboomba[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences4">
+			<DisplayName>Techno Sword</DisplayName>
+			<Desc>Pedang ini adalah tanda dari pemimpin Sekte Teknologi Masa Depan. \n\n\nSenjata Awal: [color=#F2AD35]Pedang Techno[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences5">
+			<DisplayName>Awakened Heart</DisplayName>
+			<Desc>Panduan ajaib yang dapat memfokuskan Qi di dalam tengkorak Anda, dan meningkatkan Kecerdasan Anda. Serta... \n\n\nPanduan Awal: [color=#F2AD35]Hati yang Terbangun[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences6">
+			<DisplayName>Stardom</DisplayName>
+			<Desc>Memori tertutup tentang Pengembara yang menikahkan putrinya di dimensi lain.\n\n\nHarta Karun Awal: Memori Tertutup: Stardom[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences7">
+			<DisplayName>Lucky Trick</DisplayName>
+			<Desc>Orang ini terlahir beruntung, dengan Hukum yang cerdik terpatri dalam pikiran mereka. \n\n\nBuka Hukum: [color=#F2AD35]Hukum Pencurian Surga[/color]\nStatistik yang Diperlukan: Konstitusi Tinggi.</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences8">
+			<DisplayName>Dark Swordmaster</DisplayName>
+			<Desc>Orang ini adalah reinkarnasi pendekar pedang terkenal, yang pernah menyerang balik dan membunuh Ahli Racun Korea untuk meringankan situasi yang mengerikan. \n\n\nSenjata Awal: [color=#F2AD35]Pedang Banedragon[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences9">
+			<DisplayName>Incredible Force</DisplayName>
+			<Desc>Orang ini memiliki keterampilan unik yang dapat melampaui batas kemampuannya untuk memberikan kekuatan super dalam situasi yang mengerikan, dengan mengorbankan umurnya. \n\n\nPanduan Awal: [color=#F2AD35]Kekuatan Luar Biasa[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences10">
+			<DisplayName>Magical Talisman</DisplayName>
+			<Desc>Orang ini membawa kotak jimat ajaib dengan tiga jimat misterius di dalamnya. \n\n\nHarta Karun Awal: [color=#F2AD35]Kotak Jimat Ajaib[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences11">
+			<DisplayName>Blessed Talisman</DisplayName>
+			<Desc>Orang ini membawa kotak jimat ajaib dengan satu jimat yang sangat langka di dalamnya. \n\n\nHarta Karun Awal: [color=#F2AD35]Peti Jimat Ajaib[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences12">
+			<DisplayName>Kunlun Immortal's Law</DisplayName>
+			<Desc>Setelah berusaha keras untuk mencapai eksistensi yang dikultivasikan sepanjang hidup mereka, orang ini akhirnya menemukan sebuah manual yang ditulis oleh seorang abadi kuno di Mt.Kunlun. \n\n\nPanduan Awal: [color=#F2AD35]Hukum Kunlun Immortal[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences13">
+			<DisplayName>Blessed Incarnation</DisplayName>
+			<Desc>Orang ini adalah inkarnasi dari doa orang lain, dan karenanya terlahir dengan kekuatan magis. \n\n\nPedoman Awal: [color=#F2AD35]Jimat Doa[/color]. \nHarta Karun Awal: [color=#F2AD35]Hati Doa[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences14">
+			<DisplayName>Reincarnated Immortal Swordsman</DisplayName>
+			<Desc>Orang ini adalah pedang abadi yang sangat terkenal di kehidupan sebelumnya. Karena itu, mereka dilahirkan dengan artefak khusus. Meski kehilangan kekuatan magisnya, artefak ini tetap memiliki sifat yang luar biasa. \n\n\nHarta Karun Awal: [color=#F2AD35]Paku dari Sekte He[/color].</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences15">
+			<DisplayName>Myriad Artifact Legacy</DisplayName>
+			<Desc>Anda adalah keturunan Kejelasan Tertinggi. Setelah dewasa, ingatan Anda kembali dan secara alami mewarisi Hukum Artefak Segudang. \n\n\nBuka Hukum: [color=#F2AD35]Segudang Hukum Artefak[/color]\nAwal dari Hukum ini bisa jadi sulit. Tidak disarankan untuk pemain pemula.</Desc>
+		</Text>
+		<Text Name="Experiences1">
+			<DisplayName>Sixteen-steps Disciple</DisplayName>
+			<Desc>Anda selalu ingin menjadi murid Sekolah Enam Belas Langkah Sekte Taiyi. Setelah bekerja keras tanpa lelah, Anda berhasil membuka Hukum Enam Belas Langkah Tertinggi, salah satu Hukum sejati dari Sekte Taiyi. \n\n\nBuka Kunci Hukum: [color=#F2AD35]Hukum Enam Belas Langkah Tertinggi[/color]\nStatistik yang Diperlukan: Konstitusi Tinggi, Karisma Biasa-biasa saja, Kecerdasan Biasa-biasa saja.</Desc>
+		</Text>
+		<Text Name="Experiences2">
+			<DisplayName>Plough Disciple</DisplayName>
+			<Desc>Anda selalu ingin menjadi murid Sekolah Bajak Sekte Taiyi. Setelah bekerja keras tanpa kenal lelah, Anda berhasil membuka Hukum Kebijaksanaan Kereta Agung, salah satu Hukum sejati dari Sekte Taiyi. \n\n\nBuka Kunci Hukum: [color=#F2AD35]Hukum Kebijaksanaan Kereta Agung[/color]\nStatistik yang Diperlukan: Persepsi Tinggi, Konstitusi Biasa-biasa saja, Kecerdasan Biasa-biasa saja.</Desc>
+		</Text>
+		<Text Name="Experiences3">
+			<DisplayName>Reincarnation Disciple</DisplayName>
+			<Desc>Anda selalu ingin menjadi murid di Sekolah Reinkarnasi Sekte Taiyi. Setelah bekerja keras tanpa lelah, Anda berhasil membuka Hukum Reinkarnasi Enam Jalan, salah satu Hukum sejati dari Sekte Taiyi. \n\n\nBuka Hukum: [color=#F2AD35]Hukum Reinkarnasi Enam Jalur[/color]\nStatistik yang Diperlukan: Konstitusi Biasa-biasa saja, Persepsi Tinggi, Kecerdasan Tinggi.</Desc>
+		</Text>
+		<Text Name="Experiences4">
+			<DisplayName>True Sun Disciple</DisplayName>
+			<Desc>Anda selalu ingin menjadi murid di Sekolah Matahari Sejati dari Sekte Taiyi. Setelah upaya yang tak kenal lelah, Anda berhasil membuka Hukum Pemurnian Matahari Sejati, salah satu Hukum sejati dari Sekte Taiyi. \n\n\nBuka Hukum: [color=#F2AD35]Hukum Pemurnian Matahari Sejati[/color]\nStatistik yang Diperlukan: Persepsi Biasa-biasa saja, Konstitusi Biasa-biasa saja, Karisma Biasa-biasa saja, Kecerdasan Biasa-biasa saja, Keberuntungan Biasa-biasa saja.</Desc>
+		</Text>
+		<Text Name="Experiences5">
+			<DisplayName>Sunflower Disciple</DisplayName>
+			<Desc>Anda selalu ingin menjadi murid di Sekolah Bunga Matahari dari Sekte Taiyi. Setelah upaya yang tak kenal lelah, Anda berhasil membuka Hukum Pemurnian Bunga Matahari, salah satu Hukum sejati dari Sekte Taiyi. \n\n\nBuka Kunci Hukum: [color=#F2AD35]Hukum Pemurnian Bunga Matahari[/color]\nStatistik yang Diperlukan: Persepsi Tinggi, Karisma Tinggi, Kecerdasan Tinggi.</Desc>
+		</Text>
+		<Text Name="Experiences6">
+			<DisplayName>Casual Cultivator</DisplayName>
+			<Desc>Anda hanya ingin mendapatkan pemahaman dasar tentang kultivasi, dan tidak terlalu tertarik pada Hukum tertentu di antara lima aliran di Sekte Taiyi. Anda bersedia mengikuti arus. \n\n\n[color=#F2AD35]Lima Indra[/color] meningkat.</Desc>
+		</Text>
+		<Text Name="Experiences1G1_1">
+			<DisplayName>Alchemy Legacy</DisplayName>
+			<Desc>Anda secara tidak sengaja mewarisi Hukum Alkimia Primordial sebelum bergabung dengan Sekte Taiyi, yang membuat Anda takut menarik terlalu banyak perhatian sebagai akibatnya. \n\n\nBuka Hukum: [color=#F2AD35]Hukum Alkimia Primordial[/color]\nAwal dari Hukum ini bisa jadi sulit. Tidak disarankan untuk pemain pemula.</Desc>
+		</Text>
+		<Text Name="Experiences1G1_2">
+			<DisplayName>Myriad Artifact Legacy</DisplayName>
+			<Desc>Anda secara tidak sengaja mewarisi Hukum Artefak Segudang sebelum bergabung dengan Sekte Taiyi, yang membuat Anda takut menarik terlalu banyak perhatian sebagai akibatnya. \n\n\nBuka Hukum: [color=#F2AD35]Segudang Hukum Artefak[/color]\nAwal dari Hukum ini bisa jadi sulit. Tidak disarankan untuk pemain pemula.</Desc>
+		</Text>
+		<Text Name="Experiences1G1_3">
+			<DisplayName>Sword Legacy</DisplayName>
+			<Desc>Anda secara tidak sengaja mewarisi Pedang Tujuh Pembantaian sebelum bergabung dengan Sekte Taiyi, sehingga membuat Anda takut menarik terlalu banyak perhatian sebagai akibatnya. \n\n\nBuka Hukum: [color=#F2AD35]Pedang Tujuh Pembantaian[/color]\nAwal dari Hukum ini bisa jadi sulit. Tidak disarankan untuk pemain pemula.</Desc>
+		</Text>
+		<Text Name="Experiences1G1_4">
+			<DisplayName>Heaven stealing Legacy</DisplayName>
+			<Desc>Anda secara tidak sengaja mewarisi Hukum Mencuri Surga sebelum bergabung dengan Sekte Taiyi, sehingga membuat Anda takut untuk menarik terlalu banyak perhatian sebagai akibatnya. \n\n\nBuka Hukum: [color=#F2AD35]Hukum Pencurian Surga[/color]\nAwal dari Hukum ini bisa jadi sulit. Tidak disarankan untuk pemain pemula.</Desc>
+		</Text>
+		<Text Name="Experiences1G1_5">
+			<DisplayName>Emotion Severing Legacy</DisplayName>
+			<Desc>Anda secara tidak sengaja mewarisi Hukum Pemutusan Emosi sebelum bergabung dengan Sekte Taiyi, yang membuat Anda takut menarik terlalu banyak perhatian sebagai akibatnya. \n\n\nBuka Kunci Hukum: [color=#F2AD35]Hukum Pemutusan Emosi[/color]\nAwal dari Undang-undang ini bisa jadi sulit. Tidak disarankan untuk pemain pemula.</Desc>
+		</Text>
+		<Text Name="Experiences23">
+			<DisplayName>Artifact Savior</DisplayName>
+			<Desc>Pada malam penyerangan, ruang artefak dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang. \n\n\nSumber Daya Awal ditambahkan: [color=#F2AD35]Artefak Tingkat Lanjut[/color].</Desc>
+		</Text>
+		<Text Name="Experiences24">
+			<DisplayName>Elixir Savior</DisplayName>
+			<Desc>Pada malam penyerangan, ruang ramuan dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang. \n\n\nSumber daya awal ditambahkan: [color=#F2AD35]Eliksir Tingkat Lanjut[/color].</Desc>
+		</Text>
+		<Text Name="Experiences25">
+			<DisplayName>Manual Savior</DisplayName>
+			<Desc>Pada malam penyerangan, ruang manual dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang. \n\n\nSumber daya awal ditambahkan: [color=#F2AD35]Manual Lanjutan[/color].</Desc>
+		</Text>
+		<Text Name="Experiences26">
+			<DisplayName>Talisman Savior</DisplayName>
+			<Desc>Pada malam penyerangan, ruang jimat dibobol. Anda tidak tega melihat barang langka seperti itu dijarah, jadi Anda mempertaruhkan hidup Anda untuk menyelamatkan beberapa orang. \n\n\nSumber daya awal ditambahkan: [color=#F2AD35]Jimat Tingkat Lanjut[/color].</Desc>
+		</Text>
+		<Text Name="Experiences31">
+			<DisplayName>Loner</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda menjadi sangat berdedikasi pada latihan ini, tidak mau menghabiskan waktu bersosialisasi dengan orang lain. Pada malam penyerangan, tidak ada seorang pun yang tertarik untuk mengikuti Anda, sehingga Anda melarikan diri sendirian. \n\n\n[color=#F2AD35]murid[/color] awal dikurangi 2.</Desc>
+		</Text>
+		<Text Name="Experiences27">
+			<DisplayName>Reticent</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda tidak terlalu memikirkan jaringan, karena Anda tahu bahwa mempraktikkan dasar-dasarnya adalah yang paling penting. Pada malam penyerangan, Anda melarikan diri hanya dengan satu teman. \n\n\n[color=#F2AD35]murid[/color] awal dikurangi 1.</Desc>
+		</Text>
+		<Text Name="Experiences29">
+			<DisplayName>Sociable</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda bertemu banyak teman yang berpikiran sama. Pada malam penyerangan, mereka semua melarikan diri bersama Anda. \n\n\n[color=#F2AD35]murid[/color] awal bertambah 1.</Desc>
+		</Text>
+		<Text Name="Experiences30">
+			<DisplayName>Leadership</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda menghabiskan banyak waktu menyatukan sesama murid luar, dan mendapatkan reputasi yang baik di antara mereka. Pada malam penyerangan, mereka semua melarikan diri bersama Anda. \n\n\n[color=#F2AD35]murid[/color] awal bertambah 2.</Desc>
+		</Text>
+		<Text Name="Experiences7">
+			<DisplayName>Hedonism</DisplayName>
+			<Desc>Anda memandang kultivasi sebagai sarana untuk mendapatkan lebih banyak kesenangan dalam hidup. Oleh karena itu, setelah bergabung dengan Sekte Taiyi, Anda sering kali mengeksploitasi posisi Anda sebagai murid abadi untuk bersenang-senang di luar sekte tersebut. \n\n\n[color=#F2AD35]Karisma [/color]meningkat. \n[color=#F2AD35]Keterampilan [/color]Sosial meningkat. \nPerlengkapan awal ditambahkan: [color=#F2AD35]Pakaian dan Aksesori[/color].</Desc>
+		</Text>
+		<Text Name="Experiences8">
+			<DisplayName>Spare Food</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda terjebak dalam segel ajaib selama sebulan saat bertualang. Setelah merasakan penderitaan akibat kelaparan yang luar biasa di masa lalu, Anda belajar untuk selalu membawa makanan yang cukup. \n\n\n[color=#F2AD35]Konstitusi [/color]meningkat. \n [color=#F2AD35]awal sumber daya makanan dan minuman[/color] meningkat secara substansial. \nSumber daya awal ditambahkan: [color=#F2AD35]Pil Puasa[/color].</Desc>
+		</Text>
+		<Text Name="Experiences9">
+			<DisplayName>Builder</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda diberi tanggung jawab untuk membangun area murid luar sekte tersebut. Pekerjaan Anda mengharuskan Anda membawa semua jenis sumber daya, dan bekerja di berbagai tempat di sekitar sekte. \n\n\n[color=#F2AD35]Persepsi [/color]meningkat. \nSumber daya bangunan [color=#F2AD35] awal[/color] meningkat secara signifikan. \nSumber daya awal ditambahkan: [color=#F2AD35]Bahan Langka[/color].</Desc>
+		</Text>
+		<Text Name="Experiences10">
+			<DisplayName>Manual Guard</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda bertanggung jawab atas keamanan Paviliun Manual. Anda mengambil kesempatan untuk menyalin dan mencatat beberapa Panduan Pemula untuk referensi di masa mendatang. \n\n\n[color=#F2AD35]Kecerdasan [/color]meningkat. \nSumber daya awal ditambahkan: [color=#F2AD35]Manual: Koleksi Jimat Dasar, Pengantar Ramuan[/color].</Desc>
+		</Text>
+		<Text Name="Experiences11">
+			<DisplayName>Swordsman</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda memperoleh pedang terkenal saat sedang bertualang. Anda menyimpannya sepanjang waktu, berharap suatu hari nanti dapat membuatnya menjadi artefak. Karena itu, Anda akan sering mengajukan pertanyaan kepada murid senior terkait dengan berbagai metode penguasaan artefak. \n\n\n[color=#F2AD35]Penguasaan Artefak [/color]keterampilan meningkat. \nSumber daya awal ditambahkan: [color=#F2AD35]Senjata (Pedang)[/color].</Desc>
+		</Text>
+		<Text Name="Experiences12">
+			<DisplayName>Enchanted</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda sering meminjam buku-buku tebal tentang mantra dari Paviliun Manual. Suatu kali ketika sedang membaca buku seperti itu, sebuah cahaya memancar dari dalam halaman-halamannya, dan menembus jauh ke dalam pikiran Anda. Sejak hari itu, Anda telah menunjukkan bakat khusus dalam bidang mantra. \n\n\n[color=#F2AD35]Keterampilan mantra [/color]meningkat. \nAwal [color=#F2AD35]Kekuatan Mantra [/color]meningkat.</Desc>
+		</Text>
+		<Text Name="Experiences13">
+			<DisplayName>Ironclad</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda pernah makan buah aneh saat sedang bertualang. Seorang dosen senior melakukan pemeriksaan, dan menyimpulkan bahwa buah tersebut benar-benar meningkatkan Qi dan Meridian Anda. Ini menghasilkan peningkatan Qi Perlindungan Anda. \n\n\n[color=#F2AD35]Perlindungan [/color]keterampilan meningkat. \nAwal [color=#F2AD35]Qi Barrier Power[/color] meningkat.</Desc>
+		</Text>
+		<Text Name="Experiences14">
+			<DisplayName>Student of Elixirs</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda ditugaskan untuk bekerja di ruang ramuan. Anda membawa segala jenis obat-obatan untuk membantu para kultivator senior dalam mempraktikkan alkimia. \n\n\n[color=#F2AD35]Keterampilan penyembuhan [/color]meningkat. \n[color=#F2AD35]Keterampilan Kerajinan Ajaib [/color]keterampilan meningkat. \nSumber daya obat[/color] awal meningkat secara signifikan. \nSumber daya awal ditambahkan: [color=#F2AD35]Obat Langka[/color].</Desc>
+		</Text>
+		<Text Name="Experiences15">
+			<DisplayName>Student of Artifacts</DisplayName>
+			<Desc>Setelah bergabung dengan Sekte Taiyi, Anda ditugaskan untuk bekerja di ruang artefak. Anda membawa segala macam sumber daya untuk membantu para pembudidaya senior dalam membuat artefak. \n\n\n[color=#F2AD35]Keterampilan membuat [/color]meningkat. \n[color=#F2AD35]Keterampilan Kerajinan Ajaib [/color]keterampilan meningkat. \n [color=#F2AD35]sumber daya material[/color] awal meningkat secara signifikan. \nSumber daya awal ditambahkan: [color=#F2AD35]Bahan Langka[/color].</Desc>
+		</Text>
+	</List>
+</Texts>
