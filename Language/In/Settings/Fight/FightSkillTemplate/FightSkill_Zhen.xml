@@ -1,0 +1,90 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ChangeZhen">
+			<DisplayName>Change Formation</DisplayName>
+			<Tip>Ubah formasi untuk menutupi pasukan pembantu yang terbuka.</Tip>
+		</Text>
+		<Text Name="CancelZhen">
+			<DisplayName>Disband</DisplayName>
+			<Tip>Membubarkan formasi. Setelah suatu formasi dibubarkan, perlu beberapa waktu sebelum formasi baru dapat terbentuk.</Tip>
+		</Text>
+		<Text Name="JointJian">
+			<DisplayName>Joint Artifact</DisplayName>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk mengontrol artefak pilar formasi dan mengisinya kembali dengan Qi, secara drastis meningkatkan Kekuatan Artefak sesuai dengan Bonus Kekuatan Penguasaan Pedang formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+		</Text>
+		<Text Name="JointSkill">
+			<DisplayName>Joint Spell</DisplayName>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk membantu pilar formasi mengeluarkan mantra berikutnya, meningkatkan kekuatannya. Peningkatan kekuatan terkait dengan Bonus Kekuatan Mantra formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+		</Text>
+		<Text Name="ZhenTempAura">
+			<DisplayName>Heat Up</DisplayName>
+		</Text>
+		<Text Name="ZhenModifyArea">
+			<DisplayName>Enlarge</DisplayName>
+		</Text>
+		<Text Name="ZhenShield">
+			<DisplayName>Shield Up</DisplayName>
+		</Text>
+		<Text Name="TransLing">
+			<DisplayName>Qi Transfer</DisplayName>
+		</Text>
+		<Text Name="Reducetability">
+			<DisplayName>Lower Stability</DisplayName>
+		</Text>
+		<Text Name="RevealZhen">
+			<DisplayName>Exposed Auxiliary</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Zhen_RevealZhen1">
+			<DisplayName>Heavenly Derivation</DisplayName>
+			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
+			<Tip>Mengikuti pola Labirin Penjaga Batu untuk menyerang titik lemah formasi target. Menurunkan stabilitasnya dan berpeluang mengekspos alat bantunya.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_RevealZhen2">
+			<DisplayName>Battle Aloofness</DisplayName>
+			<Tip>Menimbulkan kerusakan Qi dalam jumlah besar pada target.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenShield1">
+			<DisplayName>Domain of Five Peaks</DisplayName>
+			<Tip>Buat domain dengan radius 5 meter di sekitar titik target dan gunakan Qi formasi untuk bertahan.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenShield2">
+			<DisplayName>Domain of Vastness</DisplayName>
+			<Tip>Buat domain dengan radius 12 meter di sekitar titik target dan gunakan Qi formasi untuk bertahan.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenArea1">
+			<DisplayName>Domain of Wood Essence</DisplayName>
+			<Tip>Buat domain yang mencakup radius 8 meter di sekitar titik target. Menyuburkan tanah di dalam dan meningkatkan ketahanan alami karakter terkait.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenArea2">
+			<DisplayName>Domain of Heavenly Serenity</DisplayName>
+			<Tip>Buat domain yang mencakup radius 8 meter di sekitar titik target. Meningkatkan kondisi mental, suasana hati, kecepatan pengembangan karakter sekutu di dalam domain.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_JointJian1">
+			<DisplayName>Divine Sword of Phoenix</DisplayName>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk mengontrol artefak pilar formasi dan mengisinya kembali dengan Qi, secara drastis meningkatkan Kekuatan Artefak sesuai dengan Bonus Kekuatan Penguasaan Pedang formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_JointSkill1">
+			<DisplayName>Divine Dragonroar</DisplayName>
+			<Tip>Setiap orang menggabungkan Qi mereka untuk membantu pilar formasi mengeluarkan mantra berikutnya, meningkatkan kekuatannya. Peningkatan kekuatan terkait dengan Bonus Kekuatan Mantra formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_Stability1">
+			<DisplayName>Divine Obliteration</DisplayName>
+			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
+			<Tip>Menimbulkan kerusakan besar pada stabilitas formasi musuh.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_Stability2">
+			<DisplayName>Nirvana</DisplayName>
+			<Tip>Memulihkan stabilitas formasi.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhuXian">
+			<DisplayName>Ragestriker</DisplayName>
+			<Tip>Setelah jeda singkat, menimbulkan kerusakan Qi dalam jumlah besar kepada musuh dalam radius 12 meter dari titik target.</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_BDPW_MissileBase">
+			<DisplayName>Battle Aloofness Bullets</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhuXian_MissileBase">
+			<DisplayName>Ragestriker Sub-skill</DisplayName>
+		</Text>
+	</List>
+</Texts>
