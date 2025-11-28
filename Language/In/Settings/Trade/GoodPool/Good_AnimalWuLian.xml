@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="WuLianA">
+			<IVNUMBER.0.Animal.DisplayName>Turtle Cage</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada kura-kura di Awakening State. Pelatihan yang diterimanya dari sekte telah memberinya perlindungan kenangan terkait.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="WuLianAL">
+			<IVNUMBER.0.Animal.DisplayName>Simple Turtle Cage</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Di dalamnya ada kura-kura dalam kondisi Kebangkitan, ia memiliki Kecerdasan Ketakutan.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Simple Turtle Cage</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor kura-kura dalam kondisi Kebangkitan, ia memiliki Kecerdasan Pikiran.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Simple Turtle Cage</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Di dalamnya ada kura-kura dalam kondisi Kebangkitan, ia memiliki Intelijen Kegembiraan.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Simple Turtle Cage</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Di dalamnya ada kura-kura dalam kondisi Kebangkitan, ia memiliki Intelijen Kemarahan.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Simple Turtle Cage</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Di dalamnya ada kura-kura dalam kondisi Kebangkitan, ia memiliki Kecerdasan Kecemasan.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>
