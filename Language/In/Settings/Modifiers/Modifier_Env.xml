@@ -1,0 +1,64 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BornComa">
+			<DisplayName>Unconscious</DisplayName>
+			<Desc>Telah kehilangan kesadaran.</Desc>
+		</Text>
+		<Text Name="FightPowerUp">
+			<DisplayName>Increased Strength</DisplayName>
+			<Desc>Serangan dan Pertahanan meningkat secara mendasar.</Desc>
+		</Text>
+		<Text Name="FightPowerUp_DiMu">
+			<DisplayName>Earthmother Curse</DisplayName>
+			<Desc>Sangat meningkatkan kemampuan di bawah pengaruh Kutukan Ibu Pertiwi.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp">
+			<DisplayName>Force of Water</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp">
+			<DisplayName>Force of Fire</DisplayName>
+			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp">
+			<DisplayName>Might of Yin Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp2">
+			<DisplayName>Force of Water</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp3">
+			<DisplayName>Force of Water</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp4">
+			<DisplayName>Force of Water</DisplayName>
+			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp2">
+			<DisplayName>Force of Fire</DisplayName>
+			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp3">
+			<DisplayName>Force of Fire</DisplayName>
+			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp2">
+			<DisplayName>Might of Yin Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp3">
+			<DisplayName>Might of Yin Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp4">
+			<DisplayName>Might of Yin Yang</DisplayName>
+			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+		</Text>
+		<Text Name="Dan_LingTree">
+			<DisplayName>Advanced Qi Resonance</DisplayName>
+			<Desc>Beresonansi dengan Qi di sekitar Illumitree, dapat meningkatkan kecepatan Pemulihan Qi.</Desc>
+		</Text>
+	</List>
+</Texts>
