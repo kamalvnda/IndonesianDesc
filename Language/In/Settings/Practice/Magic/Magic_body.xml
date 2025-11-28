@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_ModifierTest">
+			<Desc>Tunjukkan keajaiban dengan menambahkan pengubah, yang akan dihapus jika dirilis lagi.</Desc>
+		</Text>
+		<Text Name="Magic_Body_JingXi">
+			<DisplayName>Whale Breathing</DisplayName>
+			<Desc>Memulai pernapasan intens di lokasi yang ditentukan dengan efisiensi 100x dari metode normal. Dada dan paru-paru akan kelebihan beban setelah menggunakan mantra ini dan efisiensi pernapasan akan berkurang drastis dalam sepuluh hari ke depan.</Desc>
+			<TargetDesc>Pilih lokasi untuk memulai Pernapasan.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Body_TuJin">
+			<DisplayName>Devouring Mouth</DisplayName>
+			<Desc>Melepaskan Mulut yang Memangsa. Penggunaan tubuh rahasia ini dapat mempercepat fungsi tubuh dan langsung melahap energi dari langit dan bumi untuk diisi ulang. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi1">
+			<DisplayName>Fleeting Life</DisplayName>
+			<Desc>Menggunakan Qi Sejati yang dihasilkan oleh Tubuh yang Ditolak untuk mengalir ke seluruh tubuh dan secara drastis meningkatkan tingkat konsumsi umur dan kecepatan pembentukan kembali. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi2">
+			<DisplayName>Fallacious Life</DisplayName>
+			<Desc>Menggunakan Qi Sejati yang dihasilkan oleh Tubuh yang Ditolak untuk mengalir ke seluruh tubuh dan secara drastis meningkatkan tingkat konsumsi umur dan efisiensi pencetakan ulang. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
+		</Text>
+		<Text Name="Magic_Body_Banyunqixue">
+			<DisplayName>Transporting Energy</DisplayName>
+			<Desc>Menghabiskan 50 Life Essence untuk mengarahkan energi dari seluruh tubuh untuk menyembuhkan lukanya sendiri, bertahan 100 detik.</Desc>
+		</Text>
+	</List>
+</Texts>
