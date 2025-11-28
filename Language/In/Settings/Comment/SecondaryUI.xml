@@ -1,0 +1,203 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SystemMessage">
+			<Notes>Comment Panel of System Message</Notes>
+			<Title>System Message</Title>
+			<Desc>Pesan Sistem</Desc>
+		</Text>
+		<Text Name="Architecture">
+			<Notes>Comment Panel of Building</Notes>
+			<Title>Building Page</Title>
+			<Desc>Halaman Bangunan</Desc>
+		</Text>
+		<Text Name="NpcProperty">
+			<Notes>Comment Panel of Character Stats</Notes>
+			<Title>Character Stats</Title>
+			<Desc>Statistik Karakter</Desc>
+		</Text>
+		<Text Name="NpcSociality">
+			<Notes>Comment Panel of Character Social</Notes>
+			<Title>Character Social</Title>
+			<Desc>Karakter Sosial</Desc>
+		</Text>
+		<Text Name="NpcHealth">
+			<Notes>Comment Panel of Character Health</Notes>
+			<Title>Health Panel</Title>
+			<Desc>Panel Kesehatan</Desc>
+		</Text>
+		<Text Name="NpcPractice">
+			<Notes>Comment Panel of Character Cultivation/Training</Notes>
+			<Title>Cultivation Panel</Title>
+			<Desc>Panel Budidaya</Desc>
+		</Text>
+		<Text Name="NpcZhuJi">
+			<Notes>Comment Panel of Character Foundation Training</Notes>
+			<Title>Foundation Panel</Title>
+			<Desc>Panel Yayasan</Desc>
+		</Text>
+		<Text Name="NpcGnosis">
+			<Notes>Comment Panel of Character Intelligence</Notes>
+			<Title>Intelligence Panel</Title>
+			<Desc>Panel Intelijen</Desc>
+		</Text>
+		<Text Name="NpcEquipment">
+			<Notes>Comment Panel of Character Gear</Notes>
+			<Title>Gear Page</Title>
+			<Desc>Halaman Perlengkapan</Desc>
+		</Text>
+		<Text Name="NpcEquipmentOfBodyPractice">
+			<Notes>Comment Panel of Gear and Secret Body Configurations</Notes>
+			<Title>Gear and Secret Body Configurations Panel</Title>
+			<Desc>Panel Konfigurasi Perlengkapan dan Tubuh Rahasia</Desc>
+		</Text>
+		<Text Name="NpcCombatStyle">
+			<Notes>Comment Panel of Character's Battle Tactic</Notes>
+			<Title>Battle Tactic Panel</Title>
+			<Desc>Panel Taktik Pertempuran</Desc>
+		</Text>
+		<Text Name="NpcDetailProperty">
+			<Notes>Comment Panel of Character's Detailed Stats</Notes>
+			<Title>Detailed Stats Panel</Title>
+			<Desc>Panel Statistik Terperinci</Desc>
+		</Text>
+		<Text Name="NpcDrugResistance">
+			<Notes>Comment Panel of Character's Medicine Tolerance</Notes>
+			<Title>Medicine Tolerance Panel</Title>
+			<Desc>Panel Toleransi Obat</Desc>
+		</Text>
+		<Text Name="Secret">
+			<Notes>Comment Panel of Mystery</Notes>
+			<Title>Mystery Panel</Title>
+			<Desc>Panel Misteri</Desc>
+		</Text>
+		<Text Name="Character">
+			<Notes>Comment Panel of NPC</Notes>
+			<Title>NPC Panel</Title>
+			<Desc>Panel NPC</Desc>
+		</Text>
+		<Text Name="Clue">
+			<Notes>Comment Panel of Clue</Notes>
+			<Title>Clue Panel</Title>
+			<Desc>Panel Petunjuk</Desc>
+		</Text>
+		<Text Name="ZhenGraph">
+			<Notes>Comment Panel of Formation Diagram</Notes>
+			<Title>Formation Diagram Panel</Title>
+			<Desc>Panel Diagram Formasi</Desc>
+		</Text>
+		<Text Name="ZhenEdit">
+			<Notes>Comment Panel of Formation Edit</Notes>
+			<Title>Formation Edit Panel</Title>
+			<Desc>Panel Edit Formasi</Desc>
+		</Text>
+		<Text Name="ZhenEyesOverview">
+			<Notes>Comment Panel of Auxiliary Overview</Notes>
+			<Title>Auxiliary Overview Panel</Title>
+			<Desc>Panel Ikhtisar Tambahan</Desc>
+		</Text>
+		<Text Name="WorkSchedule">
+			<Notes>Comment Panel of Work Schedule</Notes>
+			<Title>Work Schedule Panel</Title>
+			<Desc>Panel Jadwal Kerja</Desc>
+		</Text>
+		<Text Name="SectOverview">
+			<Notes>Comment Panel of Sect Overview</Notes>
+			<Title>Sect Panel</Title>
+			<Desc>Panel Sekte</Desc>
+		</Text>
+		<Text Name="SectStructure">
+			<Notes>Comment Panel of Sect Structure</Notes>
+			<Title>Sect Structure Panel</Title>
+			<Desc>Panel Struktur Sekte</Desc>
+		</Text>
+		<Text Name="SectFollower">
+			<Notes>Comment Panel of Sect Disciple</Notes>
+			<Title>Sect Disciple Panel</Title>
+			<Desc>Panel Murid Sekte</Desc>
+		</Text>
+		<Text Name="SectRelationship">
+			<Notes>Comment Panel of Sect Diplomacy</Notes>
+			<Title>Sect Diplomacy Panel</Title>
+			<Desc>Panel Diplomasi Sekte</Desc>
+		</Text>
+		<Text Name="PowerManagement">
+			<Notes>Comment Panel of Power Management</Notes>
+			<Title>Power Management</Title>
+		</Text>
+		<Text Name="SectGift">
+			<Notes>Comment Panel of Sect Gift</Notes>
+			<Title>Gift</Title>
+			<Desc>Hadiah Sekte</Desc>
+		</Text>
+		<Text Name="SectTransaction">
+			<Notes>Comment Panel of Sect Trade</Notes>
+			<Title>Sect Trade</Title>
+			<Desc>Perdagangan Sekte</Desc>
+		</Text>
+		<Text Name="SectMessageManagement">
+			<Notes>Comment Panel of Sect Messages</Notes>
+			<Title>Sect Messages</Title>
+			<Desc>Pesan Sekte</Desc>
+		</Text>
+		<Text Name="SectLaws">
+			<Notes>Comment Panel of Sect Rules</Notes>
+			<Title>Sect Rules</Title>
+			<Desc>Aturan Sekte</Desc>
+		</Text>
+		<Text Name="PedlarTransaction">
+			<Notes>Comment Panel of Trade</Notes>
+			<Title>Trade</Title>
+			<Desc>Berdagang</Desc>
+		</Text>
+		<Text Name="KeyholeReport">
+			<Notes>Comment Panel of Secret</Notes>
+			<Title>Secret</Title>
+			<Desc>Rahasia</Desc>
+		</Text>
+		<Text Name="RefineBody">
+			<Notes>Comment Panel of Remold</Notes>
+			<Title>Remold Panel</Title>
+			<Desc>Panel Cetakan Ulang</Desc>
+		</Text>
+		<Text Name="DomesticateSpiritBeast">
+			<Notes>Comment Panel of Pet Raising</Notes>
+			<Title>Pet Raising</Title>
+			<Desc>Pemeliharaan Hewan Peliharaan</Desc>
+		</Text>
+		<Text Name="TrainSpiritBeast">
+			<Notes>Comment Panel of Pet Training</Notes>
+			<Title>Pet Training</Title>
+			<Desc>Pelatihan Hewan Peliharaan</Desc>
+		</Text>
+		<Text Name="FeedSpiritBeast">
+			<Notes>Comment Panel of Pet Food Nutrition</Notes>
+			<Title>Pet Food Nutrition</Title>
+			<Desc>Nutrisi Makanan Hewan Peliharaan</Desc>
+		</Text>
+		<Text Name="BehaviorRecordSpiritBeast">
+			<Notes>Comment Panel of Pet Behavior Records</Notes>
+			<Title>Pet Behavior</Title>
+			<Desc>Perilaku Hewan Peliharaan</Desc>
+		</Text>
+		<Text Name="EmotionAndThinkingOfAnimal">
+			<Notes>Comment Panel of Thought and Thinking</Notes>
+			<Title>Thought and Thinking</Title>
+			<Desc>Berpikir dan Berpikir</Desc>
+		</Text>
+		<Text Name="EmotionATarget">
+			<Notes>About Thought: Comment Panel of Realization</Notes>
+			<Title>Thought: Realization</Title>
+			<Desc>Tiga fragmen Pikiran Realisasi yang identik dapat digabungkan menjadi satu Pikiran Realisasi.</Desc>
+		</Text>
+		<Text Name="EmotionAScene">
+			<Notes>About Thought: Comment Panel of Rationality</Notes>
+			<Title>Thought: Rationality</Title>
+			<Desc>Tiga penggalan Pemikiran Rasionalitas yang identik dapat digabungkan menjadi satu Pemikiran Rasionalitas.</Desc>
+		</Text>
+		<Text Name="EmotionAEmotion">
+			<Notes>About Thought: Comment Panel of Perception</Notes>
+			<Title>Thought: Perception</Title>
+			<Desc>Tiga fragmen Pikiran Persepsi yang identik dapat digabungkan menjadi satu Pikiran Persepsi.</Desc>
+		</Text>
+	</List>
+</Texts>
