@@ -1,0 +1,92 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YaoGuai_Experiences0">
+			<DisplayName>Intelligent Beast</DisplayName>
+			<Desc>Anda dulunya hanyalah binatang buas yang hidup di gunung Sekte Taiyi. Diterangi oleh Qi Surga Duniawi selama berhari-hari dan malam, Anda secara bertahap menjadi sadar. Pada malam kehancuran, ancaman hidup dan mati memaksamu untuk secara spontan melewati batas terakhir dan setengah berubah wujud menjadi binatang iblis.\n Karena rasa terima kasih terhadap Sekte Taiyi serta naluri, sepanjang hidupmu, kamu telah menjadi penerima manfaat di tempat perlindungan mereka, kamu melancarkan serangan terakhir terhadap para penyerbu. Namun berkat keberuntungan, upaya bunuh diri Anda tertangkap oleh mata sesepuh Taiyi yang sedang sekarat.\n Mendambakan harapan, sesepuh ini mengumpulkan kekuatan dan mewariskan kepada Anda melalui sihir banyak kenangan dan perbekalan yang awalnya dimaksudkan untuk digunakan muridnya untuk melarikan diri, dan untuk sementara menanamkan gagasan melarikan diri ke dalam otak Anda. Didorong oleh keyakinan yang tertanam ini, Anda berlari menyelamatkan diri dan berhasil melarikan diri dari Sekte Taiyi.</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences1">
+			<DisplayName>Legacy of Sixteen-steps</DisplayName>
+			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Enam Belas Langkah, jadi di antara kenangan yang diteruskan kepada Anda ada Hukum Enam Belas Langkah Tertinggi, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Hukum Enam Belas Langkah Tertinggi[/color]\nStatistik yang Diperlukan: Konstitusi Tinggi, Karisma Biasa-biasa saja, Biasa-biasa saja Intelijen.[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences2">
+			<DisplayName>Legacy of Plough</DisplayName>
+			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Bajak, jadi di antara kenangan yang diwariskan kepada Anda ada Hukum Kebijaksanaan Kereta Besar, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Buka Kunci: [color=#D06508]Hukum Kebijaksanaan Kereta Besar[/color]\nStatistik yang Diperlukan: Persepsi Tinggi, Konstitusi Biasa-biasa saja, Biasa-biasa saja Intelijen.[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences3">
+			<DisplayName>Legacy of Reincarnation</DisplayName>
+			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Reinkarnasi, jadi di antara kenangan yang diteruskan kepada Anda ada Hukum Reinkarnasi Enam Jalan, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Hukum Reinkarnasi Enam Jalan[/color]\nStatistik yang Diperlukan: Konstitusi Biasa-biasa saja, Persepsi Tinggi, Tinggi Intelijen.[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences4">
+			<DisplayName>Legacy of True Sun</DisplayName>
+			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Matahari Sejati, jadi di antara kenangan yang diteruskan kepada Anda ada Hukum Pemurnian Matahari Sejati, yang merupakan salah satu Hukum sejati dari Sekte Taiyi.\n\n\n[size=14]Buka Hukum: [color=#D06508]Hukum Pemurnian Matahari Sejati[/color]\nStatistik yang Diperlukan: Persepsi Biasa-biasa saja, Konstitusi Biasa-biasa saja, Karisma Biasa-biasa saja, Kecerdasan Biasa Saja, Keberuntungan Biasa Saja.[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences5">
+			<DisplayName>Legacy of Sunflower</DisplayName>
+			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Bunga Matahari, jadi di antara kenangan yang diwariskan kepada Anda ada Hukum Pemurnian Bunga Matahari, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Hukum Pemurnian Bunga Matahari[/color]\nStatistik yang Diperlukan: Persepsi Tinggi, Karisma Tinggi, Tinggi Intelijen.[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences6">
+			<DisplayName>Legacy of Body Refinement</DisplayName>
+			<Desc>Tetua Sekte Taiyi yang sekarat mahir dalam semua jenis warisan kuno. Oleh karena itu, setelah melihatmu membangunkan binatang yang cerdas, tetua itu menyertakan isi Tubuh Kesatuan Purba di antara kenangan yang diteruskan kepadamu, yang merupakan Hukum kuno penyempurnaan tubuh.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Badan Kesatuan Primordial[/color]\nHukum ini sangat sulit pada tahap awal, tidak direkomendasikan untuk pemula.[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences23">
+			<DisplayName>Luck with Artifact Room</DisplayName>
+			<Desc>Pada malam kehancuran, Anda melewati Ruang Artefak dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa pergi beberapa artefak berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Artefak Tingkat Lanjut[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences24">
+			<DisplayName>Luck with Elixir Room</DisplayName>
+			<Desc>Pada malam kehancuran, Anda melewati Ruang Elixir dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa beberapa botol ramuan yang sangat berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Ramuan Tingkat Lanjut[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences25">
+			<DisplayName>Luck with Manual Pavilion</DisplayName>
+			<Desc>Pada malam kehancuran, Anda melewati Paviliun Manual dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa beberapa manual berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Manual Lanjutan[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences26">
+			<DisplayName>Luck with Talisman Room</DisplayName>
+			<Desc>Pada malam kehancuran, Anda melewati Ruang Jimat dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa pergi beberapa jimat yang sangat berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Jimat Tingkat Lanjut[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences31">
+			<DisplayName>Determined Fugitive</DisplayName>
+			<Desc>Pada malam kehancuran, Anda berkonsentrasi pada masalah pelarian dan berusaha keras menghindari makhluk hidup apa pun. Akhirnya, Anda lolos dari Taiyi sendirian.\n\n\n[size=14]Initial [color=#D06508]disciples[/color] dikurangi 2![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences27">
+			<DisplayName>Circumstantial Fellowship</DisplayName>
+			<Desc>Pada malam kehancuran, setelah mewarisi ingatan seorang tetua dan menganggap diri Anda sebagai murid Taiyi, Anda melarikan diri dari bahaya dan bertemu dengan sesama murid yang terbaring di tanah tak sadarkan diri. Anda memutuskan untuk membawanya bersama Anda.\n\n\n[size=14]Initial [color=#D06508]disciples[/color] dikurangi 1![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences29">
+			<DisplayName>Good Samaritan</DisplayName>
+			<Desc>Pada malam kehancuran, setelah mewarisi ingatan seorang tetua dan menganggap diri Anda sebagai murid Taiyi, Anda melarikan diri dari bahaya dan bertemu satu demi satu rekan murid yang tergeletak di tanah tak sadarkan diri. Anda memutuskan untuk membawanya.\n\n\n[size=14][color=#D06508]murid[/color] awal bertambah 1![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences30">
+			<DisplayName>Determined Savior</DisplayName>
+			<Desc>Pada malam kehancuran, setelah mewarisi ingatan seorang tetua dan menganggap diri Anda sebagai murid Taiyi, Anda melarikan diri dari bahaya dan menemukan beberapa rekan murid tergeletak di tanah tak sadarkan diri. Anda memutuskan untuk membawa semuanya.\n\n\n[size=14][color=#D06508]murid[/color] awal bertambah 2![/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences8">
+			<DisplayName>Food Storage</DisplayName>
+			<Desc>Selama pelarian, didorong oleh naluri binatang, Anda mengumpulkan sejumlah besar makanan di sepanjang jalan sebagai cadangan, bahkan membunuh beberapa ular dan beruang di atasnya. \n\n\nInitial[color=#D06508]\nInitial[color=#D06508]sumber daya makanan dan minuman[/color] meningkat secara substansial.[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences9">
+			<DisplayName>Beastly Instinct</DisplayName>
+			<Desc>Selama melarikan diri, Anda menggunakan sisa naluri binatang Anda yang tajam dan berhasil mengumpulkan banyak barang bagus di area sekitar medan perang.\n\n\nSumber daya awal ditambahkan: [color=#D06508]Treasure[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences11">
+			<DisplayName>Spiritual Congeniality</DisplayName>
+			<Desc>Selama pelarian, mungkin karena merasakan roh primordial dan murni Anda, sebuah Pil Obat mujarab yang telah menyembunyikan fakta bahwa ia menjadi mahluk hidup masuk ke dalam pelukan Anda dengan sukarela, melarikan diri dari tempat kematian bersama Anda.\n\n\n[size=14]Terima 1 [color=#D06508]Pil Panacea Hidup[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences14">
+			<DisplayName>Elixir Relics</DisplayName>
+			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Ruang Elixir yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal [color=#D06508]obat[/color] meningkat secara signifikan.\nSumber daya awal ditambahkan: [color=#D06508]Obat Langka[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences15">
+			<DisplayName>Artifact Relics</DisplayName>
+			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Ruang Artefak yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal [color=#D06508]sumber daya material[/color] meningkat secara signifikan.\nSumber daya awal ditambahkan: [color=#D06508]Bahan Langka[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences16">
+			<DisplayName>Foreign Relics</DisplayName>
+			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Aula Luar Negeri yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal [color=#D06508]konstruksi[/color] meningkat secara signifikan.\nSumber daya awal ditambahkan: [color=#D06508]Bahan Langka[/color].[/size]</Desc>
+		</Text>
+		<Text Name="YaoGuai_Experiences17">
+			<DisplayName>Manual Relics</DisplayName>
+			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Paviliun Manual yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Koleksi Jimat Dasar, Pengantar Ramuan[/color].[/size]</Desc>
+		</Text>
+	</List>
+</Texts>
