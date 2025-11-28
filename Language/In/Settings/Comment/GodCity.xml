@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodCityGod_Gong_1">
+			<Title>Divine Realm - Celestial Thunder Salvation Sutra</Title>
+			<Desc>Alam Ilahi didirikan dengan Sutra Keselamatan Guntur Surgawi.</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_2">
+			<Title>Divine Realm - Eight Heavens Sadhana</Title>
+			<Desc>Alam Ilahi didirikan dengan Sadhana Delapan Surga.</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_3">
+			<Title>Divine Realm - Nether Salvation Sutra</Title>
+			<Desc>Alam Ilahi didirikan dengan Sutra Keselamatan Nether.</Desc>
+		</Text>
+	</List>
+</Texts>
