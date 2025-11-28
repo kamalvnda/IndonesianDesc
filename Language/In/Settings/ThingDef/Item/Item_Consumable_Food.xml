@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SimpleFoodBase" sParam="Item">
+			<Item.FabaoSuffix>Numinous Treasure</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cake" sParam="Item">
+			<ThingName>Bread</ThingName>
+			<Desc>Jatah makanan sederhana untuk memuaskan rasa lapar.</Desc>
+			<Item.FabaoSuffix>Pancake</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Jerky" sParam="Item">
+			<ThingName>Dried Meat</ThingName>
+			<Desc>Jatah makanan sederhana untuk memuaskan rasa lapar.</Desc>
+			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PreservedFruit" sParam="Item">
+			<ThingName>Li's Dried Amber Fruit</ThingName>
+			<Desc>[color=#FF00FF]Dahulu ada buah yang rasanya seperti madu. \nMenunggu musimnya, kita gantung di atas atap. \nSekarang datanglah seorang wanita, matanya menawan bagaikan madu. \nApa lagi yang bisa dinantikan, menjelang musim yang diantisipasi akan segera berakhir? \N[/color]Buah Amber sulit disimpan. Hanya keluarga Li di Jinling yang mampu mengolahnya menjadi buah kering dengan tetap menjaga keampuhannya dengan resep rahasia unik mereka.</Desc>
+			<Item.FabaoSuffix>Fruit</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_BoarMeat" sParam="Item">
+			<ThingName>Pig Demon Meat</ThingName>
+			<Desc>Intisari daging babi setan, tidak bisa dimasak dengan api biasa. Mengkonsumsinya secara langsung dapat menambah Stamina dalam jumlah besar.</Desc>
+			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>
