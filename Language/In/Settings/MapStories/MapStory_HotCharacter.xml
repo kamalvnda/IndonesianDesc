@@ -1,0 +1,115 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="HotStory_Fun_LingWu">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<Selections.1.Display>Memperoleh Pemahaman</Selections.1.Display>
+		</Text>
+		<Text Name="HotStory_Fun_LingWu_DuShu">
+			<DisplayName>Search</DisplayName>
+			<Desc>Saat membaca buku-buku tebal kuno, [NAME] menemukan sesuatu yang tidak biasa.</Desc>
+			<Selections.0.Display>Membuat terobosan baru</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingGan">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu_Feed">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingFailed">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingSucceed">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_LingWu">
+			<DisplayName>Comprehension</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Brokening">
+			<DisplayName>Breakthrough Epiphany</DisplayName>
+			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar berkat terobosan ini.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenSucceed">
+			<DisplayName>Epiphany</DisplayName>
+			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar berkat terobosan ini.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenFailed">
+			<DisplayName>Epiphany</DisplayName>
+			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar meskipun gagal melakukan terobosan.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Golding">
+			<DisplayName>Core Shaping Epiphany</DisplayName>
+			<Desc>[NAME] memasuki Keadaan Terbebaskan saat pembentukan inti.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_GoldSucceed">
+			<DisplayName>Epiphany</DisplayName>
+			<Desc>[NAME] memahami beberapa pemahaman setelah menyelesaikan pembentukan inti.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_ThunderSucceed">
+			<DisplayName>Tribulation Epiphany</DisplayName>
+			<Desc>[NAME] selamat dari kesengsaraan dan memperoleh wawasan tentang misteri alam.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDan">
+			<DisplayName>Alchemy Epiphany</DisplayName>
+			<Desc>[NAME] mendapat pencerahan saat menggunakan alkimia.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDanFailed">
+			<DisplayName>Alchemy Epiphany</DisplayName>
+			<Desc>[NAME] memperoleh pemahaman meskipun gagal menggunakan Alkimia.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Refining">
+			<DisplayName>Artifact Crafting Epiphany</DisplayName>
+			<Desc>[NAME] mendapat pencerahan saat menggunakan Artifact Crafting.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningGod">
+			<DisplayName>Artifact Crafting Epiphany</DisplayName>
+			<Desc>[NAME] mendapat inspirasi!</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningFailed">
+			<DisplayName>Artifact Crafting Epiphany</DisplayName>
+			<Desc>[NAME] memperoleh pemahaman meskipun gagal menggunakan Artifact Crafting.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Fei_LingWu">
+			<DisplayName>Sudden Inspiration</DisplayName>
+			<Desc>[NAME] tiba-tiba mendapat pencerahan saat bermain dengan Fei.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_LuShu_LingWu">
+			<DisplayName>Sudden Inspiration</DisplayName>
+			<Desc>[NAME] tiba-tiba mendapat pencerahan saat bermain dengan Lushu.</Desc>
+			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>
