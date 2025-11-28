@@ -1,0 +1,88 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LeftoverMaterialBase" sParam="Item">
+			<Desc>Sisa bahan yang dapat digunakan untuk meletakkan lantai atau membuat atap.</Desc>
+			<Item.FabaoSuffix>Nail, Dart, Scrap</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WoodLeftover" sParam="Item">
+			<ThingName>Wood Offcut</ThingName>
+			<Desc>Sisa bahan bangunan bercampur dengan potongan kayu. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodLeftover" sParam="Item">
+			<ThingName>Goldwood Offcut</ThingName>
+			<Desc>Bahan bangunan sisa dicampur dengan potongan Goldwood. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodLeftover" sParam="Item">
+			<ThingName>Phoenixwood Offcut</ThingName>
+			<Desc>Bahan bangunan sisa dicampur dengan potongan Phoenixwood. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodLeftover" sParam="Item">
+			<ThingName>Spiritwood Offcut</ThingName>
+			<Desc>Bahan bangunan sisa dicampur dengan potongan Spiritwood. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BrownRockLeftover" sParam="Item">
+			<ThingName>Brownstone Offcut</ThingName>
+			<Desc>Sisa bahan bangunan dicampur potongan batu bata. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockLeftover" sParam="Item">
+			<ThingName>Graystone Offcut</ThingName>
+			<Desc>Bahan bangunan sisa dicampur dengan potongan Graystone. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleLeftover" sParam="Item">
+			<ThingName>Marble Offcut</ThingName>
+			<Desc>Sisa bahan bangunan dicampur potongan marmer. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeLeftover" sParam="Item">
+			<ThingName>Jade Offcut</ThingName>
+			<Desc>Sisa bahan bangunan dicampur dengan potongan batu giok. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneLeftover" sParam="Item">
+			<ThingName>Holy Stone Offcut</ThingName>
+			<Desc>Sisa bahan bangunan dicampur dengan potongan Batu Suci. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneLeftover" sParam="Item">
+			<ThingName>Spirit Stone Offcut</ThingName>
+			<Desc>Sisa bahan bangunan dicampur dengan potongan batu roh. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalLeftover" sParam="Item">
+			<ThingName>Spirit Crystal Offcut</ThingName>
+			<Desc>Bahan bangunan sisa dicampur dengan potongan Spirit Crystal. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_IronRockLeftover" sParam="Item">
+			<ThingName>Iron Offcut</ThingName>
+			<Desc>Sisa bahan bangunan bercampur dengan potongan besi. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRockLeftover" sParam="Item">
+			<ThingName>Igneocopper Offcut</ThingName>
+			<Desc>Sisa bahan bangunan dicampur dengan potongan Igneocopper. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRockLeftover" sParam="Item">
+			<ThingName>Ice Crystal Offcut</ThingName>
+			<Desc>Sisa bahan bangunan dicampur dengan potongan Ice Crystal. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRockLeftover" sParam="Item">
+			<ThingName>Darksteel Offcut</ThingName>
+			<Desc>Bahan bangunan sisa dicampur dengan potongan Darksteel. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceLeftover" sParam="Item">
+			<ThingName>Lumina Core Offcut</ThingName>
+			<Desc>Bahan bangunan sisa dicampur dengan potongan inti lumina. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
+			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
