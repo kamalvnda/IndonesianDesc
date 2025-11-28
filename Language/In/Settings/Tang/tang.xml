@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Tang_Dan">
+			<DisplayName>Alchemy</DisplayName>
+			<Desc>Khusus dalam Alkimia. Meningkatkan kemampuan murid yang berhubungan dengan Alkimia sesuai dengan kemampuan Pemimpin Cabang.</Desc>
+		</Text>
+		<Text Name="Tang_Qi">
+			<DisplayName>Artifact Crafting</DisplayName>
+			<Desc>Spesialisasi dalam Pembuatan Artefak. Meningkatkan kemampuan terkait Pembuatan Artefak murid sesuai dengan kemampuan Pemimpin Cabang.</Desc>
+		</Text>
+		<Text Name="Tang_Zhan">
+			<DisplayName>Battle</DisplayName>
+			<Desc>Khusus dalam Pertempuran. Tingkatkan kemampuan murid yang berhubungan dengan Pertempuran sesuai dengan kemampuan Pemimpin Cabang.</Desc>
+		</Text>
+		<Text Name="Tang_XiuLian">
+			<DisplayName>Cultivate</DisplayName>
+			<Desc>Khusus dalam Budidaya/Pelatihan. Meningkatkan kemampuan yang berhubungan dengan Budidaya/Pelatihan murid sesuai dengan kemampuan Pemimpin Cabang.</Desc>
+		</Text>
+		<Text Name="Tang_WaiShi">
+			<DisplayName>Foreign Affairs</DisplayName>
+			<Desc>Spesialisasi dalam Luar Negeri. Meningkatkan kemampuan kerja dan keterampilan murid sesuai dengan yang dimiliki Pemimpin Cabang.</Desc>
+		</Text>
+	</List>
+</Texts>
