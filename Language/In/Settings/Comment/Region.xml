@@ -1,0 +1,136 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="AgentConstructionHeYin">
+			<Title>Proxy construction - Riverback City</Title>
+			<Desc>Konstruksi proxy - Kota Riverback</Desc>
+		</Text>
+		<Text Name="AgentManagementHeYin">
+			<Title>Agent management - Riverback City</Title>
+			<Desc>Manajemen agen - Riverback City</Desc>
+		</Text>
+		<Text Name="BeliefManagementHeYin">
+			<Title>Belief management - Riverback City</Title>
+			<Desc>Manajemen kepercayaan - Riverback City</Desc>
+		</Text>
+		<Text Name="AgentConstructionGuanHai">
+			<Title>Proxy construction - Seascape City</Title>
+			<Desc>Konstruksi proxy - Seascape City</Desc>
+		</Text>
+		<Text Name="AgentManagementGuanHai">
+			<Title>Agent management - Seascape City</Title>
+			<Desc>Manajemen agen - Seascape City</Desc>
+		</Text>
+		<Text Name="BeliefManagementGuanhai">
+			<Title>Belief management - Seascape City</Title>
+			<Desc>Manajemen kepercayaan - Seascape City</Desc>
+		</Text>
+		<Text Name="AgentConstructionPanShe">
+			<Title>Proxy construction - Snaketail Village</Title>
+			<Desc>Konstruksi proxy - Desa Snaketail</Desc>
+		</Text>
+		<Text Name="AgentManagementPanShe">
+			<Title>Agent management - Snaketail Village</Title>
+			<Desc>Manajemen agen - Desa Snaketail</Desc>
+		</Text>
+		<Text Name="BeliefManagementPanShe">
+			<Title>Belief management - Snaketail Village</Title>
+			<Desc>Manajemen kepercayaan - Desa Ekor Ular</Desc>
+		</Text>
+		<Text Name="AgentConstructionFeng">
+			<Title>Proxy construction - City of Abundance</Title>
+			<Desc>Konstruksi proxy - Kota Kelimpahan</Desc>
+		</Text>
+		<Text Name="AgentManagementFeng">
+			<Title>Agent management - City of Abundance</Title>
+			<Desc>Manajemen agen - Kota Kelimpahan</Desc>
+		</Text>
+		<Text Name="BeliefManagementFeng">
+			<Title>Belief management - City of Abundance</Title>
+			<Desc>Manajemen Keyakinan - Kota Kelimpahan</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaLiang">
+			<Title>Proxy construction - City of Desolation</Title>
+			<Desc>Konstruksi proxy - Kota Desolation</Desc>
+		</Text>
+		<Text Name="AgentManagementDaLiang">
+			<Title>Agent management - City of Desolation</Title>
+			<Desc>Manajemen agen - Kota Desolation</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaLiang">
+			<Title>Belief management - City of Desolation</Title>
+			<Desc>Manajemen Keyakinan - Kota Desolation</Desc>
+		</Text>
+		<Text Name="AgentConstructionZhongYuan">
+			<Title>Proxy construction - Central Plains</Title>
+			<Desc>Konstruksi proxy - Dataran Tengah</Desc>
+		</Text>
+		<Text Name="AgentManagementZhongYuan">
+			<Title>Agent management - Central Plains</Title>
+			<Desc>Manajemen agen - Central Plains</Desc>
+		</Text>
+		<Text Name="BeliefManagementZhongYuan">
+			<Title>Belief management - Central Plains</Title>
+			<Desc>Manajemen Keyakinan - Central Plains</Desc>
+		</Text>
+		<Text Name="AgentConstructionJiangAnWoYe">
+			<Title>Proxy construction - Riverbank Plains</Title>
+			<Desc>Konstruksi proxy - Dataran Tepi Sungai</Desc>
+		</Text>
+		<Text Name="AgentManagementJiangAnWoYe">
+			<Title>Agent management - Riverbank Plains</Title>
+			<Desc>Manajemen agen - Riverbank Plains</Desc>
+		</Text>
+		<Text Name="BeliefManagementJiangAnWoYe">
+			<Title>Belief management - Riverbank Plains</Title>
+			<Desc>Manajemen Keyakinan - Dataran Tepi Sungai</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaXueYuan">
+			<Title>Proxy construction - the Great Snowland</Title>
+			<Desc>Konstruksi proxy - Great Snowland</Desc>
+		</Text>
+		<Text Name="AgentManagementDaXueYuan">
+			<Title>Agent management - the Great Snowland</Title>
+			<Desc>Manajemen agen - Great Snowland</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaXueYuan">
+			<Title>Belief management - the Great Snowland</Title>
+			<Desc>Manajemen kepercayaan - Great Snowland</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaMo">
+			<Title>Proxy construction - Great Desert</Title>
+			<Desc>Konstruksi proxy - Gurun Besar</Desc>
+		</Text>
+		<Text Name="AgentManagementDaMo">
+			<Title>Agent management - Great Desert</Title>
+			<Desc>Manajemen agen - Gurun Besar</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaMo">
+			<Title>Belief management - Great Desert</Title>
+			<Desc>Manajemen Keyakinan - Gurun Besar</Desc>
+		</Text>
+		<Text Name="AgentConstructionNanHuang">
+			<Title>Proxy construction - Wild South</Title>
+			<Desc>Konstruksi proxy - Wild South</Desc>
+		</Text>
+		<Text Name="AgentManagementNanHuang">
+			<Title>Agent management - Wild South</Title>
+			<Desc>Manajemen agen - Wild South</Desc>
+		</Text>
+		<Text Name="BeliefManagementNanHuang">
+			<Title>Belief management - Wild South</Title>
+			<Desc>Manajemen kepercayaan - Wild South</Desc>
+		</Text>
+		<Text Name="AgentConstructionOurPlace">
+			<Title>Proxy construction - Mt. South</Title>
+			<Desc>Konstruksi proxy - Gunung Selatan</Desc>
+		</Text>
+		<Text Name="AgentManagementOurPlace">
+			<Title>Agent management - Mt. South</Title>
+			<Desc>Manajemen agen - Mt. Selatan</Desc>
+		</Text>
+		<Text Name="BeliefManagementOurPlace">
+			<Title>Belief management - Mt. South</Title>
+			<Desc>Manajemen Kepercayaan - Gunung Selatan</Desc>
+		</Text>
+	</List>
+</Texts>
