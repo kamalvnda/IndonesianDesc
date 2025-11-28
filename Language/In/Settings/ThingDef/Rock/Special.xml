@@ -1,0 +1,12 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Darksteel" sParam="Plant">
+			<Desc>Harta paling langka di dunia ini, inti dari semua Qi yang berkilau di sepanjang urat nadi bumi.</Desc>
+			<ThingName>Darksteel Vein</ThingName>
+		</Text>
+		<Text Name="LingStone" sParam="Plant">
+			<Desc>Sumber fundamental dari semua Qi, sekali rusak, semuanya akan musnah.</Desc>
+			<ThingName>Spirit Vein</ThingName>
+		</Text>
+	</List>
+</Texts>
