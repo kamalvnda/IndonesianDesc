@@ -1,0 +1,50 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Zhen_XianTianMuLing">
+			<DisplayName>Domain of Wood Essence</DisplayName>
+			<Desc>Mengaktifkan potensi tubuh dan meningkatkan ketahanan terhadap cedera fisik.</Desc>
+		</Text>
+		<Text Name="Zhen_ZTLYQLSJ">
+			<DisplayName>Domain of Heavenly Serenity</DisplayName>
+			<Desc>Meningkatkan Suasana Hati, Keadaan Mental dan Kecepatan Kultivasi.</Desc>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower1">
+			<DisplayName>Small Formation Load</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower2">
+			<DisplayName>Medium Formation Load</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower3">
+			<DisplayName>Large Formation Load</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower4">
+			<DisplayName>Advanced Formation</DisplayName>
+		</Text>
+		<Text Name="Zhen_FashuhejiEffect">
+			<DisplayName>Joint Spell Attack</DisplayName>
+			<Desc>Ucapkan mantra berikutnya dengan menggabungkan kekuatan semua orang di Formasi.</Desc>
+		</Text>
+		<Text Name="Zhen_LinkEffect">
+			<DisplayName>Form Formation</DisplayName>
+		</Text>
+		<Text Name="Zhen_LinkEffectCore">
+			<DisplayName>Pillar</DisplayName>
+		</Text>
+		<Text Name="Zhen_RevealEffect">
+			<DisplayName>Exposed Auxiliary</DisplayName>
+			<Desc>Alat bantu tersebut kini telah terekspos, serangan terhadapnya akan menimbulkan kerusakan ekstra. Itu bisa disembunyikan dengan mengubah formasi.</Desc>
+		</Text>
+		<Text Name="Zhen_CancelZhenRecover">
+			<DisplayName>Restore Formation</DisplayName>
+			<Desc>Formasi sedang dalam pemulihan.</Desc>
+		</Text>
+		<Text Name="Zhen_ChangeEffect">
+			<DisplayName>Change Formation</DisplayName>
+			<Desc>Pilar tersebut telah diubah untuk sementara tetapi perubahan tersebut akan dikembalikan setelah beberapa saat.</Desc>
+		</Text>
+		<Text Name="BDPW_Lock">
+			<DisplayName>Marked</DisplayName>
+			<Desc>Ditandai dengan Battle Aloofness.</Desc>
+		</Text>
+	</List>
+</Texts>
