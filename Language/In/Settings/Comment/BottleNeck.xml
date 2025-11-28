@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BottleNeckChance">
+			<Title>Common Limit</Title>
+			<Desc>Terobosan Common Limit dapat dimulai hanya dengan memilih lokasi yang tepat, dan akan ada peluang untuk berhasil.</Desc>
+		</Text>
+		<Text Name="BottleNeckExplore">
+			<Title>Adventure Limit</Title>
+			<Desc>Terobosan Batas Petualangan mengharuskan Anda mengirimkan murid untuk Petualangan guna mengumpulkan pencerahan yang cukup.</Desc>
+		</Text>
+		<Text Name="BottleNeckWork">
+			<Title>Vacuum Limit</Title>
+			<Desc>Dalam Batas Vakum, murid akan kehilangan semua kekuatan sihirnya dan menjadi makhluk fana. Untuk mencapai terobosan, seseorang membutuhkan akumulasi pencerahan dari hal-hal sepele sehari-hari.</Desc>
+		</Text>
+		<Text Name="BottleNeckGold">
+			<Title>Golden Core Limit</Title>
+			<Desc>Batas Inti Emas adalah hambatan penting dalam terobosan. Penggarap harus menempa Qi seluruh tubuhnya menjadi Inti Emas, yang tingkatannya akan menentukan seberapa tinggi tingkat kultivasi yang dapat dicapai seseorang di masa depan.</Desc>
+		</Text>
+		<Text Name="BottleNeckThunder">
+			<Title>Tribulation Limit</Title>
+			<Desc>Batas Kesengsaraan adalah ujian besar terhadap Hukum penanaman. Mereka yang gagal menerobosnya akan kehilangan seluruh fondasinya, atau paling buruk akan dilenyapkan.</Desc>
+		</Text>
+		<Text Name="BottleNeckGod">
+			<Title>Ascend Limit</Title>
+			<Desc>Ascend Limit adalah tantangan terakhir yang dihadirkan di hadapan para kultivator, yang pada akhirnya bisa naik ke keabadian setelah terobosannya.</Desc>
+		</Text>
+		<Text Name="BottleNeckGodCity">
+			<Title>Divine Realm Limit</Title>
+			<Desc>Pembentukan Alam Ilahi adalah momen paling krusial bagi para kultivator Shendao. Keadaan Alam Ilahi akan menentukan tingkat tertinggi yang dapat dicapai seseorang di masa depan.</Desc>
+		</Text>
+		<Text Name="BottleNeckFuPractice">
+			<Title>Natal Talisman</Title>
+			<Desc>Suatu jenis Batas yang unik bagi para penggarap Jimat, yang terobosannya mengharuskan seseorang mengonsumsi Qi mereka untuk menggambar Jimat Natal.</Desc>
+		</Text>
+		<Text Name="BottleNeckDie">
+			<Title>Desperation Limit</Title>
+			<Desc>Batasan ini menandakan bahwa budidaya telah menemui jalan buntu.</Desc>
+		</Text>
+	</List>
+</Texts>
