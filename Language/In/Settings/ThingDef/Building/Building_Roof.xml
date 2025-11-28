@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="CaveRoof" sParam="Building">
+			<ThingName>Cave Ceiling</ThingName>
+		</Text>
+		<Text Name="YaoRoof" sParam="Building">
+			<Desc>Atap. Hanya sekedar hiasan yang tidak mempengaruhi Feng Shui.</Desc>
+			<ThingName>Roof</ThingName>
+		</Text>
+		<Text Name="WoodRoof" sParam="Building">
+			<ThingName>Roof</ThingName>
+			<Desc>Atap. Hanya sekedar hiasan yang tidak mempengaruhi Feng Shui.</Desc>
+		</Text>
+		<Text Name="StoneRoof" sParam="Building">
+			<ThingName>Roof</ThingName>
+			<Desc>Atap. Hanya sekedar hiasan yang tidak mempengaruhi Feng Shui.</Desc>
+		</Text>
+		<Text Name="WoodRoof_SpringFestival" sParam="Building">
+			<ThingName>Roof (Spring)</ThingName>
+			<Desc>Atap khusus untuk Festival Musim Semi. Hanya sekedar hiasan yang tidak mempengaruhi Feng Shui.</Desc>
+		</Text>
+		<Text Name="StoneRoof_SpringFestival" sParam="Building">
+			<ThingName>Roof (Festival)</ThingName>
+			<Desc>Atap khusus untuk Festival Musim Semi. Hanya sekedar hiasan yang tidak mempengaruhi Feng Shui.</Desc>
+		</Text>
+	</List>
+</Texts>
