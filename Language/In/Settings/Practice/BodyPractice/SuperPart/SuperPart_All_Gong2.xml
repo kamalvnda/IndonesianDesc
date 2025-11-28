@@ -1,0 +1,156 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_2_1">
+			<Prefix>Wild Shock</Prefix>
+			<Suffix>Leg - Left</Suffix>
+			<Desc>Badan rahasia dasar yang terkenal dengan serangan liarnya. Keahlian uniknya untuk menggunakan kekuatan sampai batas tertentu dapat menembus penghalang Qi.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan kinerja serangan tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.3.Desc>
+			<Levels.4.Title>Lapisan Kelima</Levels.4.Title>
+			<Levels.4.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_1_1">
+			<Prefix>Wild Shock</Prefix>
+			<Suffix>Leg - Right</Suffix>
+			<Desc>Badan rahasia dasar yang terkenal dengan serangan liarnya. Keahlian uniknya untuk menggunakan kekuatan sampai batas tertentu dapat menembus penghalang Qi.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan kinerja serangan tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.3.Desc>
+			<Levels.4.Title>Lapisan Kelima</Levels.4.Title>
+			<Levels.4.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2">
+			<Prefix>Realm Cross</Prefix>
+			<Suffix>Hand - Left</Suffix>
+			<Desc>Membentuk kembali tangan dengan energi iblis untuk memberi mereka kekuatan yang tak terpikirkan. Teknik ini unggul dalam menembus pertahanan dan penghalang, dan bahkan dapat melintasi dua bidang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2_1">
+			<Prefix>Realm Cross</Prefix>
+			<Suffix>Hand - Right</Suffix>
+			<Desc>Membentuk kembali tangan dengan energi iblis untuk memberi mereka kekuatan yang tak terpikirkan. Teknik ini unggul dalam menembus pertahanan dan penghalang, dan bahkan dapat melintasi dua bidang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_3">
+			<Prefix>Heavenly Reins</Prefix>
+			<Suffix>Top</Suffix>
+			<Desc>Menarik energi dari bumi dengan kedua kaki dan menggunakan tubuh sebagai jembatan yang menghubungkan hingga ke puncak kepala. Sangat merusak sekali tercapai.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Pada dasarnya meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4">
+			<Prefix>Heavenly Shield</Prefix>
+			<Suffix>Leg - Left</Suffix>
+			<Desc>Badan rahasia tingkat pemula yang populer di kalangan pembudidaya fisik. Membentuk kembali tulang kering dengan teknik rahasia untuk membuatnya sangat tahan terhadap kerusakan dan cepat menyerang dan bertahan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Cukup meningkatkan kinerja tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4_1">
+			<Prefix>Heavenly Shield</Prefix>
+			<Suffix>Leg - Right</Suffix>
+			<Desc>Badan rahasia tingkat pemula yang populer di kalangan pembudidaya fisik. Membentuk kembali tulang kering dengan teknik rahasia untuk membuatnya sangat tahan terhadap kerusakan dan cepat menyerang dan bertahan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Cukup meningkatkan kinerja tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Cukup meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_5">
+			<Prefix>Qi Devourer</Prefix>
+			<Suffix>Circle</Suffix>
+			<Desc>Membentuk kembali tulang tangan menjadi bahan yang melahap Qi dan membentuk lingkaran di sekeliling tubuh. Menembus perlindungan Qi dan juga menjaga tubuh dari serangan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Mengurangi secara moderat serangan elemen yang diterima oleh badan rahasia.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.\n Mengurangi serangan elemen yang diterima oleh tubuh rahasia secara moderat.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_6">
+			<Prefix>Indestructible Oneness</Prefix>
+			<Suffix>Body</Suffix>
+			<Desc>Membentuk kembali tulang-tulang utama dalam tubuh menjadi satu kesatuan yang membagi kerusakan secara merata. Latihlah secara ekstrem hingga menjadi hampir tidak bisa dihancurkan.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah besar.</Levels.2.Desc>
+			<Levels.3.Title>Lapisan Keempat</Levels.3.Title>
+			<Levels.3.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah besar.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_7">
+			<Prefix>Firestruck</Prefix>
+			<Suffix>Blood</Suffix>
+			<Desc>Membentuk kembali jantung dengan teknik sehingga menghasilkan Firestruck Blood. Menggunakan darah untuk pembentukan kembali dapat secara efektif meningkatkan hasilnya. Jika metode ini digunakan untuk membentuk kembali tulang belakang, kecil kemungkinannya untuk bermutasi dan mengembangkan potensi evolusi seluruh tulang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Dapatkan Mantra Remold: Firestruck Remold</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_8">
+			<Prefix>Barbarian God</Prefix>
+			<Suffix>Heart</Suffix>
+			<Desc>Membentuk kembali jantung ke bentuk aslinya untuk meningkatkan tingkat pemulihan True Qi secara drastis.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Sedikit meningkatkan tingkat pemulihan True Qi badan rahasia.</Levels.0.Desc>
+			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
+			<Levels.1.Desc>Meningkatkan tingkat pemulihan True Qi badan rahasia secara moderat.</Levels.1.Desc>
+			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
+			<Levels.2.Desc>Secara drastis meningkatkan tingkat pemulihan True Qi badan rahasia.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_9">
+			<Prefix>Barbarian</Prefix>
+			<Suffix>Will</Suffix>
+			<Desc>Membentuk kembali otak yang memungkinkan kultivator fisik memiliki Kehendak Barbar ketika fokus untuk meningkatkan kemampuan menyerang secara drastis.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Buka Kunci Posisi Pertempuran: Kehendak Barbar</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_10">
+			<Prefix>Polar</Prefix>
+			<Suffix>Eyes</Suffix>
+			<Desc>Membentuk kembali mata dengan teknik dan memungkinkannya terhubung dengan Delapan Kutub untuk mengantisipasi pergerakan musuh dan meningkatkan akurasi serangan secara drastis.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Meningkatkan akurasi serangan kultivator fisik dalam jumlah besar.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_11">
+			<Prefix>Devouring</Prefix>
+			<Suffix>Mouth</Suffix>
+			<Desc>Badan rahasia meniru mulut Taotie. Menggunakan tubuh rahasia ini dapat langsung melahap energi dari langit dan bumi untuk diisi ulang.</Desc>
+			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
+			<Levels.0.Desc>Dapatkan Keajaiban: Mulut yang Melahap</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>
