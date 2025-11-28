@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_LOST">
+			<DisplayName>Wrong Law</DisplayName>
+			<Desc>Hukum yang hilang dan tidak diakui oleh siapa pun. \n(Mod Hilang)</Desc>
+			<Stages.0.DisplayName>Error</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Error</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Error</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Error</Stages.1.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>
