@@ -1,0 +1,7 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Npc_Puppet" sParam="Npc">
+			<Desc>Sebuah Boneka Vessel</Desc>
+		</Text>
+	</List>
+</Texts>
