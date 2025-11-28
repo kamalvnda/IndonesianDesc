@@ -1,0 +1,279 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Dan_BasePracticeDrug">
+			<DisplayName>Forming Pill</DisplayName>
+			<Desc>Buka potensi tubuh Anda, untuk sementara meningkatkan Persepsi, Konstitusi, dan Kecerdasan masing-masing sebesar 30%.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan">
+			<DisplayName>Stamina Pill</DisplayName>
+			<Desc>Dengan mengkonsumsi Stamina Pill, kemampuan tubuh seseorang untuk menghasilkan Stamina meningkat dalam waktu 7 hari, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan2">
+			<DisplayName>Ginseng Pill</DisplayName>
+			<Desc>Dengan mengkonsumsi Pil Ginseng, kemampuan tubuh seseorang dalam menghasilkan Stamina meningkat dalam waktu 14 hari, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan3">
+			<DisplayName>Resin Essence Powder</DisplayName>
+			<Desc>Dengan mengkonsumsi Resin Essence Powder, kemampuan tubuh seseorang untuk menghasilkan Stamina meningkat dalam waktu 28 hari, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina.</Desc>
+		</Text>
+		<Text Name="Dan_Ling1">
+			<DisplayName>Qi Regen Pill</DisplayName>
+			<Desc>Meningkatkan tingkat pemulihan Qi sebesar 2.000%.</Desc>
+		</Text>
+		<Text Name="Dan_Ling2">
+			<DisplayName>Sun Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Ling3">
+			<DisplayName>Divine Powder</DisplayName>
+			<Desc>Meningkatkan Maks Qi sebesar 100.000.</Desc>
+		</Text>
+		<Text Name="Dan_Defense">
+			<DisplayName>Shield Pill</DisplayName>
+			<Desc>Meningkatkan kekuatan Perlindungan dasar Anda sebesar 30%.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBaseFromLife">
+			<DisplayName>Pill of the Five Clingings</DisplayName>
+		</Text>
+		<Text Name="Dan_FiveBase1">
+			<DisplayName>Heavenly Pill</DisplayName>
+			<Desc>Meningkatkan Persepsi sebesar 30% selama 48 jam.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase2">
+			<DisplayName>Earthly Pill</DisplayName>
+			<Desc>Meningkatkan Konstitusi sebesar 30% selama 48 jam.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase3">
+			<DisplayName>Ether Pill</DisplayName>
+			<Desc>Meningkatkan Karisma sebesar 30% selama 48 jam.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase4">
+			<DisplayName>Wisdom Pill</DisplayName>
+			<Desc>Meningkatkan Kecerdasan sebesar 30% selama 48 jam.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase5">
+			<DisplayName>Blessed Pill</DisplayName>
+			<Desc>Meningkatkan Keberuntungan sebesar 30% selama 48 jam.</Desc>
+		</Text>
+		<Text Name="Dan_PracticeRate">
+			<DisplayName>Increases the chance of successfully breakthroughing.</DisplayName>
+		</Text>
+		<Text Name="Dan_PracticeSpeed">
+			<DisplayName>Increases Cultivation speed (Yellowbud).</DisplayName>
+		</Text>
+		<Text Name="Dan_HundredRefine">
+			<DisplayName>Increases Cultivation speed (Samsara).</DisplayName>
+		</Text>
+		<Text Name="Dan_CalmDown">
+			<DisplayName>Purity Pill</DisplayName>
+			<Desc>Konsumsi Pil Kemurnian akan menenangkan Kondisi Mental seseorang sampai batas tertentu, dan mengurangi fluktuasi suasana hati dalam satu hari.</Desc>
+		</Text>
+		<Text Name="Dan_Happiness">
+			<DisplayName>Euphoria Pill</DisplayName>
+			<Desc>Konsumsi Pil Euforia akan membuat seseorang merasakan kebahagiaan dalam waktu dua hari, namun sangat menghambat efisiensi kerja.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger">
+			<DisplayName>Inedia Pill</DisplayName>
+			<Desc>Konsumsi Pil Inedia memberi seseorang kemampuan Penyerapan Qi selama dua hari, memungkinkan pengisian ulang Kelaparan secara otomatis.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger1">
+			<DisplayName>Nourish Pill</DisplayName>
+			<Desc>Konsumsi Nourish Pill menurunkan tingkat Kelaparan dan Kelelahan seseorang dalam dua hari.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger2">
+			<DisplayName>Fasting Pill</DisplayName>
+			<Desc>Konsumsi Pil Puasa akan menurunkan kecepatan seseorang mengonsumsi makanan dan air secara signifikan.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger3">
+			<DisplayName>Qi Fasting Pill</DisplayName>
+			<Desc>Konsumsi Qi Fasting Pill akan menurunkan kecepatan seseorang mengonsumsi makanan dan air secara signifikan.</Desc>
+		</Text>
+		<Text Name="Dan_LostSoul">
+			<DisplayName>Sedation Pill</DisplayName>
+			<Desc>Pil berbahan dasar mineral yang sangat mendasar. Mengkonsumsi pil ini akan menyebabkan fungsi otak seseorang tertekan dan mengalami koma selama 3 hari penuh.</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseLife1">
+			<DisplayName>Life Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife2">
+			<DisplayName>Vitata Elixir</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife3">
+			<DisplayName>Eternity Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife4">
+			<DisplayName>Regen Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife5">
+			<DisplayName>Morrow Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife6">
+			<DisplayName>Life Spring</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife7">
+			<DisplayName>Lingzhi</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife8">
+			<DisplayName>Ganoderma</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Anodyne">
+			<DisplayName>Painkiller</DisplayName>
+			<Desc>Meringankan rasa sakit. Efeknya akan bertahan sekitar 5 hari.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Mint">
+			<DisplayName>Purity Leaf</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence">
+			<DisplayName>Earth Flux</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SanHuaHuangJing">
+			<DisplayName>Trimerous Essence</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1">
+			<DisplayName>Wicked Flux</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence_1">
+			<DisplayName>Holy Essence</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1_1">
+			<DisplayName>Evil Essence</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Ginseng">
+			<DisplayName>Ginseng</DisplayName>
+			<Desc>Meningkatkan ketahanan alami untuk jangka waktu singkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng">
+			<DisplayName>Red Ginseng</DisplayName>
+			<Desc>Secara signifikan meningkatkan ketahanan alami untuk jangka waktu singkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng1">
+			<DisplayName>Red Ginseng (Fruit)</DisplayName>
+			<Desc>Meningkatkan Maks Qi.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Laxative">
+			<DisplayName>Laxative Pill</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Laxative1">
+			<DisplayName>Weakening</DisplayName>
+			<Desc>Setelah meminum Pil Pencahar, seseorang akan menjadi sangat lemah dan memiliki efisiensi kerja yang sangat rendah.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LongXianGuo">
+			<DisplayName>Amber Fruit</DisplayName>
+			<Desc>Dengan mengkonsumsi Buah Amber, seseorang menjadi kebal terhadap rasa lapar dan lelah dalam waktu setengah hari.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LingWater">
+			<DisplayName>Spirit Dew</DisplayName>
+			<Desc>Konsumsi Spirit Dew akan sangat meningkatkan tingkat pemulihan luka seseorang dalam waktu singkat.</Desc>
+		</Text>
+		<Text Name="Dan_LingStone">
+			<DisplayName>Advanced Qi Resonance</DisplayName>
+			<Desc>Gunakan batu roh dalam budidaya untuk beresonansi dengan energi Qi, sangat meningkatkan Tingkat Pemulihan Qi dan Kecepatan Budidaya seseorang.</Desc>
+		</Text>
+		<Text Name="Dan_LingCrystal">
+			<DisplayName>Advanced Qi Resonance</DisplayName>
+			<Desc>Gunakan Kristal Roh dalam kultivasi untuk beresonansi secara mendalam dengan energi Qi, sehingga sangat meningkatkan Tingkat Pemulihan Qi dan Kecepatan Kultivasi seseorang.</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown1">
+			<DisplayName>Harmony Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown2">
+			<DisplayName>Justice Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail1">
+			<DisplayName>Junk Pill</DisplayName>
+			<Desc>Setelah meminum pil ramuan aneh itu, tubuhku tiba-tiba menyusut.</Desc>
+		</Text>
+		<Text Name="Dan_Fail2">
+			<DisplayName>Junk Pill</DisplayName>
+			<Desc>Setelah meminum pil ramuan aneh itu, tubuh saya tiba-tiba membesar.</Desc>
+		</Text>
+		<Text Name="Dan_Fail3">
+			<DisplayName>Junk Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail4">
+			<DisplayName>Junk Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail5">
+			<DisplayName>Junk Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul1">
+			<DisplayName>Anguish Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul2">
+			<DisplayName>Soulrend Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3">
+			<DisplayName>Serene Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul4">
+			<DisplayName>Scorch Pill</DisplayName>
+			<Desc>Konsumsilah sebagian dari umur Anda untuk mendapatkan kecerdasan luar biasa selama 2 jam, tetapi hal itu akan meninggalkan kerusakan permanen pada kecerdasan setelahnya.</Desc>
+		</Text>
+		<Text Name="Dan_Soul4_D">
+			<DisplayName>Scorch Pill Negative</DisplayName>
+		</Text>
+		<Text Name="Dan_LunHui1">
+			<DisplayName>Touched</DisplayName>
+			<Desc>Tersentuh oleh bagian memori dari dunia yang berbeda ini.</Desc>
+		</Text>
+		<Text Name="Dan_XianBone">
+			<DisplayName>Divine Bones</DisplayName>
+		</Text>
+		<Text Name="Dan_XianBoneBall">
+			<DisplayName>Sarira</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong">
+			<DisplayName>Spirit Seed (Consumable)</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong_Equip">
+			<DisplayName>Spirit Seed (Equipment)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YuanHunLu">
+			<DisplayName>Holy Nectar</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu">
+			<DisplayName>Evil Nectar</DisplayName>
+			<Desc>Dengan mengkonsumsi Nektar Jahat, Kecerdasan dan kemampuan belajar seseorang meningkat.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu1">
+			<DisplayName>Evil Nectar (Damage)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YanDaoGuo">
+			<DisplayName>Insight Fruit</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_QieDaoGuo">
+			<DisplayName>Impose Fruit</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu">
+			<DisplayName>Fortune Nectar</DisplayName>
+			<Desc>Dengan mengonsumsi Nektar Keberuntungan, Roh Primordial seseorang memasuki kondisi terlupakan.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu1">
+			<DisplayName>Fortune Nectar Effects</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XianShiChongSheng">
+			<DisplayName>Rebirth of Divine Consciousness</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieShiChongSheng">
+			<DisplayName>Rebirth of Wicked Consciousness</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Boss_Meat">
+			<DisplayName>Divine Beast Flesh</DisplayName>
+			<Desc>Sangat meningkatkan Max Qi dan Umur.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_BossZhuLong_Meat">
+			<DisplayName>Primeval Flesh</DisplayName>
+			<Desc>Mengurangi Pencapaian dan meningkatkan Umur.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Dan_FabaoNumAdd">
+			<DisplayName>Increases number of Artifacts by 1.</DisplayName>
+			<Desc>Meningkatkan jumlah maksimum Artefak sebanyak 1.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_LieShenDan">
+			<DisplayName>Division Pill</DisplayName>
+		</Text>
+		<Text Name="Modifier_Dan_TiShen">
+			<DisplayName>Clone Pill</DisplayName>
+			<Desc>Memungkinkan Anda melarikan diri dari Lelang.</Desc>
+		</Text>
+	</List>
+</Texts>
