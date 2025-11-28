@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SoulCrystalBase" sParam="Item">
+			<Item.FabaoSuffix>Soul Gem</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SoulCrystalYou" sParam="Item">
+			<ThingName>Anguish Soul Gem</ThingName>
+			<Desc>Permata jiwa gelap, berisi beberapa kenangan menyakitkan yang tersisa.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalNing" sParam="Item">
+			<ThingName>Serenity Soul Gem</ThingName>
+			<Desc>Permata jiwa yang tenang, berisi beberapa kenangan yang tersisa.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalLing" sParam="Item">
+			<ThingName>Spirit Soul Gem</ThingName>
+			<Desc>Permata jiwa yang jernih, berisi beberapa kenangan indah yang tersisa.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalYuanLing" sParam="Item">
+			<ThingName>Primordial Soul Gem</ThingName>
+			<Desc>Roh Makhluk memperoleh kesadarannya adalah sebuah kesalahan di jalan surga, sedangkan Permata Jiwa Purba adalah jejak kedalaman dari kesalahan tersebut, yang diambil dari Roh Makhluk.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CatSoul" sParam="Item">
+			<ThingName>Cat Soul Gem</ThingName>
+			<Desc>Fragmen jiwa kucing Yaoguai, mungkin ada hubungannya dengan pepatah bahwa kucing memiliki sembilan nyawa. Ini mengandung kekuatan misterius, mengkonsumsinya akan memberi Anda sub-spirit tambahan. Item ini hanya dapat diambil sekali seumur hidup. Hanya efektif untuk kultivator yang telah mencapai fase Roh Primordial.</Desc>
+		</Text>
+	</List>
+</Texts>
