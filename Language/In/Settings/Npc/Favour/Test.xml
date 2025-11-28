@@ -1,0 +1,282 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[Empty]</DisplayName>
+			<Desc>Bantuan ini telah hilang, begitu pula semua informasi mengenainya. (Kosong).</Desc>
+		</Text>
+		<Text Name="Opinion">
+			<DisplayName>Opinion</DisplayName>
+			<Desc>Label Favor khusus, digunakan dalam memilah pendapat yang berbeda.</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>Withdrawn</DisplayName>
+			<Desc>Dunia ini dijalankan oleh keuntungan, dan pencariannya. Saya tidak mempercayai siapa pun.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>Amiable</DisplayName>
+			<Desc>Pertemuan kita sudah ditakdirkan. Kita semua adalah teman baik!</Desc>
+		</Text>
+		<Text Name="BeReceived">
+			<DisplayName>Beloved</DisplayName>
+			<Desc>[HENAME] bersifat karismatik, dan selalu diterima dengan baik oleh orang lain.</Desc>
+		</Text>
+		<Text Name="BeTrueMan">
+			<DisplayName>Well-Versed</DisplayName>
+			<Desc>Yang lain menjunjung tinggi [HENAME] atas pengalaman kehidupan nyata mereka.</Desc>
+		</Text>
+		<Text Name="Loyal">
+			<DisplayName>Gallant</DisplayName>
+			<Desc>[HENAME] memiliki rasa keadilan yang kuat, dan merupakan teman yang baik.</Desc>
+		</Text>
+		<Text Name="BeiGuoXia">
+			<DisplayName>Scapegoat</DisplayName>
+			<Desc>[HENAME] sering kali menyalahkan orang lain, sehingga mendapatkan kasih sayang dari rekan-rekannya.</Desc>
+		</Text>
+		<Text Name="DongShiZhang">
+			<DisplayName>Boss</DisplayName>
+			<Desc>[HENAME] , itu bos kami ya!</Desc>
+		</Text>
+		<Text Name="HaoShuang">
+			<DisplayName>Chivalrous</DisplayName>
+			<Desc>Hanya berhati dan bersifat sopan, [HENAME] menginspirasi persahabatan di sekitar mereka!</Desc>
+		</Text>
+		<Text Name="BeginTogether">
+			<DisplayName>Wanderer</DisplayName>
+			<Desc>[HENAME] menjelajahi daratan di sisiku.</Desc>
+		</Text>
+		<Text Name="Charisma0">
+			<Desc>Karisma Nikmat 0</Desc>
+			<Layers.0.DisplayName>Nasty</Layers.0.DisplayName>
+			<Layers.0.Desc>Why do people like [HENAME] have to exist...</Layers.0.Desc>
+			<Layers.1.DisplayName>Unkind</Layers.1.DisplayName>
+			<Layers.1.Desc>It's hard work, trying to get on with [HENAME].</Layers.1.Desc>
+			<Layers.2.DisplayName>Reticent</Layers.2.DisplayName>
+			<Layers.2.Desc>Despite not being great at getting along with others, [HENAME] is a good person really.</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma1">
+			<Desc>Nikmat Karisma 1</Desc>
+			<Layers.0.DisplayName>Hypocrite</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] is a fraud, acting all high and mighty.</Layers.0.Desc>
+			<Layers.1.DisplayName>Cultured</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] seems like a good person.</Layers.1.Desc>
+			<Layers.2.DisplayName>Considerate</Layers.2.DisplayName>
+			<Layers.2.Desc>It's easy getting along with [HENAME] as they're so considerate.</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma2">
+			<Desc>Nikmat Karisma 2</Desc>
+			<Layers.0.DisplayName>Noble</Layers.0.DisplayName>
+			<Layers.0.Desc>I can't stand [HENAME], but they are valiant, it's true.</Layers.0.Desc>
+			<Layers.1.DisplayName>Dashing</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] seems so refined, and classy.</Layers.1.Desc>
+			<Layers.2.DisplayName>Ray of Sunshine</Layers.2.DisplayName>
+			<Layers.2.Desc>Getting along with [HENAME] is truly a joy. They're a little ray of sunshine, and a great friend.</Layers.2.Desc>
+		</Text>
+		<Text Name="Relative">
+			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+		</Text>
+		<Text Name="Practice">
+			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+		</Text>
+		<Text Name="PracticeOther">
+			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+		</Text>
+		<Text Name="Family">
+			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+		</Text>
+		<Text Name="Friend">
+			<Desc>Bantuan Persahabatan 2</Desc>
+			<Layers.0.DisplayName>Friend</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] is my friend, although we've been having problems as of late.</Layers.0.Desc>
+			<Layers.1.DisplayName>Friend</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] is a good friend of mine.</Layers.1.Desc>
+			<Layers.2.DisplayName>Faithful Friend</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] is my faithful friend.</Layers.2.Desc>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>Scar</DisplayName>
+			<Desc>[HENAME] mempunyai bekas luka parah di wajahnya.</Desc>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayName>Attraction</DisplayName>
+			<Desc>Daya tarik</Desc>
+			<Layers.0.DisplayName>Attraction</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME]... *Sigh*.</Layers.0.Desc>
+			<Layers.1.DisplayName>Attraction</Layers.1.DisplayName>
+		</Text>
+		<Text Name="Lover">
+			<DisplayName>Lover</DisplayName>
+			<Desc>[HENAME] adalah kekasihku.</Desc>
+		</Text>
+		<Text Name="VisceralScar">
+			<DisplayName>Terrible Scar</DisplayName>
+			<Desc>[HENAME] memiliki bekas luka parah di tubuhnya yang menyakitkan untuk dilihat.</Desc>
+		</Text>
+		<Text Name="Evilfaced">
+			<DisplayName>Unattractive</DisplayName>
+			<Desc>[HENAME] benar-benar jelek, sama sekali tidak enak dipandang.</Desc>
+		</Text>
+		<Text Name="BeautifulFace">
+			<DisplayName>Handsome</DisplayName>
+			<Desc>[HENAME] adalah kecantikan sejati, menyebarkan kebahagiaan hanya dengan penampilannya.</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>Brusque</DisplayName>
+			<Desc>Perilaku [HENAME] terhadap orang lain sungguh buruk, saya tidak tahan.</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>Pleasant</DisplayName>
+			<Desc>[HENAME] hangat dan akomodatif, sehingga memudahkan orang lain untuk mendekati mereka.</Desc>
+		</Text>
+		<Text Name="SayHi">
+			<DisplayName>Greeting</DisplayName>
+			<Desc>[HENAME] dan saya berbagi salam.</Desc>
+		</Text>
+		<Text Name="AfterTalk">
+			<DisplayName>Chat</DisplayName>
+			<Desc>Saya ngobrol dengan [HENAME] , sungguh luar biasa.</Desc>
+		</Text>
+		<Text Name="DeepTalk">
+			<DisplayName>Heart-to-heart Talk</DisplayName>
+			<Desc>Saya berbicara dari hati ke hati dengan [HENAME] . Kami menjalin hubungan yang baik, dan menurutku itu membuat kami semakin dekat.</Desc>
+		</Text>
+		<Text Name="Neglect">
+			<DisplayName>Cold Shoulder</DisplayName>
+			<Desc>Saya mengatakan sesuatu kepada [HENAME] tetapi mereka bahkan tidak mengakui saya. Lagipula aku tidak peduli. Apa pun.</Desc>
+		</Text>
+		<Text Name="Quarrel">
+			<DisplayName>Quarrel</DisplayName>
+			<Desc>Saya sedikit berselisih paham dengan [HENAME] . Mereka tidak tahu apa yang mereka bicarakan, itu yang terburuk.</Desc>
+		</Text>
+		<Text Name="Insult">
+			<DisplayName>Humiliated</DisplayName>
+			<Desc>[HENAME] dan saya saling menghina. Aku benar-benar tidak tahan melihat mereka, bodoh.</Desc>
+		</Text>
+		<Text Name="SayHiFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>Saya sedang berbasa-basi dengan [HENAME] tetapi karena suatu alasan keadaan menjadi tegang, dan kami mulai bertengkar. Berantakan sekali.</Desc>
+		</Text>
+		<Text Name="AfterTalkFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>Saya mengobrol dengan [TXT] dan kami akhirnya bertengkar tanpa alasan yang jelas.</Desc>
+		</Text>
+		<Text Name="DeepTalkFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>Saya membuka hati untuk [HENAME] namun kami terlibat perdebatan sengit, dan bahkan berakhir dengan pertengkaran. Sayang sekali.</Desc>
+		</Text>
+		<Text Name="NeglectFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>Saya mulai berbicara dengan [HENAME] tetapi mereka tersinggung dengan perkataan saya, dan kami akhirnya bertengkar satu sama lain.</Desc>
+		</Text>
+		<Text Name="QuarrelFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>Saya bertengkar dengan [TXT] yang hanya bisa diselesaikan dengan tinju.</Desc>
+		</Text>
+		<Text Name="InsultFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>Saya saling menghina dengan [HENAME] . Si idiot yang suka berperang harus diberi pelajaran, dengan tinjuku.</Desc>
+		</Text>
+		<Text Name="WithYoung">
+			<Desc>Sikap terhadap generasi muda.</Desc>
+			<Layers.0.DisplayName>Rude to Elders</Layers.0.DisplayName>
+			<Layers.0.Desc>I think [HENAME] is an absolute rat.</Layers.0.Desc>
+			<Layers.1.DisplayName>Fond</Layers.1.DisplayName>
+			<Layers.1.Desc>I think [HENAME] is still just a kid.</Layers.1.Desc>
+			<Layers.2.DisplayName>Young Potential</Layers.2.DisplayName>
+			<Layers.2.Desc>I think [HENAME] shows promise.</Layers.2.Desc>
+		</Text>
+		<Text Name="WithElder">
+			<Desc>Sikap terhadap orang yang lebih tua.</Desc>
+			<Layers.0.DisplayName>Rebellious</Layers.0.DisplayName>
+			<Layers.0.Desc>I don't like being around [HENAME], makes me feel awkward.</Layers.0.Desc>
+			<Layers.1.DisplayName>Respects Elders</Layers.1.DisplayName>
+			<Layers.1.Desc>I reckon [HENAME] should be treated respectfully, on account of their age.</Layers.1.Desc>
+			<Layers.2.DisplayName>Reverence</Layers.2.DisplayName>
+			<Layers.2.Desc>I hold [HENAME] in high esteem.</Layers.2.Desc>
+		</Text>
+		<Text Name="RivalInlove">
+			<Desc>Saingan Cinta</Desc>
+			<Layers.0.DisplayName>Loathing</Layers.0.DisplayName>
+			<Layers.0.Desc>Oh, if I could just shove a blade into [HENAME] and be done with it.</Layers.0.Desc>
+			<Layers.1.DisplayName>Empathy</Layers.1.DisplayName>
+			<Layers.1.Desc>I think [HENAME] and I are similar in a lot of ways.</Layers.1.Desc>
+		</Text>
+		<Text Name="PersonalEnemyBegin">
+			<DisplayName>Hatred</DisplayName>
+			<Desc>Saya tidak tahan berada di ruangan yang sama dengan [HENAME] .</Desc>
+		</Text>
+		<Text Name="FeatureOpposition">
+			<DisplayName>On Bad Terms</DisplayName>
+			<Desc>Jadi orang seperti itulah [HE] . Saya membenci [HE] . ( [TXT] )</Desc>
+		</Text>
+		<Text Name="FeatureClose">
+			<DisplayName>Close</DisplayName>
+			<Desc>Saya suka orang-orang seperti [HE] . Kami dipotong dari kain yang sama. ( [TXT] )</Desc>
+		</Text>
+		<Text Name="SameBackstory">
+			<DisplayName>Common Ground</DisplayName>
+			<Desc>Kami memiliki banyak pengalaman bersama ( [TXT] ).</Desc>
+		</Text>
+		<Text Name="FeedGood">
+			<DisplayName>Take Care</DisplayName>
+			<Desc>Terima kasih telah menjagaku.</Desc>
+		</Text>
+		<Text Name="FeedBad">
+			<DisplayName>What is this?</DisplayName>
+			<Desc>Apa yang kamu coba berikan padaku?</Desc>
+		</Text>
+		<Text Name="ThankTreat">
+			<DisplayName>Heal</DisplayName>
+			<Desc>Terima kasih telah membantu saya menyembuhkan.</Desc>
+		</Text>
+		<Text Name="ThankHufa">
+			<DisplayName>Guard</DisplayName>
+			<Desc>Terima kasih, tuan.</Desc>
+		</Text>
+		<Text Name="BeAttack">
+			<DisplayName>Under Attack</DisplayName>
+			<Desc>Apakah kamu mencoba membunuhku?</Desc>
+		</Text>
+		<Text Name="BeMagicBood">
+			<DisplayName>Appreciation</DisplayName>
+			<Desc>Terima kasih, atas semua yang telah kamu lakukan untukku.</Desc>
+		</Text>
+		<Text Name="BeMagicBad">
+			<DisplayName>Damaged</DisplayName>
+			<Desc>Apa yang baru saja kamu lakukan padaku?</Desc>
+		</Text>
+		<Text Name="AmuseME">
+			<DisplayName>Amused</DisplayName>
+			<Desc>[HENAME] adalah sumber tawa yang tepat.</Desc>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayName>Hatred</DisplayName>
+			<Desc>[HENAME] dibunuh [TXT] .</Desc>
+		</Text>
+		<Text Name="MagicBad">
+			<DisplayName>Damaged</DisplayName>
+			<Desc>Menyaksikan [HENAME] merugikan [TXT] .</Desc>
+		</Text>
+		<Text Name="MagicGood">
+			<DisplayName>Appreciation</DisplayName>
+			<Desc>Menyaksikan [HENAME] menggunakan sihir melawan [TXT] .</Desc>
+		</Text>
+		<Text Name="BeDeclaration">
+			<Layers.0.DisplayName>Declare Feelings</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] professed their feelings for me, haha.</Layers.0.Desc>
+			<Layers.1.DisplayName>Declare Feelings</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] told me of their feelings for me. My heart's racing.</Layers.1.Desc>
+		</Text>
+		<Text Name="Favour_School_FiveTangZhu">
+			<DisplayName>Disdain</DisplayName>
+			<Desc>Bagaimana [HENAME] dapat bertindak sebagai Pemimpin Cabang, dengan kinerja seperti itu?</Desc>
+		</Text>
+		<Text Name="Favour_School_ZhangMen">
+			<DisplayName>Sect Leader</DisplayName>
+			<Desc>[HENAME] adalah Pemimpin Sekte kami.</Desc>
+		</Text>
+		<Text Name="Favour_School_TangZhu">
+			<DisplayName>Branch Leader</DisplayName>
+			<Desc>[HENAME] adalah Pemimpin Cabang kami.</Desc>
+		</Text>
+	</List>
+</Texts>
