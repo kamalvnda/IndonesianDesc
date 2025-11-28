@@ -1,0 +1,69 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>Torch Dragon</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongFight">
+			<DisplayName>Torch Dragon</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_ShadowFight">
+			<DisplayName>Phantom Battle Zoom</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YangShadow">
+			<DisplayName>Phantom of Light</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YinShadow">
+			<DisplayName>Phantom of Darkness</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_LongPuFix">
+			<DisplayName>Fix of Dragon Servant</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhuLong_Part">
+			<DisplayName>Torch Dragon's Body Part</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongShadow">
+			<DisplayName>Torch Dragon's Shadow</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_NightGod">
+			<DisplayName>God of Eternal Night</DisplayName>
+			<Desc>Dapatkan 1 lapisan [Lunarfrost Breath] setiap 6 detik. Hanya Artefak dan Mantra elemen Yang (Api, Kayu) yang dapat menghasilkan kerusakan penuh. Artefak elemen Tanah dapat menimbulkan kerusakan yang lebih kecil. Kerusakan yang ditimbulkan oleh Artefak elemen Yin akan diserap.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Night">
+			<DisplayName>Lunarfrost Breath</DisplayName>
+			<Desc>Ketika Lunarfrost Breath mencapai 100 tumpukan, itu akan melepaskan manifestasi iblis batiniah.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_DayGod">
+			<DisplayName>God of Eternal Day</DisplayName>
+			<Desc>Dapatkan 1 lapisan [Solarflare Breath] setiap 6 detik. Hanya Artefak dan Mantra elemen Yin (Logam, Air) yang dapat menimbulkan kerusakan penuh. Artefak elemen Tanah dapat menimbulkan kerusakan yang lebih kecil. Kerusakan yang ditimbulkan oleh Artefak elemen Yang akan diserap.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Day">
+			<DisplayName>Solarflare Breath</DisplayName>
+			<Desc>Ketika Solarflare Breath mencapai 100 tumpukan, itu akan melepaskan manifestasi kekuatan karma.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Shennian">
+			<DisplayName>Cognitive Oscillation</DisplayName>
+			<Desc>Setiap lapisan mengurangi Status Mental sebanyak 2. Itu akan hilang ketika Torch Dragon berganti fase.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Zuinie">
+			<DisplayName>Sin Entanglement</DisplayName>
+			<Desc>Setiap lapisan mengurangi Penghukuman sebesar 2. Lapisan tersebut akan terhapus ketika Torch Dragon berpindah fase.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen">
+			<DisplayName>Inferno of Karma</DisplayName>
+			<Desc>Penghukuman meningkat sebesar 1000, namun berkurang secara permanen sebesar 200 ketika berakhir.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen_end">
+			<DisplayName>Inferno of Karma</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao">
+			<DisplayName>Mind Shielding</DisplayName>
+			<Desc>Status Mental berkurang 100, namun meningkat secara permanen sebesar 20 saat berakhir.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao_end">
+			<DisplayName>Mind Shielding</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongIdleEffect">
+			<DisplayName>Torch Dragon Special Effect</DisplayName>
+		</Text>
+	</List>
+</Texts>
