@@ -1,0 +1,526 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BQLabel_LOST">
+			<DisplayName>Lost Item</DisplayName>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base">
+			<DisplayName>Tag</DisplayName>
+		</Text>
+		<Text Name="QuenchingLabel_Special1">
+			<DisplayName>Firestruck Spine</DisplayName>
+			<Desc>Membentuk kembali tulang belakang dengan Hukum rahasia khusus untuk mengubahnya secara mendasar.[size=16][color=#D06508]\n Meningkatkan tutup pembentukan kembali tulang kultivator fisik secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Special2">
+			<DisplayName>Illusionary Brain</DisplayName>
+			<Desc>Membentuk kembali otak dengan Hukum rahasia khusus untuk mengubahnya secara mendasar.[size=16][color=#D06508]\n Meningkatkan tutup pembentukan kembali organ kultivator fisik secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Special3">
+			<DisplayName>Transcendent Heart</DisplayName>
+			<Desc>Membentuk kembali hati dengan Hukum rahasia khusus untuk mengubahnya secara mendasar.[size=16][color=#D06508]\n Meningkatkan tutup pembentukan kembali daging kultivator fisik secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>Tempered Organ</DisplayName>
+			<Desc>Menyegarkan organ melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan sedikit Qi Sejati maksimum kultivator fisik.\n Meningkatkan sedikit tingkat pemulihan Qi Sejati tubuh rahasia.\n Meningkatkan sedikit kekuatan fisik kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>Tempered Bone</DisplayName>
+			<Desc>Memperkuat tulang melalui pembentukan kembali. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.\n Meningkatkan batas maksimum True Qi pada kultivator fisik dengan jumlah yang kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.\n Meningkatkan sedikit kekuatan fisik kultivator fisik.\n Meningkatkan sedikit masa hidup kultivator fisik.\n Meningkatkan sedikit nafsu makan kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>Tempered Flesh</DisplayName>
+			<Desc>Melatih daging melalui pembentukan kembali. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan tubuh rahasia dengan jumlah yang kecil.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dengan jumlah yang kecil.\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dengan jumlah yang kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dengan jumlah yang kecil.\n Meningkatkan Qi Sejati maksimal dari kultivator fisik dengan jumlah yang kecil.\n Meningkatkan sedikit konsumsi Qi Sejati tubuh rahasia.\n Meningkatkan sedikit kekuatan fisik kultivator fisik.\n Meningkatkan fisik umur kultivator sedikit.\n Meningkatkan sedikit nafsu makan kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Spine">
+			<DisplayName>Tempered Spine</DisplayName>
+			<Desc>Memperkuat tulang belakang melalui pembentukan kembali. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.\n Meningkatkan Qi Sejati maksimal dari kultivator fisik dalam jumlah kecil.\n Meningkatkan konsumsi Qi Sejati dari tubuh rahasia sedikit.\n Meningkatkan sedikit kekuatan fisik kultivator fisik.\n Meningkatkan sedikit masa hidup kultivator fisik.\n Meningkatkan sedikit nafsu makan kultivator fisik.\n Meningkatkan tutup pembentukan kembali tulang kultivator fisik dalam jumlah kecil.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Brain">
+			<DisplayName>Tempered Brain</DisplayName>
+			<Desc>Meningkatkan fungsi dasar otak melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan jumlah maksimal kenangan menyakitkan sebanyak sedikit.\n Meningkatkan durasi kemarahan kultivator fisik sebanyak sedikit.\n Meningkatkan sedikit tingkat konsumsi Qi Sejati tubuh rahasia.\n Meningkatkan daya tahan rasa sakit kultivator fisik secara signifikan.\n Meningkatkan batas pembentukan kembali organ kultivator fisik sebanyak sedikit.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Eye">
+			<DisplayName>Tempered Eyes</DisplayName>
+			<Desc>Meningkatkan fungsi dasar mata melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan penghindaran global kultivator fisik dalam jumlah kecil.\n Meningkatkan akurasi serangan tubuh rahasia kultivator fisik dalam jumlah kecil.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia kultivator fisik dalam jumlah kecil.\n Meningkatkan peluang penekanan artefak pada tubuh rahasia kultivator fisik dalam jumlah kecil.\n Meningkatkan radius persepsi kultivator fisik dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Ear">
+			<DisplayName>Tempered Ears</DisplayName>
+			<Desc>Meningkatkan fungsi dasar telinga melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan penghindaran global penggarap fisik dalam jumlah kecil.\n Meningkatkan akurasi serangan tubuh rahasia penggarap fisik dalam jumlah kecil.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia penggarap fisik dalam jumlah kecil.\n Meningkatkan peluang penindasan artefak dari tubuh rahasia penggarap fisik dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada badan rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Nose">
+			<DisplayName>Tempered Nose</DisplayName>
+			<Desc>Meningkatkan fungsi dasar hidung melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati pada kultivator fisik dalam jumlah kecil.\n Meningkatkan efisiensi pernapasan kultivator fisik dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Mouth">
+			<DisplayName>Tempered Mouth</DisplayName>
+			<Desc>Meningkatkan fungsi dasar mulut melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan tingkat maksimum item yang akan dimakan oleh kultivator fisik sebanyak sedikit.\n Meningkatkan peluang memperoleh esensi dari melahap item dalam jumlah kecil.\n Meningkatkan jumlah esensi yang diperoleh dari melahap item dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Throat">
+			<DisplayName>Tempered Neck</DisplayName>
+			<Desc>Meningkatkan fungsi dasar leher melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati pada kultivator fisik dalam jumlah kecil.\n Meningkatkan efisiensi pernapasan kultivator fisik dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Heart">
+			<DisplayName>Tempered Heart</DisplayName>
+			<Desc>Meningkatkan fungsi dasar jantung melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan tingkat peningkatan kemampuan selama kemarahan kultivator fisik dalam jumlah kecil.\n Meningkatkan tingkat pembentukan kembali kultivator fisik dalam jumlah kecil.\n Meningkatkan tutup pembentukan kembali daging kultivator fisik dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Liver">
+			<DisplayName>Tempered Liver</DisplayName>
+			<Desc>Meningkatkan fungsi dasar hati melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan sedikit tingkat pembentukan kembali kultivator fisik.\n Meningkatkan jumlah esensi yang diperoleh dari melahap item dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Spleen">
+			<DisplayName>Tempered Spleen</DisplayName>
+			<Desc>Meningkatkan fungsi dasar limpa melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan tingkat penyembuhan diri kultivator fisik dengan jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Lung">
+			<DisplayName>Tempered Lungs</DisplayName>
+			<Desc>Meningkatkan fungsi dasar paru-paru melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati pada kultivator fisik dalam jumlah kecil.\n Meningkatkan efisiensi pernapasan kultivator fisik dalam jumlah kecil.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Kidney">
+			<DisplayName>Tempered Kidneys</DisplayName>
+			<Desc>Meningkatkan fungsi dasar ginjal melalui pembentukan kembali. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan sedikit tingkat pemulihan Qi Sejati pada kultivator fisik.\n Meningkatkan batas Qi Sejati pada kultivator fisik sedikit.\n Meningkatkan tingkat perolehan stamina kultivator fisik secara moderat.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Stomach">
+			<DisplayName>Tempered Stomach</DisplayName>
+			<Desc>Meningkatkan fungsi dasar lambung melalui pembentukan kembali. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan sedikit tingkat maksimum item yang akan dimakan oleh penggarap fisik.\n Meningkatkan peluang untuk mendapatkan esensi dari melahap item dalam jumlah kecil.\n Meningkatkan jumlah esensi yang diperoleh dari melahap item dalam jumlah kecil.\n Meningkatkan bonus konsumsi makanan penggarap fisik secara moderat.\n Meningkatkan tingkat perolehan stamina penggarap fisik secara moderat.\n Meningkatkan sedikit tingkat konsumsi True Qi tubuh rahasia.\n Meningkatkan nafsu makan penggarap fisik secara signifikan.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Intestines">
+			<DisplayName>Tempered Intestines</DisplayName>
+			<Desc>Meningkatkan fungsi dasar usus melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan tingkat maksimum item yang akan dimakan oleh penggarap fisik dalam jumlah kecil.\n Meningkatkan peluang untuk mendapatkan esensi dari melahap item dalam jumlah kecil.\n Meningkatkan jumlah esensi yang diperoleh dari melahap item dalam jumlah kecil.\n Meningkatkan bonus konsumsi makanan kultivator fisik secara moderat.\n Meningkatkan tingkat perolehan stamina kultivator fisik secara moderat.\n Meningkatkan sedikit tingkat konsumsi True Qi pada tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv0_Genitals">
+			<DisplayName>Tempered Phallus</DisplayName>
+			<Desc>Meningkatkan fungsi dasar lingga melalui pembentukan ulang. Prosesnya dapat dipercepat dengan menggunakan Life Essence untuk mengubah nasib dan membentuk kembali tubuh.[size=16][color=#D06508]\n Meningkatkan sedikit nilai Mood dasar kultivator fisik.\n Meningkatkan sedikit tingkat konsumsi True Qi tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_F01_All">
+			<DisplayName>Blessed Flesh</DisplayName>
+			<Desc>Memberkati daging dan membuatnya lebih fleksibel dan gesit, yang memiliki peluang lebih besar untuk terjadi selama pembentukan kembali daging secara normal, dan memurnikan dengan Esensi Feng Shui yang Terberkati akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_B01_All">
+			<DisplayName>Sharpened Bone</DisplayName>
+			<Desc>Mempertajam tulang dan membuatnya lebih agresif, yang memiliki kemungkinan lebih besar terjadi selama pembentukan kembali tulang secara normal, dan menyempurnakan dengan Esensi Feng Shui Terkutuklah akan semakin meningkatkan kemungkinan tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan sedikit kekuatan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_B02_All">
+			<DisplayName>Steel Bone</DisplayName>
+			<Desc>Membuat tulang menjadi logam dan membuatnya lebih tahan terhadap kerusakan, yang memiliki peluang lebih besar untuk terjadi selama pembentukan kembali tulang secara normal, dan menyempurnakannya dengan Esensi Feng Shui Terkutuklah akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan sedikit daya tahan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_O01_All">
+			<DisplayName>Vitalized Function</DisplayName>
+			<Desc>Menyegarkan organ untuk memberikan lebih banyak Qi Sejati kepada kultivator fisik, yang memiliki peluang lebih besar untuk terjadi selama pembentukan kembali organ secara normal, dan memurnikan dengan Esensi Feng Shui yang Terberkati akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan sedikit batas Qi Sejati kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_All">
+			<DisplayName>Enhanced Flesh</DisplayName>
+			<Desc>Membuat daging tumbuh lebih kuat dan berubah menjadi otot, yang berpeluang terjadi selama pembentukan kembali daging secara normal, dan memurnikan dengan Esensi Feng Shui Terkutuklah akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F02_All">
+			<DisplayName>Corrosive Blood</DisplayName>
+			<Desc>Membuat darah lebih korosif dan mengalir lebih cepat saat kultivator fisik menyerang, yang memiliki kemungkinan terjadi selama pembentukan kembali daging secara normal, dan memurnikan dengan Esensi Feng Shui Terkutuklah akan semakin meningkatkan kemungkinan tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_All">
+			<DisplayName>Baleful Bone</DisplayName>
+			<Desc>Mengutuk tulang dan membuatnya menembus saat menyerang, yang memiliki kemungkinan terjadi selama pembentukan kembali tulang secara normal, dan menyempurnakan dengan Cursed Feng Shui Essence akan semakin meningkatkan kemungkinan tersebut secara drastis.[size=16][color=#D06508]\n Secara mendasar meningkatkan peluang penetrasi penghalang Qi tubuh rahasia dalam jumlah sedang.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_All">
+			<DisplayName>Void Breath</DisplayName>
+			<Desc>Menciptakan energi ajaib di organ dan menghasilkan Qi Sejati dari udara tipis, yang berpeluang terjadi selama pembentukan kembali organ secara normal, dan memurnikan dengan Esensi Feng Shui yang Terberkati akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan True Qi badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_All">
+			<DisplayName>Vitalized Flesh</DisplayName>
+			<Desc>Menghidupkan daging dan membuatnya tegang saat berada di bawah ancaman, yang memiliki peluang kecil terjadi selama pembentukan kembali daging secara normal, dan memurnikan dengan Esensi Feng Shui yang Terberkati akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Secara mendasar meningkatkan peluang penindasan artefak tubuh rahasia dalam jumlah kecil.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_All">
+			<DisplayName>Psychic Bone</DisplayName>
+			<Desc>Memberkati tulang dan membuatnya lebih fleksibel, yang kecil kemungkinannya terjadi selama pembentukan kembali tulang secara normal, dan menyempurnakannya dengan Esensi Feng Shui yang Terberkati akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_All">
+			<DisplayName>Dire Potential</DisplayName>
+			<Desc>Mengaktifkan potensi organ dan menggunakannya dalam situasi yang mengerikan, yang memiliki peluang kecil terjadi selama pembentukan kembali organ secara normal, dan menyempurnakan dengan Esensi Feng Shui Terkutuklah akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Sedikit mengurangi durasi kondisi lemah kultivator setelah Qi Sejati habis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O02_All">
+			<DisplayName>Innate Restoration</DisplayName>
+			<Desc>Mengintegrasikan energi bawaan dalam organ untuk terus menghasilkan Qi Sejati, yang memiliki peluang kecil terjadi selama pembentukan kembali organ secara normal, dan menyempurnakan dengan Esensi Feng Shui yang Terberkati akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan True Qi kultivator fisik secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_All">
+			<DisplayName>Ancestral Throwback</DisplayName>
+			<Desc>Membangkitkan darah leluhur dan memperkuat daging secara substansial, yang kecil kemungkinannya terjadi selama pembentukan kembali organ secara normal.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah besar.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah besar.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_All">
+			<DisplayName>Ancestral Throwback</DisplayName>
+			<Desc>Membangkitkan darah leluhur dan memperkuat tulang secara substansial, yang kecil kemungkinannya terjadi selama pembentukan kembali organ secara normal.[size=16][color=#D06508]\n Meningkatkan kekuatan rahasia tubuh secara drastis.\n Meningkatkan daya tahan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_All">
+			<DisplayName>Ancestral Throwback</DisplayName>
+			<Desc>Membangkitkan darah leluhur dan memperkuat tulang secara substansial, yang kecil kemungkinannya terjadi selama pembentukan kembali organ secara normal.[size=16][color=#D06508]\n Meningkatkan batas True Qi kultivator fisik secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Jin">
+			<DisplayName>Metal Blessing</DisplayName>
+			<Desc>Mengilhami tubuh dengan energi Logam untuk memberinya efek Logam, yang memiliki kemungkinan kecil terjadi selama pembentukan kembali tubuh secara normal, dan menyempurnakan dengan Inti Logam akan semakin meningkatkan kemungkinan tersebut secara drastis.[size=16][color=#D06508]\n Pada dasarnya meningkatkan sedikit peluang penetrasi penghalang Qi tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Mu">
+			<DisplayName>Wood Blessing</DisplayName>
+			<Desc>Mengilhami tubuh dengan energi Kayu untuk memberinya efek Kayu, yang kecil kemungkinannya terjadi selama pembentukan kembali tubuh secara normal, dan memurnikan dengan Esensi Kayu akan semakin meningkatkan kemungkinan tersebut secara drastis.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Shui">
+			<DisplayName>Water Blessing</DisplayName>
+			<Desc>Mengilhami tubuh dengan energi Air untuk memberinya efek Air, yang memiliki kemungkinan kecil terjadi selama pembentukan kembali tubuh secara normal, dan memurnikan dengan Esensi Air akan semakin meningkatkan kemungkinan tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan sedikit tingkat pemulihan True Qi badan rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Huo">
+			<DisplayName>Fire Blessing</DisplayName>
+			<Desc>Mengilhami tubuh dengan energi Api untuk memberinya efek Api, yang memiliki kemungkinan kecil terjadi selama pembentukan kembali tubuh secara normal, dan menyempurnakan dengan Esensi Api akan semakin meningkatkan kemungkinan tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan sedikit kekuatan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv1_A01_Tu">
+			<DisplayName>Earth Blessing</DisplayName>
+			<Desc>Mengilhami tubuh dengan energi Bumi untuk memberikan efek Bumi, yang memiliki peluang kecil terjadi selama pembentukan kembali tubuh secara normal, dan menyempurnakan dengan Esensi Bumi akan semakin meningkatkan peluang tersebut secara drastis.[size=16][color=#D06508]\n Meningkatkan sedikit daya tahan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Chun">
+			<DisplayName>Regenerative Blood</DisplayName>
+			<Desc>Darah tersebut sampai batas tertentu bersifat regeneratif yang dapat mengurangi biaya True Qi selama penggunaan, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Germination Essence.[size=16][color=#D06508]\n Mengurangi tingkat konsumsi True Qi badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Chun">
+			<DisplayName>Restoring Bone</DisplayName>
+			<Desc>Tulang sampai batas tertentu dapat memulihkan dirinya sendiri untuk mengurangi biaya True Qi selama penggunaan, yang memiliki peluang lebih besar untuk terjadi saat memurnikan tulang dengan Germination Essence.[size=16][color=#D06508]\n Mengurangi tingkat konsumsi True Qi badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Chun">
+			<DisplayName>Metabolic Function</DisplayName>
+			<Desc>Metabolisme organ membantu menghasilkan lebih banyak True Qi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan organ dengan Germination Essence.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan True Qi badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Xia">
+			<DisplayName>Flowing Blood</DisplayName>
+			<Desc>Darah yang mengalir lebih cepat membuat tubuh lebih lincah, hal ini lebih berpeluang terjadi saat memurnikan daging dengan Blossom Essence.[size=16][color=#D06508]\n Meningkatkan sedikit akurasi serangan tubuh rahasia.\n Meningkatkan sedikit tingkat keberhasilan pertahanan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Xia">
+			<DisplayName>Sprouting Bone</DisplayName>
+			<Desc>Menumbuhkan lebih lanjut tulang untuk meningkatkan kekuatannya, yang memiliki peluang lebih besar untuk terjadi saat menyempurnakan tulang dengan Blossom Essence.[size=16][color=#D06508]\n Meningkatkan sedikit kekuatan tubuh rahasia.\n Meningkatkan sedikit daya tahan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>Activated Function</DisplayName>
+			<Desc>Mengaktifkan fungsi organ untuk kinerja yang lebih baik pada saat kritis, yang memiliki peluang lebih besar untuk terjadi saat menyempurnakan organ dengan Blossom Essence.[size=16][color=#D06508]\n Meningkatkan sedikit tingkat peningkatan kemampuan selama kemarahan kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Qiu">
+			<DisplayName>Withering Blood</DisplayName>
+			<Desc>Mengubah darah menjadi korosif, namun sifat korosifnya akan berdampak negatif terhadap ketahanan terhadap kerusakan. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Withering Essence.[size=16][color=#D06508]\n Meningkatkan sedikit peluang penetrasi penghalang Qi tubuh rahasia.\n Mengurangi sedikit daya tahan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Qiu">
+			<DisplayName>Harrowing Bone</DisplayName>
+			<Desc>Mengubah struktur tulang untuk meningkatkan kekuatan instannya, namun sementara itu, beberapa ketahanan terhadap kerusakan akan hilang. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Withering Essence.[size=16][color=#D06508]\n Meningkatkan kekuatan rahasia tubuh secara moderat.\n Mengurangi sedikit daya tahan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Qiu">
+			<DisplayName>Smooth Function</DisplayName>
+			<Desc>Mengaktifkan seluruh fungsi organ, tetapi juga akan menggunakan terlalu banyak energi rahasia tubuh dan berdampak negatif terhadap ketahanan terhadap kerusakan. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Withering Essence.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati tubuh rahasia secara drastis.\n Mengurangi sedikit daya tahan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>Resting Blood</DisplayName>
+			<Desc>Memperlambat aliran darah dan mengurangi kecepatan reaksi, namun kekuatan instan akan meningkat pada saat kritis. Perubahan ini lebih berpeluang terjadi ketika menyempurnakan organ dengan Reversion Essence.[size=16][color=#D06508]\n Meningkatkan kekuatan rahasia tubuh secara moderat.\n Mengurangi sedikit daya tahan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>Receding Bone</DisplayName>
+			<Desc>Mengubah struktur tulang untuk mengurangi sebagian kekuatannya, tetapi kekuatan instan akan ditingkatkan pada saat kritis. Perubahan ini lebih berpeluang terjadi ketika menyempurnakan organ dengan Reversion Essence.[size=16][color=#D06508]\n Mengurangi sedikit kekuatan tubuh rahasia.\n Mengurangi sedikit daya tahan tubuh rahasia.\n Meningkatkan tingkat peningkatan kemampuan selama mengamuknya kultivator fisik secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>Reverted Function</DisplayName>
+			<Desc>Menahan fungsi organ dan mengurangi efisiensi pembangkitan Qi Sejati, tetapi kekuatan instan akan meningkat pada saat kritis. Perubahan ini lebih berpeluang terjadi ketika menyempurnakan organ dengan Reversion Essence.[size=16][color=#D06508]\n Mengurangi tingkat pemulihan Qi Sejati tubuh rahasia secara moderat.\n Meningkatkan tingkat peningkatan kemampuan selama mengamuknya kultivator fisik secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_DaYaoYuanJing">
+			<DisplayName>Bestial Flesh</DisplayName>
+			<Desc>Dagingnya bermutasi setelah terkorosi oleh kekuatan Yaoguai, yang secara drastis meningkatkan kecepatan reaksi tetapi juga membuatnya lebih sulit dikendalikan. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Yaoguai Essence.[size=16][color=#D06508]\n Meningkatkan akurasi serangan tubuh rahasia secara moderat.\n Mengurangi sedikit tingkat keberhasilan pertahanan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_DaYaoYuanJing">
+			<DisplayName>Bestial Bone</DisplayName>
+			<Desc>Tulangnya bermutasi setelah terkorosi oleh kekuatan Yaoguai, yang secara drastis meningkatkan kekuatan tetapi juga membuatnya lebih sulit untuk digerakkan. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Yaoguai Essence.[size=16][color=#D06508]\n Meningkatkan sedikit peluang penetrasi penghalang Qi tubuh rahasia.\n Meningkatkan sedikit tingkat konsumsi Qi Sejati tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>Bestial Organ</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi setelah terkorosi oleh kekuatan Yaoguai, yang secara drastis meningkatkan kemampuannya tetapi juga merusak sumbernya. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Yaoguai Essence.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan True Qi tubuh rahasia secara moderat.\n Mengurangi batas True Qi kultivator fisik secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F02_DaYaoYuanJing">
+			<DisplayName>Unhinged Blood</DisplayName>
+			<Desc>Dagingnya bermutasi setelah terkorosi oleh kekuatan Yaoguai dan dipenuhi dengan kekuatan. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Yaoguai Essence.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara moderat.\n Mengurangi sedikit akurasi serangan tubuh rahasia.\n Mengurangi sedikit tingkat keberhasilan pertahanan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B02_DaYaoYuanJing">
+			<DisplayName>Unhinged Bone</DisplayName>
+			<Desc>Tulang-tulang tersebut bermutasi setelah terkorosi oleh kekuatan Yaoguai dan menjadi dipenuhi dengan kekuatan. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Yaoguai Essence.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara moderat.\n Mengurangi sedikit akurasi serangan tubuh rahasia.\n Mengurangi sedikit tingkat keberhasilan pertahanan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O02_DaYaoYuanJing">
+			<DisplayName>Unhinged Function</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi setelah terkorosi oleh kekuatan Yaoguai dan sekarang dapat menciptakan True Qi yang bermutasi dan sangat agresif. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Yaoguai Essence.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara moderat.\n Mengurangi sedikit akurasi serangan tubuh rahasia.\n Mengurangi sedikit tingkat keberhasilan pertahanan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_GuShouJingXue">
+			<DisplayName>Unbridled Flesh</DisplayName>
+			<Desc>Daging bermutasi dan memperoleh kesadaran naluri, yang menurunkan kendali dan mengurangi kekuatan dan daya tahan rahasia tubuh, tetapi juga membantu tubuh bereaksi terhadap berbagai situasi dengan tepat. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Binatang Kuno.[size=16][color=#D06508]\n Mengurangi kekuatan tubuh rahasia secara moderat.\n Mengurangi daya tahan tubuh rahasia secara moderat.\n Meningkatkan akurasi serangan tubuh rahasia secara drastis.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.\n Meningkatkan peluang penekanan artefak tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_GuShouGuFen">
+			<DisplayName>Wild Bone</DisplayName>
+			<Desc>Tulangnya bermutasi dan tumbuh seperti binatang buas purba, yang sangat sulit dikendalikan oleh seorang kultivator fisik normal, tetapi peningkatan kekuatannya sungguh luar biasa. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Binatang Kuno.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara drastis.\n Mengurangi akurasi serangan tubuh rahasia secara moderat.\n Mengurangi tingkat keberhasilan pertahanan tubuh rahasia secara moderat.\n Mengurangi peluang penekanan artefak tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_SiHunZhiXi">
+			<DisplayName>Inactivating Flesh</DisplayName>
+			<Desc>Daging bermutasi dan menghasilkan Qi Sejati yang menonaktifkan fungsi. Perubahan ini lebih berpeluang terjadi saat memurnikan daging dengan Wraith Breath.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara moderat.\n Meningkatkan sedikit peluang penetrasi penghalang Qi tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_SiHunZhiXi">
+			<DisplayName>Bloodthirsty Muscle</DisplayName>
+			<Desc>Daging bermutasi dan kapiler darah mati, sehingga otot menjadi bersemangat untuk mengambil darah dari luar dan karenanya menjadi sangat agresif. Perubahan ini lebih berpeluang terjadi saat memurnikan daging dengan Wraith Breath.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara moderat.\n Meningkatkan akurasi serangan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F02_SiHunZhiXi">
+			<DisplayName>Senseless Skin</DisplayName>
+			<Desc>Permukaan daging mengalami keratinisasi dan kehilangan sebagian besar indera, yang membuat penghalang tersebut lebih kuat dan tahan terhadap kerusakan normal. Perubahan ini lebih berpeluang terjadi saat memurnikan daging dengan Wraith Breath.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia secara moderat.\n Meningkatkan peluang penekanan artefak tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_SiHunZhiXi">
+			<DisplayName>Gray Bone</DisplayName>
+			<Desc>Tulangnya terkorosi oleh orang mati dan menjadi abu-abu, yang dapat mengaktifkan True Qi dengan kekuatan lemah. Perubahan ini lebih berpeluang terjadi saat memurnikan tulang dengan Wraith Breath.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia secara moderat.\n Meningkatkan sedikit tingkat keberhasilan pertahanan tubuh rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_SiHunZhiXi">
+			<DisplayName>Hollow Bone</DisplayName>
+			<Desc>Tulang bermutasi dan menjadi berlubang di dalamnya, yang meningkatkan kelincahan secara drastis. Perubahan ini lebih berpeluang terjadi saat memurnikan tulang dengan Wraith Breath.[size=16][color=#D06508]\n Meningkatkan akurasi serangan tubuh rahasia secara moderat.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_SiHunZhiXi">
+			<DisplayName>Rotten Organ</DisplayName>
+			<Desc>Organ-organ tersebut mengalami mutasi nekrotikans yang dapat menghasilkan True Qi yang sangat korosif. Perubahan ini lebih berpeluang terjadi saat memurnikan tulang dengan Wraith Breath.[size=16][color=#D06508]\n Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>Void Breath</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi setelah melawan korosi orang mati dan dapat memberikan energi misterius yang dihasilkan dari kehampaan. Perubahan ini lebih berpeluang terjadi saat menyempurnakan organ dengan Wraith Breath.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan True Qi kultivator fisik secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_F01_WuHuiJingHua">
+			<DisplayName>Mutator Tissues</DisplayName>
+			<Desc>Daging bermutasi di bawah rangsangan yang keras dan menumbuhkan banyak jaringan granulasi yang menempel. Perubahan ini lebih berpeluang terjadi ketika memurnikan daging dengan Filth Essence.[size=16][color=#D06508]\n Meningkatkan peluang penindasan artefak badan rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_WuHuiJingHua">
+			<DisplayName>Parasite Eyes</DisplayName>
+			<Desc>Daging bermutasi di bawah rangsangan yang keras dan menumbuhkan banyak mata yang peka. Perubahan ini lebih berpeluang terjadi ketika memurnikan daging dengan Filth Essence.[size=16][color=#D06508]\n Meningkatkan akurasi serangan tubuh rahasia secara drastis.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>Demonic Pattern</DisplayName>
+			<Desc>Tulang bermutasi di bawah rangsangan yang keras dan menumbuhkan banyak pola setan dan aneh, yang secara drastis meningkatkan toleransi saat mengamuk. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Filth Essence.[size=16][color=#D06508]\n Meningkatkan sedikit durasi kemarahan kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_WuHuiJingHua">
+			<DisplayName>Devouring Bone</DisplayName>
+			<Desc>Tulang bermutasi di bawah rangsangan yang keras dan menjadi haus akan energi, yang lebih sulit dikendalikan tetapi juga dapat melemahkan penghalang Qi musuh dengan lebih baik. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Filth Essence.[size=16][color=#D06508]\n Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia secara drastis.\n Meningkatkan tingkat konsumsi Qi Sejati tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B02_WuHuiJingHua">
+			<DisplayName>External Deformity</DisplayName>
+			<Desc>Tulang bermutasi di bawah rangsangan yang keras, menembus daging dan membentuk struktur eksternal yang terdistorsi, yang memengaruhi kontrol tetapi juga meningkatkan kekuatan secara drastis. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Filth Essence.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia secara drastis.\n Mengurangi akurasi serangan tubuh rahasia secara moderat.\n Mengurangi tingkat keberhasilan pertahanan tubuh rahasia secara moderat.\n Mengurangi peluang penekanan artefak tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>Internal Deformity</DisplayName>
+			<Desc>Organ-organ bermutasi di bawah rangsangan keras dan menumbuhkan jaringan yang menghasilkan True Qi secara reaktif. Perubahan ini lebih berpeluang terjadi ketika menyempurnakan organ dengan Filth Essence.[size=16][color=#D06508]\n Mengurangi sedikit durasi kondisi lemah kultivator setelah True Qi habis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_WuHuiJingHua">
+			<DisplayName>Split Organ</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi di bawah rangsangan yang keras dan terpecah menjadi beberapa bagian, yang lebih menuntut tubuh tetapi dapat secara drastis meningkatkan ketahanannya terhadap kerusakan. Perubahan ini lebih berpeluang terjadi ketika menyempurnakan organ dengan Filth Essence.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia secara moderat.\n Meningkatkan tingkat konsumsi True Qi tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_WuXingZhiJing">
+			<DisplayName>Invisible Flesh</DisplayName>
+			<Desc>Daging secara bertahap berubah menjadi sesuatu yang tidak terlihat, yang mengurangi kekuatannya tetapi menyulitkan orang lain untuk memperhatikan detail gerakan tubuh. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Ethereal Essence.[size=16][color=#D06508]\n Mengurangi kekuatan tubuh rahasia secara moderat.\n Meningkatkan akurasi serangan tubuh rahasia secara moderat.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_WuXingZhiJing">
+			<DisplayName>Shapeshifting Bone</DisplayName>
+			<Desc>Tulang secara bertahap menjadi lentur dan mampu berubah bentuk sesuai keinginan, yang mengurangi kekuatan namun membantu mencapai keterampilan yang lebih sulit. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Ethereal Essence.[size=16][color=#D06508]\n Mengurangi kekuatan tubuh rahasia secara moderat.\n Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia secara moderat.\n Meningkatkan peluang penekanan artefak tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>Elusive Energy</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi dan menghasilkan energi yang tidak terlihat dan sulit dipahami di sekitarnya. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Ethereal Essence.[size=16][color=#D06508]\n Meningkatkan sedikit penghindaran global kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_JiaoLongYuanJing">
+			<DisplayName>Dragon Scaling</DisplayName>
+			<Desc>Dagingnya bermutasi dan menumbuhkan sisik naga. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Naga Banjir.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_JiaoLongYuanJing">
+			<DisplayName>Dragonesque Bone</DisplayName>
+			<Desc>Tulangnya bermutasi dan membentuk pola seperti tanduk naga. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Esensi Naga Banjir.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_JiaoLongYuanJing">
+			<DisplayName>Thunderstruck Breath</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi dan mampu menghasilkan Qi Sejati yang digabungkan dengan kekuatan guntur yang kuat dan mematikan. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan organ dengan Esensi Naga Banjir.[size=16][color=#D06508]\n Meningkatkan peluang penindasan artefak badan rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_XiongFengYuanJing">
+			<DisplayName>Blazing Blood</DisplayName>
+			<Desc>Dagingnya bermutasi dan menjadi sangat panas dan agresif seolah menyatu dengan darah burung phoenix. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Phoenix Essence.[size=16][color=#D06508]\n Meningkatkan akurasi serangan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_XiongFengYuanJing">
+			<DisplayName>Imperishable Bone</DisplayName>
+			<Desc>Tulang-tulangnya bermutasi dan menjadi keras namun ringan dan lapang seperti tulang burung phoenix. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Phoenix Essence.[size=16][color=#D06508]\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_XiongFengYuanJing">
+			<DisplayName>Firestruck Breath</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi dan menghasilkan True Qi misterius yang dapat terus menerus membakar target seperti api. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Phoenix Essence.[size=16][color=#D06508]\n Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_ZhuLongYuanJing">
+			<DisplayName>Phantom Blood</DisplayName>
+			<Desc>Darah bermutasi dan menjadi gelap seperti tinta setelah menyatu dengan energi Yin yang sedingin es. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Torch Dragon Essence.[size=16][color=#D06508]\n Mengurangi daya tahan tubuh rahasia secara moderat.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F02_ZhuLongYuanJing">
+			<DisplayName>Luminous Muscle</DisplayName>
+			<Desc>Otot bermutasi dan menjadi bercahaya dengan True Qi sebagai stimulus setelah bergabung dengan energi Yang murni. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Torch Dragon Essence.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia secara drastis.\n Mengurangi tingkat keberhasilan pertahanan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_ZhuLongYuanJing">
+			<DisplayName>Infernal Bone</DisplayName>
+			<Desc>Tulang-tulang tersebut bermutasi dan mengumpulkan energi jiwa-jiwa jahat yang dapat meledak bila diperlukan. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Torch Dragon Essence.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia secara drastis.\n Mengurangi akurasi serangan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B02_ZhuLongYuanJing">
+			<DisplayName>Benevolent Bone</DisplayName>
+			<Desc>Tulang-tulang tersebut bermutasi dan memupuk kebaikan di dalam, yang kehilangan sebagian kekuatannya tetapi memperoleh manfaat stabilitas. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Torch Dragon Essence.[size=16][color=#D06508]\n Mengurangi kekuatan tubuh rahasia secara moderat.\n Meningkatkan akurasi serangan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>Yin-Yang Rotation</DisplayName>
+			<Desc>Organ-organ tersebut bermutasi dan kemudian menghasilkan dua bentuk Qi Sejati yang berputar antara Yin dan Yang dan bertahan untuk jangka waktu yang sangat lama, namun akan sulit untuk pulih setelah habis. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan organ dengan Torch Dragon Essence.[size=16][color=#D06508]\n Meningkatkan tingkat pemulihan Qi Sejati kultivator fisik.\n Meningkatkan durasi kondisi lemah kultivator fisik setelah kehabisan Qi Sejati secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O02_ZhuLongYuanJing">
+			<DisplayName>Good and Evil</DisplayName>
+			<Desc>Organ-organ bermutasi dan menghasilkan energi baik dan jahat, yang terus berbenturan satu sama lain dan membuat fungsi organ kelebihan beban. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan organ dengan Torch Dragon Essence.[size=16][color=#D06508]\n Meningkatkan tingkat konsumsi True Qi tubuh rahasia secara drastis.\n Meningkatkan tingkat pemulihan True Qi tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_YongJiJingSui">
+			<DisplayName>Rejected Flesh</DisplayName>
+			<Desc>Dagingnya bermutasi secara aneh dan ditolak oleh bagian tubuh yang lain, sehingga menyebabkan nekrosis jaringan lokal. Perubahan ini lebih berpeluang terjadi ketika memurnikan daging dengan Esensi Abadi.[size=16][color=#D06508]\n Mengurangi sedikit kinerja tubuh rahasia.\n Meningkatkan sedikit tutup pembentukan kembali daging kultivator fisik.\n Menunda Kesengsaraan Surgawi berikutnya secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_YongJiJingSui">
+			<DisplayName>Rejected Bone</DisplayName>
+			<Desc>Tulang-tulang tersebut bermutasi secara aneh dan ditolak oleh bagian tubuh yang lain, sehingga menyebabkan nekrosis jaringan lokal. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Esensi Abadi.[size=16][color=#D06508]\n Mengurangi sedikit kinerja badan rahasia.\n Meningkatkan sedikit batas pembentukan kembali tulang kultivator fisik.\n Menunda Kesengsaraan Surgawi berikutnya secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_YongJiJingSui">
+			<DisplayName>Rejected Power</DisplayName>
+			<Desc>Organ-organ tersebut secara aneh bermutasi dan ditolak oleh bagian tubuh lainnya, sehingga menyebabkan nekrosis jaringan lokal. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Everating Essence.[size=16][color=#D06508]\n Mengurangi sedikit kinerja tubuh rahasia.\n Meningkatkan sedikit tutup pembentukan ulang organ kultivator fisik.\n Menunda Kesengsaraan Surgawi berikutnya secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXJin">
+			<DisplayName>Thunderous Flesh</DisplayName>
+			<Desc>Daging bertransformasi dengan energi Logam surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Logam Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.\n Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXJin">
+			<DisplayName>Metalized Bone</DisplayName>
+			<Desc>Tulang bertransformasi dengan energi Logam surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Esensi Logam Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.\n Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXJin">
+			<DisplayName>Ironside Organ</DisplayName>
+			<Desc>Organ-organ bertransformasi dengan energi Logam surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan organ-organ dengan Esensi Logam Bawaan.[size=16][color=#D06508]\n Melemahkan kerusakan Kayu yang diterima oleh badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXMu">
+			<DisplayName>Tendril Flesh</DisplayName>
+			<Desc>Daging bertransformasi dengan energi Kayu surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Kayu Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.\n Meningkatkan akurasi serangan tubuh rahasia secara drastis.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXMu">
+			<DisplayName>Ligneous Bone</DisplayName>
+			<Desc>Tulang bertransformasi dengan energi Kayu surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Esensi Kayu Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.\n Meningkatkan akurasi serangan tubuh rahasia secara drastis.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXMu">
+			<DisplayName>Elm Organ</DisplayName>
+			<Desc>Organ-organ bertransformasi dengan energi Kayu surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan organ-organ dengan Esensi Kayu Bawaan.[size=16][color=#D06508]\n Melemahkan kerusakan Bumi yang diterima oleh badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXShui">
+			<DisplayName>Tidal Blood</DisplayName>
+			<Desc>Daging bertransformasi dengan energi Air surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Air Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.\n Meningkatkan tingkat pemulihan True Qi tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXShui">
+			<DisplayName>Cloudburst Bone</DisplayName>
+			<Desc>Tulang bertransformasi dengan energi Air surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Esensi Air Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.\n Meningkatkan tingkat pemulihan True Qi tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXShui">
+			<DisplayName>Equable Organ</DisplayName>
+			<Desc>Organ-organ bertransformasi dengan energi Air surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan organ-organ dengan Esensi Air Bawaan.[size=16][color=#D06508]\n Melemahkan kerusakan Api yang diterima oleh badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXHuo">
+			<DisplayName>Fervid Blood</DisplayName>
+			<Desc>Daging bertransformasi dengan energi Api surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Api Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.\n Meningkatkan kekuatan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXHuo">
+			<DisplayName>Burnished Bone</DisplayName>
+			<Desc>Tulang bertransformasi dengan energi Api surgawi, yang memiliki peluang lebih besar untuk terjadi saat memurnikan tulang dengan Esensi Api Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan rahasia tubuh dalam jumlah kecil.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.\n Meningkatkan kekuatan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXHuo">
+			<DisplayName>Ardent Organ</DisplayName>
+			<Desc>Organ-organ bertransformasi dengan energi Api surgawi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan organ-organ dengan Esensi Api bawaan.[size=16][color=#D06508]\n Melemahkan kerusakan Logam yang diterima oleh badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_EXTu">
+			<DisplayName>Dust Flesh</DisplayName>
+			<Desc>Daging bertransformasi dengan energi surgawi Bumi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan daging dengan Esensi Bumi Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia dalam jumlah kecil.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah kecil.\n Meningkatkan daya tahan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_EXTu">
+			<DisplayName>Rockbound Bone</DisplayName>
+			<Desc>Tulang bertransformasi dengan energi surgawi Bumi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan tulang dengan Esensi Bumi Bawaan.[size=16][color=#D06508]\n Secara mendasar meningkatkan kekuatan rahasia tubuh dalam jumlah kecil.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah kecil.\n Meningkatkan daya tahan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_EXTu">
+			<DisplayName>Stoneshield Organ</DisplayName>
+			<Desc>Organ-organ bertransformasi dengan energi surgawi Bumi, yang memiliki peluang lebih besar untuk terjadi ketika memurnikan organ-organ dengan Esensi Bumi Bawaan.[size=16][color=#D06508]\n Melemahkan kerusakan Air yang diterima oleh badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_TaiYangJingHua">
+			<DisplayName>Sunray Blood</DisplayName>
+			<Desc>Darah bermutasi dan memancarkan sinar cahaya yang bersinar. Perubahan ini lebih berpeluang terjadi ketika memurnikan daging dengan Solar Essence.[size=16][color=#D06508]\n Meningkatkan tingkat pembentukan ulang kultivator fisik secara moderat.\n Meningkatkan akurasi serangan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_TaiYangJingHua">
+			<DisplayName>Ablaze Bone</DisplayName>
+			<Desc>Tulang-tulang tersebut bermutasi dan mengeluarkan energi yang membara dari dalam, seolah-olah terbakar dengan api yang tak terlihat. Perubahan ini lebih berpeluang terjadi saat memurnikan tulang dengan Solar Essence.[size=16][color=#D06508]\n Meningkatkan tingkat pembentukan kembali kultivator fisik secara moderat.\n Meningkatkan kekuatan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>Solar Breath</DisplayName>
+			<Desc>Sebuah rongga dibuat di dalam organ, yang menghasilkan energi seperti mikro matahari untuk memberikan Qi Sejati yang kuat dan bertenaga untuk mengamuk. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Solar Essence.[size=16][color=#D06508]\n Meningkatkan tingkat pembentukan ulang kultivator fisik secara moderat.\n Meningkatkan tingkat peningkatan kemampuan selama kemarahan kultivator fisik secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_F01_TaiYinJingHua">
+			<DisplayName>Lunafrost Flesh</DisplayName>
+			<Desc>Dagingnya berevolusi dan menjadi berkilauan dan tembus cahaya seolah-olah berjemur di bawah sinar bulan. Perubahan ini lebih berpeluang terjadi ketika memurnikan daging dengan Lunar Essence.[size=16][color=#D06508]\n Meningkatkan penghindaran global kultivator fisik secara moderat.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_B01_TaiYinJingHua">
+			<DisplayName>Icebound Bone</DisplayName>
+			<Desc>Tulang berevolusi dan mengeluarkan udara dingin dari dalam seolah sumsumnya telah berubah menjadi es. Perubahan ini lebih berpeluang terjadi saat memurnikan tulang dengan Lunar Essence.[size=16][color=#D06508]\n Meningkatkan penghindaran global kultivator fisik secara moderat.\n Meningkatkan daya tahan tubuh rahasia secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv3_O01_TaiYinJingHua">
+			<DisplayName>Lunar Breath</DisplayName>
+			<Desc>Sebuah rongga tercipta di dalam organ, yang menghasilkan Qi Sejati yang dapat menenangkan energi yang membara. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Lunar Essence.[size=16][color=#D06508]\n Meningkatkan penghindaran global kultivator fisik secara moderat.\n Melemahkan kerusakan elemen yang diterima oleh badan rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_JieMieJingHua">
+			<DisplayName>Force of Destruction</DisplayName>
+			<Desc>Tubuh bermutasi dengan energi Pengakuan Iman Surga dan menghancurkan segalanya tanpa ampun. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan tubuh dengan Essence Kesengsaraan.[size=16][color=#D06508]\n Meningkatkan kekuatan tubuh rahasia dalam jumlah besar.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_JieMieJingHua">
+			<DisplayName>Force of Creed</DisplayName>
+			<Desc>Tubuh bermutasi dengan energi Pengakuan Iman Surga dan berubah menjadi keadilan itu sendiri yang mengintimidasi semua kejahatan. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan tubuh dengan Essence Kesengsaraan.[size=16][color=#D06508]\n Meningkatkan daya tahan tubuh rahasia dalam jumlah besar.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>Heavenly Unison</DisplayName>
+			<Desc>Tubuh bermutasi dengan energi Pengakuan Iman Surga dan menyatu dengan cahaya surga dan debu bumi. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan tubuh dengan Essence Kesengsaraan.[size=16][color=#D06508]\n Meningkatkan efisiensi pernapasan kultivator fisik secara drastis.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_JiuYangZhenHua">
+			<DisplayName>Firebringer Blood</DisplayName>
+			<Desc>Darah bercampur dengan gabungan energi Yang dan menjadi merah tua dan kental seperti krim. Perubahan ini lebih berpeluang terjadi ketika memurnikan daging dengan Ignis Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Secara mendasar meningkatkan akurasi serangan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_JiuYangZhenHua">
+			<DisplayName>Igneous Bone</DisplayName>
+			<Desc>Tulang-tulang tersebut bertransformasi dengan energi Yang Besar dan setiap incinya dikelilingi oleh sembilan api suci. Perubahan ini lebih berpeluang terjadi saat memurnikan tulang dengan Ignis Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Secara mendasar meningkatkan kekuatan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_JiuYangZhenHua">
+			<DisplayName>Furnace Breath</DisplayName>
+			<Desc>Organ-organ tersebut mengalami perubahan drastis di dalam dan menyempurnakan Qi Sejati seolah-olah menempa tembaga menjadi baja dalam tungku besar. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ dengan Ignis Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Secara mendasar meningkatkan peluang penetrasi penghalang Qi tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_F01_XuanYueZhenJing">
+			<DisplayName>Crystalline Flesh</DisplayName>
+			<Desc>Daging menyatu dengan gabungan energi Yin dan menjadi seperti kristal. Perubahan ini lebih berpeluang terjadi ketika memurnikan daging dengan Aqualuna Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Secara mendasar meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_B01_XuanYueZhenJing">
+			<DisplayName>Emerald Bone</DisplayName>
+			<Desc>Tulang berubah dengan energi Yin Besar dan menjadi seperti zamrud dan batu giok dengan titik cahaya berpola spiral. Perubahan ini lebih berpeluang terjadi ketika memurnikan tulang dengan Aqualuna Essence.[size=16][color=#D06508]\n Meningkatkan kinerja rahasia tubuh secara moderat.\n Secara mendasar meningkatkan daya tahan tubuh rahasia secara moderat.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_O01_XuanYueZhenJing">
+			<DisplayName>Occult Breath</DisplayName>
+			<Desc>Struktur internal organ mengubah dan menciptakan sembilan rongga dengan energi Yin sejati yang menghasilkan Qi Sejati yang dapat dilawan. Perubahan ini lebih berpeluang terjadi ketika memurnikan organ tubuh dengan Aqualuna Essence.[size=16][color=#D06508]\n Meningkatkan kinerja badan rahasia secara moderat.\n Secara mendasar meningkatkan peluang penekanan artefak badan rahasia.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>Void Force</DisplayName>
+			<Desc>Tubuh secara misterius terhubung dengan asal mula waktu, Kekosongan Ilahi, dan dengan demikian gelombang Kekuatan Kekosongan dicampur ke dalam Qi Sejati di dalamnya. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan tubuh dengan Illusion Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Meningkatkan sedikit kekuatan tubuh rahasia kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>Acupoint Force</DisplayName>
+			<Desc>Tubuh secara misterius terhubung dengan asal mula ruang, Titik Bumi, dan dengan demikian gelombang Kekuatan Titik Akupuntur dipadukan ke dalam Qi Sejati di dalamnya. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan tubuh dengan Illusion Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Meningkatkan sedikit daya tahan tubuh rahasia kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>Impermanence Force</DisplayName>
+			<Desc>Tubuh secara misterius terhubung dengan kekuatan kekacauan dan dengan demikian memperoleh sedikit kemampuan untuk membentuk elemen dan makhluk. Perubahan ini memiliki peluang lebih besar untuk terjadi ketika menyempurnakan tubuh dengan Illusion Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Meningkatkan sedikit peluang penekanan artefak pada tubuh rahasia kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>Astral Force</DisplayName>
+			<Desc>Tubuh secara misterius terhubung dengan semua bintang di alam semesta dan dengan demikian pancaran cahaya bintang tercampur ke dalam Qi Sejati di dalamnya. Perubahan ini lebih berpeluang terjadi ketika memurnikan tubuh dengan Nimbus Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Meningkatkan sedikit akurasi serangan tubuh rahasia kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>Enclosure Force</DisplayName>
+			<Desc>Tubuh tersebut secara misterius terhubung ke Tiga Penutup, yaitu, Terlarang Ungu, Istana Tertinggi, dan Pasar Surgawi, dan dengan demikian gelombang Kekuatan Penutup dicampur ke dalam Qi Sejati di dalamnya. Perubahan ini lebih berpeluang terjadi ketika memurnikan tubuh dengan Nimbus Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Meningkatkan sedikit tingkat keberhasilan pertahanan tubuh rahasia kultivator fisik.[/color][/size]</Desc>
+		</Text>
+		<Text Name="QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>Insulation Force</DisplayName>
+			<Desc>Tubuh secara misterius terhubung dengan kekuatan kekacauan dan dengan demikian memperoleh sedikit kemampuan untuk memisahkan diri dari semua elemen dan makhluk. Perubahan ini lebih berpeluang terjadi ketika memurnikan tubuh dengan Nimbus Essence.[size=16][color=#D06508]\n Meningkatkan kinerja tubuh rahasia secara moderat.\n Meningkatkan sedikit peluang penetrasi penghalang Qi dari tubuh rahasia kultivator fisik.[/color][/size]</Desc>
+		</Text>
+	</List>
+</Texts>
