@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LeatherBase" sParam="Item">
+			<Item.FabaoSuffix>Leather, Cover, Barrier</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BoarLeather" sParam="Item">
+			<ThingName>Boar Hide</ThingName>
+			<Desc>Kulit babi hutan memiliki tekstur yang kasar, namun relatif kencang.</Desc>
+			<Item.BeMaterial.NamePrefix>Boar Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RabbitLeather" sParam="Item">
+			<ThingName>Rabbit Hide</ThingName>
+			<Desc>Bulu kelinci sangat lembut dan hangat.</Desc>
+			<Item.BeMaterial.NamePrefix>Rabbit Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BearLeather" sParam="Item">
+			<ThingName>Bear Hide</ThingName>
+			<Desc>Bulu beruang sangat lembut dan hangat.</Desc>
+			<Item.BeMaterial.NamePrefix>Bear Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WolfLeather" sParam="Item">
+			<ThingName>Wolf Hide</ThingName>
+			<Desc>Sepotong kulit serigala, kokoh dan tahan lama.</Desc>
+			<Item.BeMaterial.NamePrefix>Wolf Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_FeiLeather" sParam="Item">
+			<ThingName>Fei Hide</ThingName>
+			<Desc>Sembunyikan binatang iblis Fei dengan kekuatan magis yang bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi.</Desc>
+			<Item.BeMaterial.NamePrefix>Fei Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LuShuLeather" sParam="Item">
+			<ThingName>Lushu Hide</ThingName>
+			<Desc>Sembunyikan roh binatang Lushu, dengan kekuatan magis yang bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi.</Desc>
+			<Item.BeMaterial.NamePrefix>Lushu Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CattleLeather" sParam="Item">
+			<ThingName>Bull Hide</ThingName>
+			<Desc>Sepotong kulit banteng, kokoh dan tahan lama.</Desc>
+			<Item.BeMaterial.NamePrefix>Bull Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_TigerLeather" sParam="Item">
+			<ThingName>Tiger Hide</ThingName>
+			<Desc>Sepotong kulit harimau, kokoh dan tahan lama.</Desc>
+			<Item.BeMaterial.NamePrefix>Tiger Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather" sParam="Item">
+			<ThingName>Demon Beast Hide</ThingName>
+			<Desc>Sembunyikan binatang iblis, dengan kekuatan iblis bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi.</Desc>
+			<Item.BeMaterial.NamePrefix>Demon Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather1" sParam="Item">
+			<ThingName>Tough Demon Beast Hide</ThingName>
+			<Desc>Sembunyikan binatang iblis besar, dengan kekuatan iblis yang kuat bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi secara efektif.</Desc>
+			<Item.BeMaterial.NamePrefix>Tough Demon Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
